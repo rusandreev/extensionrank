@@ -1,18 +1,27 @@
 import React from 'react';
+import styled from 'styled-components';
 
 import extensions from '../rank.json';
+import Extension from './Extension';
 
 function ExtensionList() {
   return (
     <div>
       ExtensionList
-      {extensions.map(ext => {
-        return (
-            <div key={ext.name}>{ext.name}</div>
-        )
-      })}
+      <ExtensionsWrapper>
+        {extensions.slice(0, 3).map(ext => {
+            return (
+                <Extension {...ext} key={ext.url} />
+            )
+        })}
+      </ExtensionsWrapper>
     </div>
   );
 }
 
 export default ExtensionList;
+
+const ExtensionsWrapper = styled.div`
+    display: flex;
+    flex-wrap: wrap;
+`;
