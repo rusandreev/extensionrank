@@ -9,7 +9,7 @@ function ExtensionList() {
     <div>
       ExtensionList
       <ExtensionsWrapper>
-        {extensions.slice(0, 3).map(ext => {
+        {extensions.slice(0, 100).map(ext => {
             return (
                 <Extension {...ext} key={ext.url} />
             )
