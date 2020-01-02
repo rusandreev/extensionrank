@@ -8,7 +8,6 @@ function ExtensionList() {
   const [count, setCount] = useState(100);
   return (
     <div>
-      ExtensionList
       <ExtensionsWrapper>
         {extensions.slice(0, count).map(ext => {
             return (

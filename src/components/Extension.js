@@ -30,7 +30,7 @@ function Extension(props) {
       </Top>
       {!hidden && <Bottom>
         {description.replace(/&quot;/g, '"')}
-        <a href={url} target="_blank" rel="noopener norefferer">webstore</a>
+        <a href={url} target="_blank" rel="noopener noreferrer">webstore</a>
       </Bottom>}
     </ExtensionWrapper>
   );
@@ -45,18 +45,20 @@ const Image = styled.img`
 
 const ExtensionWrapper = styled.div`
     width: 100%;
-    padding: 10px;
+    padding: 10px 15px;
     margin-bottom: 12px;
-    border: 1px solid coral;
     display: flex;
+    border: 1px solid transparent;
     flex-direction: column;
     box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
-    border: 2px solid rgba(0, 0, 0, 0.1);
+    // border: 2px solid rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     cursor: pointer;
+    background: #fff;
+    transition: border-color 0.15s ease-in-out;
 
     &:hover {
-      border-color: rgba(0, 0, 0, 0.2);;
+      border-color: rgba(0, 0, 0, 0.3);;
     }
 `;
 
