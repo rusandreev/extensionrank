@@ -8,7 +8,10 @@ function Header() {
   return (
     <HeaderWrapper>
         <Container>
+          <a href="/">
             <img src={logo} alt="Logo" />
+            Extension Rank
+          </a>
         </Container>
       
     </HeaderWrapper>
@@ -28,5 +31,14 @@ const HeaderWrapper = styled.div`
 
   img {
     width: 39px;
+    padding-right: 8px;
+  }
+
+  a {
+    color: #333;
+    text-decoration: none;
+    font-size: 21px;
+    display: flex;
+    align-items: center;
   }
 `;

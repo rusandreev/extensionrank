@@ -13,18 +13,18 @@ function Extension(props) {
             {name}
           </Name>
           <Category>
-            Category: {category}
+            {category}
           </Category>
         </NameWrapper>
         <DataWrapper>
-          <InteractionCount>
-            Users: {interactionCount}
+          <InteractionCount title="Users">
+            {interactionCount}
           </InteractionCount>
-          <RatingCount>
-            Reviews: {ratingCount}
+          <RatingCount title="Reviews">
+            {ratingCount}
           </RatingCount>
           <RatingValue>
-            Rated: {parseFloat(ratingValue).toPrecision(2)}
+            {parseFloat(ratingValue).toPrecision(2)}
           </RatingValue>
         </DataWrapper>
       </Top>
@@ -45,21 +45,12 @@ const Image = styled.img`
 
 const ExtensionWrapper = styled.div`
     width: 100%;
-    padding: 10px 15px;
-    margin-bottom: 12px;
+    padding: 6px 0px 7px;
     display: flex;
-    border: 1px solid transparent;
     flex-direction: column;
-    box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.2);
-    // border: 2px solid rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     cursor: pointer;
-    background: #fff;
-    transition: border-color 0.15s ease-in-out;
-
-    &:hover {
-      border-color: rgba(0, 0, 0, 0.3);;
-    }
+    color: #333;
 `;
 
 const Top = styled.div`
@@ -89,7 +80,6 @@ const Name = styled.div`
 
 const Category = styled.div`
   font-size: 12px;
-  color: #333;
 `;
 
 const NameWrapper = styled.div`
@@ -103,18 +93,24 @@ const DataWrapper = styled.div`
 `;
 
 const InteractionCount = styled.div`
-  min-width: 127px;
+  min-width: 128px;
   font-size: 15px;
-  color: #333;
+  display: flex;
+  justify-content: center;
 `;
 
 const RatingCount = styled.div`
-  min-width: 113px;
+  min-width: 114px;
   font-size: 15px;
   margin-left: 15px;
+  display: flex;
+  justify-content: center;
 `;
 
 const RatingValue = styled.div`
   font-size: 15px;
   margin-left: 15px;
+  min-width: 60px;
+  display: flex;
+  justify-content: center;
 `;
