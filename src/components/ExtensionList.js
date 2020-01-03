@@ -12,13 +12,13 @@ function ExtensionList() {
       <ExtensionsWrapper>
         <ExtensionsHeader>
           <Users>
-            <User size={14} color="#333" /> Users
+            Users
           </Users>
           <Reviews>
-            <Edit2 size={14} color="#333" /> Reviews
+            Reviews
           </Reviews>
           <Stars>
-            <Star size={14} color="#333" /> Stars
+            Stars
           </Stars>
         </ExtensionsHeader>
         {extensions.slice(0, count).map(ext => {
@@ -35,8 +35,6 @@ function ExtensionList() {
 export default ExtensionList;
 
 const ExtensionsWrapper = styled.div`
-    display: flex;
-    flex-wrap: wrap;
     position: relative;
     background: #fff;
     border-radius: 5px;
