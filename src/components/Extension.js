@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
 function Extension(props) {
-    const { name, url, image, category, interactionCount, ratingValue, ratingCount, description } = props;
+    const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, browser } = props;
   return (
     <ExtensionWrapper>
       <Image src={image} />
@@ -10,9 +10,9 @@ function Extension(props) {
         <Name>
           {name}
         </Name>
-        <Category>
+        {browser === 'chrome' && <Category>
           {category}
-        </Category>
+        </Category>}
       </NameWrapper>
       <DataWrapper>
         <InteractionCount title="Users">

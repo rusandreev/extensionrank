@@ -6,20 +6,58 @@ import ExtensionList from './components/ExtensionList';
 import Footer from './components/Footer';
 import Sidebar from './components/Sidebar';
 
-function App() {
-  return (
-    <div className="App">
-      <GlobalStyle />
-      <Header />
-      <Container>
-        <Wrapper>
-          <Sidebar />
-          <ExtensionList />
-        </Wrapper>
-      </Container>
-      <Footer />
-    </div>
-  );
+const chrome_categories = [
+  "productivity",
+  "communication",
+  "photos",
+  "fun",
+  "web development",
+  "accessibility",
+  "shopping",
+  "search tools",
+  "news",
+  "sports",
+  "blogging"
+];
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      browser: 'chrome',
+      category: ''
+    };
+
+    this.onBrowserSelect = this.onBrowserSelect.bind(this);
+    this.onCategorySelect = this.onCategorySelect.bind(this);
+  }
+
+  onBrowserSelect(browser) {
+    this.setState({ browser });
+    this.setState({ category: '' });
+  }
+
+  onCategorySelect(category) {
+    this.setState({ category });
+  }
+
+  render() {
+    const { browser, category } = this.state;
+    return (
+      <div className="App">
+        <GlobalStyle />
+        <Header />
+        <Container>
+          <Wrapper>
+            <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={chrome_categories} />
+            <ExtensionList browser={browser} category={category} />
+          </Wrapper>
+        </Container>
+        <Footer />
+      </div>
+    );
+  }
 }
 
 export default App;

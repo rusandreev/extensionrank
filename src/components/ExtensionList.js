@@ -2,13 +2,18 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import { User, Edit2, Star } from 'react-feather';
 
-import extensions from '../ch_ext.json';
+import cx from '../ch_ext.json';
+import fx from '../fx_ext.json';
 import Extension from './Extension';
 
-function ExtensionList() {
+function ExtensionList({ browser, category }) {
   const [count, setCount] = useState(100);
+  let extensions = browser === 'chrome' ? cx : fx;
+  if (category !== '') {
+    extensions = extensions.filter(item => item.category === category);
+  }
   return (
-    <div>
+    <Wrapper>
       <ExtensionsWrapper>
         <ExtensionsHeader>
           <Users>
@@ -23,23 +28,28 @@ function ExtensionList() {
         </ExtensionsHeader>
         {extensions.slice(0, count).map(ext => {
             return (
-                <Extension {...ext} key={ext.url} />
+                <Extension {...ext} key={ext.url} browser={browser} />
             )
         })}
       </ExtensionsWrapper>
       {extensions.length > count && <ShowMoreButton onClick={() => setCount(count + 100)}>Show more</ShowMoreButton>}
-    </div>
+    </Wrapper>
   );
 }
 
 export default ExtensionList;
+
+const Wrapper = styled.div`
+  width: 100%;
+`;
 
 const ExtensionsWrapper = styled.div`
     position: relative;
     background: #fff;
     border-radius: 5px;
     box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
-    padding: 0 15px;
+    padding: 8px 15px;
+    width: 100%;
 }
 `;
 
