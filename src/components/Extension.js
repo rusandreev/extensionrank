@@ -5,15 +5,17 @@ function Extension(props) {
     const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, week, browser } = props;
   return (
     <ExtensionWrapper>
-      <Image src={image} />
-      <NameWrapper>
-        <Name>
-          {name}
-        </Name>
-        {browser === 'chrome' && <Category>
-          {category}
-        </Category>}
-      </NameWrapper>
+      <LeftColumn>
+        <Image src={image} />
+        <NameWrapper>
+          <Name>
+            {name}
+          </Name>
+          {browser === 'chrome' && <Category>
+            {category}
+          </Category>}
+        </NameWrapper>
+      </LeftColumn>
       <DataWrapper>
         <InteractionCount title="Users">
           {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
@@ -47,6 +49,17 @@ const ExtensionWrapper = styled.div`
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     cursor: pointer;
     color: #333;
+
+    @media(max-width: 980px) {
+      flex-direction: column;
+    }
+`;
+
+const LeftColumn = styled.div`
+    display: flex;
+    @media(max-width: 980px) {
+      width: 100%;
+    }
 `;
 
 const Name = styled.div`
@@ -60,23 +73,46 @@ const Category = styled.div`
 const NameWrapper = styled.div`
   display: flex;
   flex-direction: column;
+
+  @media(max-width: 980px) {
+    width: 100%;
+  }
 `;
 
 const DataWrapper = styled.div`
   display: flex;
   margin-left: auto;
+
+  @media(max-width: 980px) {
+    width: 100%;
+    margin: 0;
+    flex-direction: column;
+    alighn-items: flex-start;
+  }
+
 `;
 
 const Data = styled.div`
   font-size: 14px;
   display: flex;
   justify-content: center;
+
+  @media(max-width: 980px) {
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 8px;
+    margin-left: 0;
+  }
 `;
 
 const InteractionCount = styled(Data)`
   min-width: 128px;
   flex-direction: column;
   align-items: center;
+
+  @media(max-width: 980px) {
+    min-width: 100px;
+  }
 `;
 
 const InteractionCountDiff = styled.div`

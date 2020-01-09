@@ -66,6 +66,10 @@ const ExtensionsHeader = styled.div`
   justify-content: flex-end;
   width: 100%;
   padding-top: 10px;
+
+  @media(max-width: 980px) {
+    display: none;
+  }
   `;
 
 const Item = styled.div`

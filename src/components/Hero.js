@@ -29,6 +29,7 @@ const HeroWrapper = styled.div`
 
     div {
         margin-top: 8px;
+        padding-bottom: 20px;
         font-size: 16px;
     }
 `;
