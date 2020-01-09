@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { Container } from '../App';
-
 function Hero() {
   return (
         <HeroWrapper>

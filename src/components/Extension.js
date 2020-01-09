@@ -8,7 +8,7 @@ function Extension(props) {
       <LeftColumn>
         <Image src={image} />
         <NameWrapper>
-          <Name>
+          <Name href={url} target="_blank" rel="noopener noreferrer">
             {name}
           </Name>
           {browser === 'chrome' && <Category>
@@ -47,7 +47,6 @@ const ExtensionWrapper = styled.div`
     display: flex;
     align-items: center;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    cursor: pointer;
     color: #333;
 
     @media(max-width: 980px) {
@@ -62,7 +61,8 @@ const LeftColumn = styled.div`
     }
 `;
 
-const Name = styled.div`
+const Name = styled.a`
+  color: #333;
   font-weight: 600;
 `;
 
