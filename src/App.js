@@ -5,6 +5,7 @@ import Header from './components/Header';
 import ExtensionList from './components/ExtensionList';
 import Footer from './components/Footer';
 import Sidebar from './components/Sidebar';
+import Hero from './components/Hero';
 
 const chrome_categories = [
   "productivity",
@@ -49,6 +50,7 @@ class App extends React.Component {
         <GlobalStyle />
         <Header />
         <Container>
+          <Hero />
           <Wrapper>
             <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={chrome_categories} />
             <ExtensionList browser={browser} category={category} />
@@ -72,6 +74,10 @@ export const Container = styled.div`
 
 const Wrapper = styled.div`
   display: flex;
+
+  @media(max-width: 980px) {
+    flex-direction: column;
+  }
 `;
 
 const GlobalStyle = createGlobalStyle`

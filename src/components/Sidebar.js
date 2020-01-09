@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, category }) {
   return (
     <Wrapper>
-      <Section>
+      <Browsers>
         <Title>Browsers</Title>
         <Button active={browser === 'chrome'} onClick={() => onBrowserSelect('chrome')}>
           Chrome
@@ -12,15 +12,15 @@ function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, categ
         <Button active={browser === 'firefox'} onClick={() => onBrowserSelect('firefox')}>
           Firefox
         </Button>
-      </Section>
-      {browser === 'chrome' && <Section>
+      </Browsers>
+      {browser === 'chrome' && <Categories>
         <Title>Categories</Title>
         {categories.map(item => {
           return (
             <Button active={category === item} key={item} onClick={() => onCategorySelect(item)}>{item}</Button>
           )
         })}
-      </Section>}
+      </Categories>}
         
     </Wrapper>
   );
@@ -46,7 +46,29 @@ const Button = styled.div`
 const Section = styled.div`
   margin-bottom: 30px;
 `;
+
+const Categories = styled(Section)`
+  @media(max-width: 980px) {
+    display: none;
+  }
+`;
+
 const Title = styled.div``;
+
+const Browsers = styled(Section)`
+  @media(max-width: 980px) {
+    display: flex;
+    margin-bottom: 15px;
+    
+    ${Title} {
+      display: none;
+    }
+
+    ${Button} {
+      margin: 0 10px;
+    }
+  }
+`;
 
 const Wrapper = styled.div`
     min-width: 200px;
