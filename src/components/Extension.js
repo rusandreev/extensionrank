@@ -16,7 +16,7 @@ function Extension(props) {
       </NameWrapper>
       <DataWrapper>
         <InteractionCount title="Users">
-          {interactionCount}
+          {interactionCount == '10 000 000' ? '10 000 000 +' : interactionCount}
         </InteractionCount>
         <RatingCount title="Reviews">
           {ratingCount}
