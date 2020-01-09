@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import { User, Edit2, Star } from 'react-feather';
 
 import cx from '../ch_ext.json';
 import fx from '../fx_ext.json';
 import Extension from './Extension';
 
 function ExtensionList({ browser, category }) {
-  const [count, setCount] = useState(1000);
+  const [count, setCount] = useState(100);
   let extensions = browser === 'chrome' ? cx : fx;
   if (category !== '') {
     extensions = extensions.filter(item => item.category === category);
@@ -32,7 +31,7 @@ function ExtensionList({ browser, category }) {
             )
         })}
       </ExtensionsWrapper>
-      {extensions.length > count && <ShowMoreButton onClick={() => setCount(count + 1000)}>Show more</ShowMoreButton>}
+      {extensions.length > count && <ShowMoreButton onClick={() => setCount(count + 100)}>Show more</ShowMoreButton>}
     </Wrapper>
   );
 }

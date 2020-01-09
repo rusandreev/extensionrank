@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 function Extension(props) {
-    const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, browser } = props;
+    const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, week, browser } = props;
   return (
     <ExtensionWrapper>
       <Image src={image} />
@@ -16,10 +16,11 @@ function Extension(props) {
       </NameWrapper>
       <DataWrapper>
         <InteractionCount title="Users">
-          {interactionCount == '10 000 000' ? '10 000 000 +' : interactionCount}
+          {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
+          {week !== '#N/A' && <InteractionCountDiff positive={week >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>}
         </InteractionCount>
         <RatingCount title="Reviews">
-          {ratingCount}
+          {ratingCount.toLocaleString('ru-RU')}
         </RatingCount>
         <RatingValue>
           {parseFloat(ratingValue).toPrecision(2)}
@@ -74,6 +75,16 @@ const Data = styled.div`
 
 const InteractionCount = styled(Data)`
   min-width: 128px;
+  flex-direction: column;
+  align-items: center;
+`;
+
+const InteractionCountDiff = styled.div`
+  font-size: 11px;
+
+    span {
+      color: ${props => props.positive ? 'green' : 'red'};
+    }
 `;
 
 const RatingCount = styled(Data)`
