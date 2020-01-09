@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 function Extension(props) {
     const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, week, browser } = props;
+    let week_ = isNaN(week) ? parseInt(week.replace(' ', '')) : week;
   return (
     <ExtensionWrapper>
       <LeftColumn>
@@ -19,7 +20,7 @@ function Extension(props) {
       <DataWrapper>
         <InteractionCount title="Users">
           {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
-          {week !== '#N/A' && <InteractionCountDiff positive={week >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>}
+          {(week !== '#N/A' && week !=='') && <InteractionCountDiff positive={week_ >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>}
         </InteractionCount>
         <RatingCount title="Reviews">
           {ratingCount.toLocaleString('ru-RU')}
