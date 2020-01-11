@@ -1,27 +1,31 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import { BROWSERS } from '../constants/common';
+
 function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, category }) {
   return (
     <Wrapper>
       <Browsers>
         <Title>Browsers</Title>
-        <Button active={browser === 'chrome'} onClick={() => onBrowserSelect('chrome')}>
-          Chrome
+        <Button active={browser === BROWSERS.CHROME} onClick={() => onBrowserSelect(BROWSERS.CHROME)}>
+          {BROWSERS.CHROME}
         </Button>
-        <Button active={browser === 'firefox'} onClick={() => onBrowserSelect('firefox')}>
-          Firefox
+        <Button active={browser === BROWSERS.FIREFOX} onClick={() => onBrowserSelect(BROWSERS.FIREFOX)}>
+          {BROWSERS.FIREFOX}
+        </Button>
+        <Button active={browser === BROWSERS.OPERA} onClick={() => onBrowserSelect(BROWSERS.OPERA)}>
+          {BROWSERS.OPERA}
         </Button>
       </Browsers>
-      {browser === 'chrome' && <Categories>
+      {categories && categories.length > 0 && (<Categories>
         <Title>Categories</Title>
         {categories.map(item => {
           return (
             <Button active={category === item} key={item} onClick={() => onCategorySelect(item)}>{item}</Button>
           )
         })}
-      </Categories>}
-        
+      </Categories>)}
     </Wrapper>
   );
 }

@@ -3,11 +3,22 @@ import styled from 'styled-components';
 
 import cx from '../ch_ext.json';
 import fx from '../fx_ext.json';
+import op from '../op_ext.json';
 import Extension from './Extension';
+import { BROWSERS } from '../constants/common';
 
 function ExtensionList({ browser, category }) {
   const [count, setCount] = useState(100);
-  let extensions = browser === 'chrome' ? cx : fx;
+  let extensions;
+  
+  if (browser === BROWSERS.CHROME) {
+    extensions = cx;
+  } else if (browser === BROWSERS.FIREFOX) {
+    extensions = fx;
+  } else if (browser === BROWSERS.OPERA) {
+    extensions = op;
+  }
+
   if (category !== '') {
     extensions = extensions.filter(item => item.category === category);
   }

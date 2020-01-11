@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import { BROWSERS } from '../constants/common';
+
 function Extension(props) {
     const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, week, browser } = props;
     let week_ = isNaN(week) ? parseInt(week.replace(' ', '')) : week;
@@ -12,7 +14,7 @@ function Extension(props) {
           <Name href={url} target="_blank" rel="noopener noreferrer">
             {name}
           </Name>
-          {browser === 'chrome' && <Category>
+          {(browser === BROWSERS.CHROME || browser === BROWSERS.OPERA) && <Category>
             {category}
           </Category>}
         </NameWrapper>

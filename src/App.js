@@ -6,27 +6,14 @@ import ExtensionList from './components/ExtensionList';
 import Footer from './components/Footer';
 import Sidebar from './components/Sidebar';
 import Hero from './components/Hero';
-
-const chrome_categories = [
-  "productivity",
-  "communication",
-  "photos",
-  "fun",
-  "web development",
-  "accessibility",
-  "shopping",
-  "search tools",
-  "news",
-  "sports",
-  "blogging"
-];
+import { BROWSERS, CATEGORIES } from './constants/common';
 
 class App extends React.Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      browser: 'chrome',
+      browser: BROWSERS.CHROME,
       category: ''
     };
 
@@ -45,6 +32,8 @@ class App extends React.Component {
 
   render() {
     const { browser, category } = this.state;
+    const categories = CATEGORIES[browser];
+
     return (
       <div className="App">
         <GlobalStyle />
@@ -52,7 +41,7 @@ class App extends React.Component {
         <Container>
           <Hero />
           <Wrapper>
-            <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={chrome_categories} />
+            <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={categories} />
             <ExtensionList browser={browser} category={category} />
           </Wrapper>
         </Container>
