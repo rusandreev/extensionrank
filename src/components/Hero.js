@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function Hero() {
   return (
         <HeroWrapper>
-            Discover the best extensions for Google Chrome and Firefox browsers
+            Discover the best extensions for Google Chrome, Firefox and Opera browsers
             <div>The best extensions in ranked by users and reviews</div>
         </HeroWrapper>
   );
@@ -24,6 +24,11 @@ const HeroWrapper = styled.div`
     background: #fff;
     border-radius: 6px;
     font-size: 22px;
+    padding: 10px;
+
+    @media(max-width: 980px) {
+        font-size: 20px;
+    }
 
     div {
         margin-top: 8px;
