@@ -21,13 +21,16 @@ function Extension(props) {
       </LeftColumn>
       <DataWrapper>
         <InteractionCount title="Users">
-          {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
+          <MobileTitle>Users:</MobileTitle>
+           {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
           {(week !== '#N/A' && week !=='') && <InteractionCountDiff positive={week_ >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>}
         </InteractionCount>
         <RatingCount title="Reviews">
+          <MobileTitle>Reviews:</MobileTitle>
           {ratingCount.toLocaleString('ru-RU')}
         </RatingCount>
         <RatingValue>
+          <MobileTitle>Stars:</MobileTitle>
           {parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
       </DataWrapper>
@@ -134,4 +137,14 @@ const RatingCount = styled(Data)`
 const RatingValue = styled(Data)`
   margin-left: 15px;
   min-width: 60px;
+`;
+
+const MobileTitle = styled.div`
+    display: none;
+    font-weight: bold;
+
+    @media(max-width: 980px) {
+      display: inline-block;
+      margin-right: 5px;
+    }
 `;
