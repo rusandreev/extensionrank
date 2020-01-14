@@ -4,7 +4,7 @@ import styled from 'styled-components';
 function Hero() {
   return (
         <HeroWrapper>
-            Discover the best extensions for Google Chrome, Firefox and Opera browsers
+            Discover the best extensions for Google Chrome, Firefox, Opera and Safari browsers
             <div>The best extensions in ranked by users and reviews</div>
         </HeroWrapper>
   );
