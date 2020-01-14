@@ -6,12 +6,22 @@ import { BROWSERS } from '../constants/common';
 function Extension(props) {
     const { name, url, image, category, interactionCount, ratingValue, ratingCount, description, week, browser } = props;
     let week_ = isNaN(week) ? parseInt(week.replace(' ', '')) : week;
+
+  const onExtensionClick = (name) => {
+    if( window && window.gtag) {
+      window.gtag('event', 'Extension.Link', {
+        event_category: 'Extension',
+        event_label: browser + '/' + name
+      });
+    }
+  } 
+
   return (
     <ExtensionWrapper>
       <LeftColumn>
         <Image src={image} />
         <NameWrapper>
-          <Name href={url} target="_blank" rel="noopener noreferrer">
+          <Name href={url} target="_blank" rel="noopener noreferrer" onClick={() => onExtensionClick(name)}>
             {name}
           </Name>
           {(category) && <Category>
