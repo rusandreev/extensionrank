@@ -8,30 +8,63 @@ import Sidebar from './components/Sidebar';
 import Hero from './components/Hero';
 import { BROWSERS, CATEGORIES } from './constants/common';
 
+const MIN_COUNT = 100;
+
 class App extends React.Component {
   constructor(props) {
     super(props);
 
     this.state = {
       browser: BROWSERS.CHROME,
-      category: ''
+      category: '',
+      count: MIN_COUNT
     };
 
     this.onBrowserSelect = this.onBrowserSelect.bind(this);
     this.onCategorySelect = this.onCategorySelect.bind(this);
+    this.onShowMore = this.onShowMore.bind(this);
   }
 
   onBrowserSelect(browser) {
     this.setState({ browser });
     this.setState({ category: '' });
+    this.setState({ count: MIN_COUNT });
+
+    if( window && window.gtag) {
+      window.gtag('event', 'Sidebar.Browser', {
+        event_category: 'Sidebar',
+        event_label: browser,
+      });
+    }
   }
 
   onCategorySelect(category) {
     this.setState({ category });
+    this.setState({ count: MIN_COUNT });
+
+    if( window && window.gtag) {
+      window.gtag('event', 'Sidebar.Category', {
+        event_category: 'Sidebar',
+        event_label: category
+      });
+    }
+  }
+
+  onShowMore() {
+    const { category, browser, count } = this.state;
+    this.setState({ count: count + MIN_COUNT})
+
+    if( window && window.gtag) {
+      window.gtag('event', 'ExtensionList.ShowMore', {
+        event_category: 'ExtensionList',
+        event_label: category ? (browser + " - " + category) : browser,
+        value: count + MIN_COUNT
+      });
+    }
   }
 
   render() {
-    const { browser, category } = this.state;
+    const { browser, category, count } = this.state;
     const categories = CATEGORIES[browser];
 
     return (
@@ -42,7 +75,7 @@ class App extends React.Component {
           <Hero />
           <Wrapper>
             <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={categories} />
-            <ExtensionList browser={browser} category={category} />
+            <ExtensionList browser={browser} category={category} count={count} onShowMore={this.onShowMore} />
           </Wrapper>
         </Container>
         <Footer />

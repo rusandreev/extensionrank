@@ -8,8 +8,7 @@ import sf from '../sf_ext.json';
 import Extension from './Extension';
 import { BROWSERS } from '../constants/common';
 
-function ExtensionList({ browser, category }) {
-  const [count, setCount] = useState(100);
+function ExtensionList({ browser, category, count, onShowMore }) {
   let extensions;
   
   if (browser === BROWSERS.CHROME) {
@@ -25,6 +24,7 @@ function ExtensionList({ browser, category }) {
   if (category !== '') {
     extensions = extensions.filter(item => item.category === category);
   }
+
   return (
     <Wrapper>
       <ExtensionsWrapper>
@@ -45,7 +45,7 @@ function ExtensionList({ browser, category }) {
             )
         })}
       </ExtensionsWrapper>
-      {extensions.length > count && <ShowMoreButton onClick={() => setCount(count + 100)}>Show more</ShowMoreButton>}
+      {extensions.length > count && <ShowMoreButton onClick={() => onShowMore()}>Show more</ShowMoreButton>}
     </Wrapper>
   );
 }
