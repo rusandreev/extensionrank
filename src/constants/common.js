@@ -1,7 +1,8 @@
 export const BROWSERS = {
     CHROME: 'Chrome',
     FIREFOX: 'Firefox',
-    OPERA: 'Opera'
+    OPERA: 'Opera',
+    SAFARI: 'Safari',
 };
 
 export const CATEGORIES = {
@@ -33,5 +34,18 @@ export const CATEGORIES = {
         "News & Weather",
         "Music",
         "Search"
+    ],
+    [BROWSERS.SAFARI]: [
+        "Utilities",
+        "Productivity",
+        "Lifestyle",
+        "Education",
+        "News",
+        "Social Networking",
+        "Entertainment",
+        "Business",
+        "Developer Tools",
+        "Graphics & Design",
     ]
+
 };

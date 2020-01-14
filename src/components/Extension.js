@@ -14,7 +14,7 @@ function Extension(props) {
           <Name href={url} target="_blank" rel="noopener noreferrer">
             {name}
           </Name>
-          {(browser === BROWSERS.CHROME || browser === BROWSERS.OPERA) && <Category>
+          {(category) && <Category>
             {category}
           </Category>}
         </NameWrapper>
@@ -23,7 +23,7 @@ function Extension(props) {
         <InteractionCount title="Users">
           <MobileTitle>Users:</MobileTitle>
            {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
-          {(week !== '#N/A' && week !=='') && <InteractionCountDiff positive={week_ >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>}
+          {/* {(week !== '#N/A' && week !=='') && <InteractionCountDiff positive={week_ >= 0}>7d: <span>{week.toLocaleString('ru-RU')}</span></InteractionCountDiff>} */}
         </InteractionCount>
         <RatingCount title="Reviews">
           <MobileTitle>Reviews:</MobileTitle>
@@ -31,7 +31,7 @@ function Extension(props) {
         </RatingCount>
         <RatingValue>
           <MobileTitle>Stars:</MobileTitle>
-          {parseFloat(ratingValue).toPrecision(2)}
+          {ratingValue === '-' ? ratingValue : parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
       </DataWrapper>
     </ExtensionWrapper>
@@ -74,6 +74,7 @@ const Name = styled.a`
 
 const Category = styled.div`
   font-size: 12px;
+  text-transform: lowercase;
 `;
 
 const NameWrapper = styled.div`

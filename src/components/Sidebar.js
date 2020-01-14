@@ -8,15 +8,14 @@ function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, categ
     <Wrapper>
       <Browsers>
         <Title>Browsers</Title>
-        <Button active={browser === BROWSERS.CHROME} onClick={() => onBrowserSelect(BROWSERS.CHROME)}>
-          {BROWSERS.CHROME}
-        </Button>
-        <Button active={browser === BROWSERS.FIREFOX} onClick={() => onBrowserSelect(BROWSERS.FIREFOX)}>
-          {BROWSERS.FIREFOX}
-        </Button>
-        <Button active={browser === BROWSERS.OPERA} onClick={() => onBrowserSelect(BROWSERS.OPERA)}>
-          {BROWSERS.OPERA}
-        </Button>
+        
+        {Object.keys(BROWSERS).map(key =>{
+          return (
+            <Button active={browser === BROWSERS[key]} key={key} onClick={() => onBrowserSelect(BROWSERS[key])}>
+              {BROWSERS[key]}
+            </Button>
+          );
+        })}
       </Browsers>
       {categories && categories.length > 0 && (<Categories>
         <Title>Categories</Title>
@@ -54,6 +53,10 @@ const Section = styled.div`
 const Categories = styled(Section)`
   @media(max-width: 980px) {
     display: none;
+  }
+
+  ${Button} {
+    text-transform: lowercase;
   }
 `;
 

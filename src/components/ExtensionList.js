@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import cx from '../ch_ext.json';
 import fx from '../fx_ext.json';
 import op from '../op_ext.json';
+import sf from '../sf_ext.json';
 import Extension from './Extension';
 import { BROWSERS } from '../constants/common';
 
@@ -17,6 +18,8 @@ function ExtensionList({ browser, category }) {
     extensions = fx;
   } else if (browser === BROWSERS.OPERA) {
     extensions = op;
+  } else if (browser === BROWSERS.SAFARI) {
+    extensions = sf;
   }
 
   if (category !== '') {
