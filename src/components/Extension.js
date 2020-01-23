@@ -31,7 +31,7 @@ function Extension(props) {
       <DataWrapper>
         <InteractionCount title="Users">
           <MobileTitle>Users:</MobileTitle>
-           {interactionCount === '10 000 000' ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
+           {interactionCount === 10000000 ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
         </InteractionCount>
         <RatingCount title="Reviews">
           <MobileTitle>Reviews:</MobileTitle>
