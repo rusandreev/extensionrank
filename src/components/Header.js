@@ -11,7 +11,7 @@ function Header() {
           <HeaderContainer>
           <LogoLink href="/">
             <img src={logo} alt="Logo" />
-            Extension Rank
+            <span>Extension Rank</span>
           </LogoLink>
           <a href="https://www.buymeacoffee.com/rusandreev" target="_blank" rel="noopener noreferrer">
             <img 
@@ -53,5 +53,11 @@ const LogoLink = styled.a`
     img {
       width: 39px;
       padding-right: 8px;
+    }
+
+    @media(max-width: 980px) {
+      span {
+        display: none;
+      }
     }
 `;
