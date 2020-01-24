@@ -8,17 +8,30 @@ function Header() {
   return (
     <HeaderWrapper>
         <Container>
-          <a href="/">
+          <HeaderContainer>
+          <LogoLink href="/">
             <img src={logo} alt="Logo" />
             Extension Rank
+          </LogoLink>
+          <a href="https://www.buymeacoffee.com/rusandreev" target="_blank" rel="noopener noreferrer">
+            <img 
+              src="https://cdn.buymeacoffee.com/buttons/lato-red.png" 
+              alt="Buy Me A Coffee" 
+              style={{height: '51px', width: '217px', borderRadius: '3px'}} 
+            />
           </a>
+          </HeaderContainer>
         </Container>
-      
     </HeaderWrapper>
   );
 }
 
 export default Header;
+
+const HeaderContainer = styled.div`
+  display: flex;
+  justify-content: space-between;
+`;
 
 const HeaderWrapper = styled.div`
   background: #fff;
@@ -28,17 +41,17 @@ const HeaderWrapper = styled.div`
   margin-bottom: 20px;
   align-items: center;
   height: 100%;
+`;
 
-  img {
-    width: 39px;
-    padding-right: 8px;
-  }
-
-  a {
+const LogoLink = styled.a`
     color: #333;
     text-decoration: none;
     font-size: 21px;
     display: flex;
     align-items: center;
-  }
+
+    img {
+      width: 39px;
+      padding-right: 8px;
+    }
 `;
