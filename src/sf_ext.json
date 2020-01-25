@@ -1,99 +1,80 @@
 [
   {
-    "name": "1Blocker",
-    "url": "https://apps.apple.com/us/app/1blocker/id1107421413",
-    "interactionCount": "-",
-    "ratingCount": 974,
-    "ratingValue": 4.6,
-    "category": "Utilities",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/e7/55/bde755a6-acc0-e561-c5e3-ea0f5970cf32/MacAppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
-    "description": "You deserve privacy online",
-    "scraped_at": "2020-01-17T22:42:25.610Z",
-    "day": 10
-  },
-  {
     "name": "AdBlock for Safari",
     "url": "https://apps.apple.com/us/app/adblock-for-safari/id1402042596",
     "interactionCount": "-",
-    "ratingCount": 891,
+    "ratingCount": 892,
     "ratingValue": 2.9,
     "category": "Productivity",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/06/19/84/06198454-5902-bab2-103e-f7c461f658d0/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:29.679Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.527Z"
   },
   {
     "name": "Magic Lasso Adblock for Safari",
     "url": "https://apps.apple.com/us/app/magic-lasso-adblock-for-safari/id1198047227",
     "interactionCount": "-",
-    "ratingCount": 805,
+    "ratingCount": 816,
     "ratingValue": 4,
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/52/97/80529720-6488-f047-d209-d04958225115/AppIcon-0-85-220-0-0-0-0-0-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Block ads, trackers & pop ups",
-    "scraped_at": "2020-01-17T22:42:28.716Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.849Z"
   },
   {
     "name": "Rakuten Ebates Cash Back",
     "url": "https://apps.apple.com/us/app/rakuten-ebates-cash-back/id1451893560",
     "interactionCount": "-",
-    "ratingCount": 655,
+    "ratingCount": 664,
     "ratingValue": 4.3,
     "category": "Lifestyle",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/81/9e/b5819ec3-e3ae-dcea-7946-6f3109c0de29/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Cash Back + Coupons",
-    "scraped_at": "2020-01-17T22:42:32.307Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.876Z"
   },
   {
     "name": "Grammarly for Safari",
     "url": "https://apps.apple.com/us/app/grammarly-for-safari/id1462114288",
     "interactionCount": "-",
-    "ratingCount": 364,
+    "ratingCount": 367,
     "ratingValue": 4.1,
     "category": "Productivity",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/af/fb/dfaffbf0-bc27-f742-c6c1-acd327228cc4/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Great writing, simplified",
-    "scraped_at": "2020-01-17T22:42:28.409Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.915Z"
   },
   {
     "name": "Unicorn Blocker:Adblock",
     "url": "https://apps.apple.com/us/app/unicorn-blocker-adblock/id1231935892",
     "interactionCount": "-",
-    "ratingCount": 313,
+    "ratingCount": 320,
     "ratingValue": 4.5,
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f0/95/b2/f095b2b3-c93b-b4cb-bffc-e99689df8f6b/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
     "description": "Block ads, private & video ads",
-    "scraped_at": "2020-01-17T22:42:34.325Z",
-    "day": 3
+    "scraped_at": "2020-01-25T07:12:19.028Z"
   },
   {
     "name": "Notebook - Take Notes, Sync",
     "url": "https://apps.apple.com/us/app/notebook-take-notes-sync/id1173152781",
     "interactionCount": "-",
-    "ratingCount": 228,
+    "ratingCount": 230,
     "ratingValue": 3.8,
     "category": "Productivity",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/88/d9/f788d9d0-7c94-3c9e-3da6-c38b755d22f3/AppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
     "description": "Create Beautiful Notes",
-    "scraped_at": "2020-01-17T22:42:34.937Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.726Z"
   },
   {
     "name": "StopTheMadness",
     "url": "https://apps.apple.com/us/app/stopthemadness/id1376402589",
     "interactionCount": "-",
-    "ratingCount": 180,
+    "ratingCount": 183,
     "ratingValue": 4.8,
     "category": "Utilities",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/93/40/c0934070-4a7e-b2b1-cba7-3213cdf33b78/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/33/b1/b233b12d-529e-b72e-91dd-c219faa74f84/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Take back your web browser",
-    "scraped_at": "2020-01-17T22:42:34.363Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.355Z"
   },
   {
     "name": "Ka-Block!",
@@ -104,20 +85,18 @@
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/b5/fe/94/b5fe9476-71a8-f45a-a455-d35f3befb553/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:30.420Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:13.479Z"
   },
   {
     "name": "Mate: Universal Tab Translator",
     "url": "https://apps.apple.com/us/app/mate-universal-tab-translator/id1005088137",
     "interactionCount": "-",
-    "ratingCount": 145,
+    "ratingCount": 148,
     "ratingValue": 4.7,
     "category": "Education",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/54/f0/4e/54f04ec1-e288-9649-0033-617ba09b85be/AppIcon-0-0-85-220-4-2x-0-0.png/246x0w.png",
     "description": "Translate in Safari & menu bar",
-    "scraped_at": "2020-01-17T22:42:25.800Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.543Z"
   },
   {
     "name": "PiPifier - PiP for nearly every video",
@@ -128,32 +107,40 @@
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/76/ea/15/76ea1593-f09a-3278-4d00-86b11aefaa5d/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:25.659Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.664Z"
   },
   {
     "name": "Ecosia",
     "url": "https://apps.apple.com/us/app/ecosia/id1463400445",
     "interactionCount": "-",
-    "ratingCount": 137,
+    "ratingCount": 139,
     "ratingValue": 4.7,
     "category": "Productivity",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8c/14/07/8c140726-37b9-c371-2109-44743a744828/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:34.396Z",
-    "day": 2
+    "scraped_at": "2020-01-25T07:12:20.791Z"
   },
   {
     "name": "Ghostery Lite",
     "url": "https://apps.apple.com/us/app/ghostery-lite/id1436953057",
     "interactionCount": "-",
-    "ratingCount": 129,
+    "ratingCount": 128,
     "ratingValue": 3.3,
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/47/35/524735d8-3d92-c849-17ce-78d3b155864e/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Fast, simple, safe browsing",
-    "scraped_at": "2020-01-17T22:42:29.337Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.570Z"
+  },
+  {
+    "name": "DuckDuckGo Privacy Essentials",
+    "url": "https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575",
+    "interactionCount": "-",
+    "ratingCount": 77,
+    "ratingValue": 4.5,
+    "category": "Utilities",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8a/5f/e9/8a5fe964-9d73-21cd-0d65-f9b6bf3f3d0d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "Privacy, simplified.",
+    "scraped_at": "2020-01-25T07:12:18.696Z"
   },
   {
     "name": "OverPicture for Safari",
@@ -164,44 +151,29 @@
     "category": "Utilities",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e2/3c/0c/e23c0cc6-c451-aedb-24ab-7d92fe69df3b/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:33.585Z",
-    "day": 0
-  },
-  {
-    "name": "DuckDuckGo Privacy Essentials",
-    "url": "https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575",
-    "interactionCount": "-",
-    "ratingCount": 74,
-    "ratingValue": 4.5,
-    "category": "Utilities",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8a/5f/e9/8a5fe964-9d73-21cd-0d65-f9b6bf3f3d0d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
-    "description": "Privacy, simplified.",
-    "scraped_at": "2020-01-17T22:42:26.876Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.403Z"
   },
   {
     "name": "Secrets | Password Manager",
     "url": "https://apps.apple.com/us/app/secrets-password-manager/id973049011",
     "interactionCount": "-",
-    "ratingCount": 72,
+    "ratingCount": 73,
     "ratingValue": 4.7,
     "category": "Productivity",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/d6/e5/f3d6e59d-0165-d6de-6d3d-9ed64ae6965f/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Simple & Secure Private Vault",
-    "scraped_at": "2020-01-17T22:42:34.875Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.598Z"
   },
   {
     "name": "Better Blocker",
     "url": "https://apps.apple.com/us/app/better-blocker/id1121192229",
     "interactionCount": "-",
-    "ratingCount": 66,
+    "ratingCount": 70,
     "ratingValue": 4,
     "category": "Utilities",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/46/56/c1/4656c182-8151-9ffa-d9e6-5efd942416a5/MacAppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/cd/23/3d/cd233d17-594b-512c-258f-31eddac7ee09/MacAppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
     "description": "Blocks all the tracking things",
-    "scraped_at": "2020-01-17T22:42:29.711Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:12.130Z"
   },
   {
     "name": "NewsGuard",
@@ -210,10 +182,9 @@
     "ratingCount": 64,
     "ratingValue": 3.6,
     "category": "News",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/66/d7/58/66d75831-0f02-6145-16c0-b1da82dec6c6/AppIcon-0-85-220-0-0-0-0-2-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/21/97/1d2197c0-e332-d9ac-c7e6-7cbb8f0836ec/AppIcon-0-85-220-0-0-0-0-2-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:34.184Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.692Z"
   },
   {
     "name": "Ad And Stuff Blocker",
@@ -222,10 +193,9 @@
     "ratingCount": 61,
     "ratingValue": 3.8,
     "category": "Productivity",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/98/a6/8c/98a68c80-958e-d2b7-0113-8b27a6f27130/AppIcon-0-85-220-4-2x.png/246x0w.png",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/96/a6/5c/96a65cda-e64c-7f0f-dbcc-91583f600118/AppIcon-0-85-220-4-2x.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:30.555Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:14.443Z"
   },
   {
     "name": "MarsEdit 4",
@@ -234,22 +204,20 @@
     "ratingCount": 57,
     "ratingValue": 4.6,
     "category": "Productivity",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/b0/c2/80b0c206-a26d-306d-6bd4-7ad581493383/MarsEdit4Icon.png/246x0w.png",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/09/e1/0c/09e10cb7-50c9-db9f-8e25-e5b627b31ca8/MarsEdit4Icon.png/246x0w.png",
     "description": "Streamlined blog publishing",
-    "scraped_at": "2020-01-17T22:42:27.459Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.292Z"
   },
   {
     "name": "Roadblock - Content Blocker",
     "url": "https://apps.apple.com/us/app/roadblock-content-blocker/id1051436753",
     "interactionCount": "-",
-    "ratingCount": 54,
-    "ratingValue": 4,
+    "ratingCount": 53,
+    "ratingValue": 4.1,
     "category": "Utilities",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/91/6c/58/916c5832-bd09-1836-4e6e-2bde565793dc/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Flexible and Powerful",
-    "scraped_at": "2020-01-17T22:42:25.860Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.216Z"
   },
   {
     "name": "Evernote Web Clipper",
@@ -260,8 +228,7 @@
     "category": "Productivity",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/54/34/da/5434da6d-c974-364f-e424-a8b1da90e959/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Save web pages & articles",
-    "scraped_at": "2020-01-17T22:42:27.603Z",
-    "day": 1
+    "scraped_at": "2020-01-25T07:12:14.741Z"
   },
   {
     "name": "Instapaper Save",
@@ -272,8 +239,7 @@
     "category": "News",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/68/4d/11/684d111c-8e94-3f3f-0321-778c1a8ca7f6/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Save anything. Read anywhere.",
-    "scraped_at": "2020-01-17T22:42:25.411Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.286Z"
   },
   {
     "name": "Turn Off the Lights for Safari",
@@ -284,8 +250,7 @@
     "category": "Productivity",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/96/43/77/964377fe-e959-2c87-40e1-ceadc2ed22d9/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Darkens the rest of the web",
-    "scraped_at": "2020-01-17T22:42:31.701Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:16.388Z"
   },
   {
     "name": "Save to Pocket",
@@ -296,8 +261,7 @@
     "category": "News",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/02/48/c9/0248c99e-391a-6a2e-d2f7-7bba6b07cca4/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Capture stories for later",
-    "scraped_at": "2020-01-17T22:42:32.511Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.478Z"
   },
   {
     "name": "Kaspersky Password Manager",
@@ -308,8 +272,7 @@
     "category": "Productivity",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/92/f6/f5/92f6f50f-fff6-7593-4315-b20953b5fdb9/kpm.png/246x0w.png",
     "description": "Secure generator & autofill",
-    "scraped_at": "2020-01-17T22:42:28.284Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:16.863Z"
   },
   {
     "name": "Valt - Password Manager",
@@ -320,32 +283,29 @@
     "category": "Productivity",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fc/b7/9e/fcb79eb8-145d-d441-53bd-e5924d51e3ae/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Making Passwords Painless",
-    "scraped_at": "2020-01-17T22:42:31.454Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:13.696Z"
   },
   {
     "name": "SmileAllDay",
     "url": "https://apps.apple.com/us/app/smileallday/id1180442868",
     "interactionCount": "-",
-    "ratingCount": 18,
+    "ratingCount": 19,
     "ratingValue": 4.7,
     "category": "Lifestyle",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/38/3a/e9383a69-9682-0d4c-d5c1-2b8d5de52008/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Shop and contribute to charity",
-    "scraped_at": "2020-01-17T22:42:29.724Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:15.427Z"
   },
   {
     "name": "Haste - Quick web search",
     "url": "https://apps.apple.com/us/app/haste-quick-web-search/id1175250324",
     "interactionCount": "-",
-    "ratingCount": 16,
+    "ratingCount": 17,
     "ratingValue": 4.5,
     "category": "Productivity",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ee/27/08/ee27085b-1f62-255a-91a3-ff96f800c586/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:32.532Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:14.998Z"
   },
   {
     "name": "TubeBuddy for YouTube",
@@ -356,32 +316,7 @@
     "category": "Social Networking",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/bc/ac/c1/bcacc164-5b44-4c03-7cf9-85a3f57117f1/AppIcon-0-85-220-4-2x.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:27.312Z",
-    "day": 0
-  },
-  {
-    "name": "Tailwind Publisher",
-    "url": "https://apps.apple.com/us/app/tailwind-publisher/id1226609846",
-    "interactionCount": "-",
-    "ratingCount": 13,
-    "ratingValue": 3.9,
-    "category": "Social Networking",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/80/55/a68055fe-8a9d-ee35-ad4f-653347355646/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:29.648Z",
-    "day": 0
-  },
-  {
-    "name": "Ad Control",
-    "url": "https://apps.apple.com/us/app/ad-control/id1133106875",
-    "interactionCount": "-",
-    "ratingCount": 13,
-    "ratingValue": 3,
-    "category": "Utilities",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/3c/c7/b2/3cc7b266-66c6-8c80-d40e-e52678405794/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
-    "description": "Adblock for Safari: Remove Ads",
-    "scraped_at": "2020-01-17T22:42:31.829Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:14.606Z"
   },
   {
     "name": "Raindrop.io for Safari",
@@ -392,20 +327,29 @@
     "category": "Productivity",
     "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/17/03/3b1703eb-da95-1e87-0f18-29a35f01010c/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "All in one bookmark manager",
-    "scraped_at": "2020-01-17T22:42:34.826Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.989Z"
   },
   {
-    "name": "LINER - Web / PDF Highlighter",
-    "url": "https://apps.apple.com/us/app/liner-web-pdf-highlighter/id1463530746",
+    "name": "Ad Control",
+    "url": "https://apps.apple.com/us/app/ad-control/id1133106875",
     "interactionCount": "-",
-    "ratingCount": 12,
-    "ratingValue": 3.7,
-    "category": "Productivity",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/76/e4/cb76e4b7-8afb-22b9-53bc-e01482f249c7/AppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
-    "description": "Study&Research Tool for Safari",
-    "scraped_at": "2020-01-17T22:42:25.746Z",
-    "day": 0
+    "ratingCount": 13,
+    "ratingValue": 3,
+    "category": "Utilities",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/3c/c7/b2/3cc7b266-66c6-8c80-d40e-e52678405794/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
+    "description": "Adblock for Safari: Remove Ads",
+    "scraped_at": "2020-01-25T07:12:20.505Z"
+  },
+  {
+    "name": "Tailwind Publisher",
+    "url": "https://apps.apple.com/us/app/tailwind-publisher/id1226609846",
+    "interactionCount": "-",
+    "ratingCount": 13,
+    "ratingValue": 3.9,
+    "category": "Social Networking",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/80/55/a68055fe-8a9d-ee35-ad4f-653347355646/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:20.550Z"
   },
   {
     "name": "Right Click",
@@ -416,20 +360,18 @@
     "category": "Utilities",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/cc/d8/29/ccd8293c-85bc-1127-27f7-a31adca5b9da/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:30.604Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:12.649Z"
   },
   {
-    "name": "Speedifier - Control video speed in the web",
-    "url": "https://apps.apple.com/us/app/speedifier-control-video-speed-in-the-web/id1212622564",
+    "name": "LINER - Web / PDF Highlighter",
+    "url": "https://apps.apple.com/us/app/liner-web-pdf-highlighter/id1463530746",
     "interactionCount": "-",
     "ratingCount": 12,
-    "ratingValue": 1.8,
-    "category": "Utilities",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/45/3d/c3453d19-d09e-6d81-7b25-63c3fb3cbf00/AppIcon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:30.732Z",
-    "day": 0
+    "ratingValue": 3.7,
+    "category": "Productivity",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/76/e4/cb76e4b7-8afb-22b9-53bc-e01482f249c7/AppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
+    "description": "Study&Research Tool for Safari",
+    "scraped_at": "2020-01-25T07:12:19.244Z"
   },
   {
     "name": "Furiganify!",
@@ -440,32 +382,18 @@
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e2/51/ab/e251ab12-acb2-9313-79f2-748906c1bd4f/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "Add Furigana in Safari",
-    "scraped_at": "2020-01-17T22:42:30.888Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.442Z"
   },
   {
-    "name": "about:blank",
-    "url": "https://apps.apple.com/us/app/about-blank/id1239207203",
+    "name": "Speedifier - Control video speed in the web",
+    "url": "https://apps.apple.com/us/app/speedifier-control-video-speed-in-the-web/id1212622564",
     "interactionCount": "-",
-    "ratingCount": 10,
-    "ratingValue": 2.7,
-    "category": "Productivity",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/de/55/2c/de552c8e-ab5a-e4fc-edad-c7ceebfeb4a6/Mac-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "ratingCount": 12,
+    "ratingValue": 1.8,
+    "category": "Utilities",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/45/3d/c3453d19-d09e-6d81-7b25-63c3fb3cbf00/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:25.440Z",
-    "day": 0
-  },
-  {
-    "name": "Keep Everything",
-    "url": "https://apps.apple.com/us/app/keep-everything/id786983884",
-    "interactionCount": "-",
-    "ratingCount": 10,
-    "ratingValue": 3.2,
-    "category": "Productivity",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/62/d4/a962d4c9-3f01-c14d-0132-a6acd9eb9e23/AppIcon-0-0-85-220-4-2x-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:25.824Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.992Z"
   },
   {
     "name": "Block Ad Pro",
@@ -476,8 +404,40 @@
     "category": "Utilities",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/91/5e/3a/915e3a30-ebf4-fcc4-9525-c43e82778fd9/AppIcon-0-85-220-4-2x.png/246x0w.png",
     "description": "Block internet advertising",
-    "scraped_at": "2020-01-17T22:42:26.554Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:12.457Z"
+  },
+  {
+    "name": "about:blank",
+    "url": "https://apps.apple.com/us/app/about-blank/id1239207203",
+    "interactionCount": "-",
+    "ratingCount": 10,
+    "ratingValue": 2.7,
+    "category": "Productivity",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/de/55/2c/de552c8e-ab5a-e4fc-edad-c7ceebfeb4a6/Mac-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:18.656Z"
+  },
+  {
+    "name": "Keep Everything",
+    "url": "https://apps.apple.com/us/app/keep-everything/id786983884",
+    "interactionCount": "-",
+    "ratingCount": 10,
+    "ratingValue": 3.2,
+    "category": "Productivity",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/62/d4/a962d4c9-3f01-c14d-0132-a6acd9eb9e23/AppIcon-0-0-85-220-4-2x-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:21.328Z"
+  },
+  {
+    "name": "InstaLogin for Safari",
+    "url": "https://apps.apple.com/us/app/instalogin-for-safari/id1203374370",
+    "interactionCount": "-",
+    "ratingCount": 8,
+    "ratingValue": 2,
+    "category": "Utilities",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/98/19/ab/9819ab15-f30a-0c30-f9b9-4fdc316e1f38/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:14.288Z"
   },
   {
     "name": "Translator for Internet Pro",
@@ -488,20 +448,18 @@
     "category": "Productivity",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/17/2b/ba/172bba11-dfe9-94f5-7a5e-828a82eec501/AppIcon-85-220-4-2x.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:28.606Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:17.374Z"
   },
   {
-    "name": "InstaLogin for Safari",
-    "url": "https://apps.apple.com/us/app/instalogin-for-safari/id1203374370",
+    "name": "Wayback Machine",
+    "url": "https://apps.apple.com/us/app/wayback-machine/id1472432422",
     "interactionCount": "-",
     "ratingCount": 7,
-    "ratingValue": 2.1,
+    "ratingValue": 3.6,
     "category": "Utilities",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/98/19/ab/9819ab15-f30a-0c30-f9b9-4fdc316e1f38/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/79/9e/4e/799e4e67-8bf2-2c9d-45e8-5f3a4dcb604a/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:32.413Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:20.895Z"
   },
   {
     "name": "Markdown Linker for Safari",
@@ -512,32 +470,7 @@
     "category": "Productivity",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/38/c2/30/38c2302e-f861-ced1-16bf-0c3e86a5c4cc/mzl.vtrgpuqs.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:28.149Z",
-    "day": 0
-  },
-  {
-    "name": "Wayback Machine",
-    "url": "https://apps.apple.com/us/app/wayback-machine/id1472432422",
-    "interactionCount": "-",
-    "ratingCount": 6,
-    "ratingValue": 3.7,
-    "category": "Utilities",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/79/9e/4e/799e4e67-8bf2-2c9d-45e8-5f3a4dcb604a/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:30.854Z",
-    "day": 0
-  },
-  {
-    "name": "Short Menu",
-    "url": "https://apps.apple.com/us/app/short-menu/id510109287",
-    "interactionCount": "-",
-    "ratingCount": 6,
-    "ratingValue": 4.3,
-    "category": "Utilities",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/86/e6/87/86e687f7-5f89-56cd-5f2b-0838678b50f1/Icon-0-85-220-0-4-2x.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:32.331Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.082Z"
   },
   {
     "name": "Skynet : Ad Blocker for Safari",
@@ -548,8 +481,18 @@
     "category": "Utilities",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/06/29/7c/06297c62-2d45-b3b9-c308-1c9e79c5c760/Skynet.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:33.279Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.600Z"
+  },
+  {
+    "name": "Short Menu",
+    "url": "https://apps.apple.com/us/app/short-menu/id510109287",
+    "interactionCount": "-",
+    "ratingCount": 6,
+    "ratingValue": 4.3,
+    "category": "Utilities",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/86/e6/87/86e687f7-5f89-56cd-5f2b-0838678b50f1/Icon-0-85-220-0-4-2x.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.136Z"
   },
   {
     "name": "Bookmarx - Shuffle your Bookmarks",
@@ -560,68 +503,7 @@
     "category": "Productivity",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b5/35/ee/b535ee5e-af27-05dd-f2a4-6be8409eecda/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:27.728Z",
-    "day": 0
-  },
-  {
-    "name": "Price.com",
-    "url": "https://apps.apple.com/us/app/price-com/id1424535163",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 4,
-    "category": "Utilities",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/d6/26/dad62642-2f5b-0f05-3f6a-d400fc707510/AppIcon-0-0-85-220-0-0-0-0-0-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:28.443Z",
-    "day": 0
-  },
-  {
-    "name": "SIDT - HTTP Request",
-    "url": "https://apps.apple.com/us/app/sidt-http-request/id1308724728",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 5,
-    "category": "Utilities",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3a/96/ee/3a96eeec-bf6d-5385-8e25-5d82ffd9336a/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:29.402Z",
-    "day": 0
-  },
-  {
-    "name": "Keep Everything Premium",
-    "url": "https://apps.apple.com/us/app/keep-everything-premium/id868154243",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 2.3,
-    "category": "Productivity",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/d2/4d/dfd24d50-ceba-748a-598e-cedb32d5a192/PremiumAppIcon-0-0-85-220-4-2x-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:30.486Z",
-    "day": 0
-  },
-  {
-    "name": "Password Manager by Max Secure",
-    "url": "https://apps.apple.com/us/app/password-manager-by-max-secure/id1180277272",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 3,
-    "category": "Utilities",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/96/9a/9f969a00-4ff9-4335-381b-aea1df0f4f9c/AppIcon-0-85-220-4-2x.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:30.630Z",
-    "day": 0
-  },
-  {
-    "name": "UltraWide for Safari",
-    "url": "https://apps.apple.com/us/app/ultrawide-for-safari/id1321631763",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 4,
-    "category": "Entertainment",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/93/d4/3b93d42b-12a2-1188-891c-8384f09eeadc/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.jpeg/246x0w.jpg",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:31.659Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:13.835Z"
   },
   {
     "name": "Quiet",
@@ -630,22 +512,9 @@
     "ratingCount": 4,
     "ratingValue": 4.8,
     "category": "Utilities",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/84/6b/02/846b028e-4f11-aaac-6922-d5aee8f35202/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/2e/93/a42e938c-4ed6-f83a-7e11-f7145019ab89/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Block annoyances on the web",
-    "scraped_at": "2020-01-17T22:42:32.387Z",
-    "day": 0
-  },
-  {
-    "name": "AdBlocker Guard - stops advertising",
-    "url": "https://apps.apple.com/us/app/adblocker-guard-stops-advertising/id1190098022",
-    "interactionCount": "-",
-    "ratingCount": 4,
-    "ratingValue": 1.3,
-    "category": "Business",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/36/86/69/3686696d-920b-2ccd-ab07-b0f69dea39ec/AppIcon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:33.462Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:15.549Z"
   },
   {
     "name": "iPassSafe - Password Safe",
@@ -656,8 +525,84 @@
     "category": "Productivity",
     "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/34/92/be/3492be3f-00c4-f41a-7ed9-6500a7d12f9c/mzl.icrmmvga.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:33.757Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:16.021Z"
+  },
+  {
+    "name": "Keep Everything Premium",
+    "url": "https://apps.apple.com/us/app/keep-everything-premium/id868154243",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 2.3,
+    "category": "Productivity",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/df/d2/4d/dfd24d50-ceba-748a-598e-cedb32d5a192/PremiumAppIcon-0-0-85-220-4-2x-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:16.220Z"
+  },
+  {
+    "name": "AdBlocker Guard - stops advertising",
+    "url": "https://apps.apple.com/us/app/adblocker-guard-stops-advertising/id1190098022",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 1.3,
+    "category": "Business",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/36/86/69/3686696d-920b-2ccd-ab07-b0f69dea39ec/AppIcon.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:17.185Z"
+  },
+  {
+    "name": "Todoist: To-Do List & Tasks",
+    "url": "https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 4.8,
+    "category": "Productivity",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/97/84/79/97847958-a92b-9927-a39f-11450cc6b00f/AppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
+    "description": "Reminders & project planner",
+    "scraped_at": "2020-01-25T07:12:18.736Z"
+  },
+  {
+    "name": "UltraWide for Safari",
+    "url": "https://apps.apple.com/us/app/ultrawide-for-safari/id1321631763",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 4,
+    "category": "Entertainment",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3b/93/d4/3b93d42b-12a2-1188-891c-8384f09eeadc/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.jpeg/246x0w.jpg",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:18.853Z"
+  },
+  {
+    "name": "SIDT - HTTP Request",
+    "url": "https://apps.apple.com/us/app/sidt-http-request/id1308724728",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 5,
+    "category": "Utilities",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3a/96/ee/3a96eeec-bf6d-5385-8e25-5d82ffd9336a/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.058Z"
+  },
+  {
+    "name": "Price.com",
+    "url": "https://apps.apple.com/us/app/price-com/id1424535163",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 4,
+    "category": "Utilities",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/d6/26/dad62642-2f5b-0f05-3f6a-d400fc707510/AppIcon-0-0-85-220-0-0-0-0-0-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.318Z"
+  },
+  {
+    "name": "Password Manager by Max Secure",
+    "url": "https://apps.apple.com/us/app/password-manager-by-max-secure/id1180277272",
+    "interactionCount": "-",
+    "ratingCount": 4,
+    "ratingValue": 3,
+    "category": "Utilities",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/96/9a/9f969a00-4ff9-4335-381b-aea1df0f4f9c/AppIcon-0-85-220-4-2x.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.564Z"
   },
   {
     "name": "Block Advertising on internet",
@@ -668,20 +613,7 @@
     "category": "Productivity",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/99/9e/a4/999ea472-811c-de16-b0e0-279dae2f759a/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:25.588Z",
-    "day": 0
-  },
-  {
-    "name": "Todoist: To-Do List & Tasks",
-    "url": "https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637",
-    "interactionCount": "-",
-    "ratingCount": 3,
-    "ratingValue": 4.8,
-    "category": "Productivity",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/97/84/79/97847958-a92b-9927-a39f-11450cc6b00f/AppIcon-0-0-85-220-0-4-2x-0-0.png/246x0w.png",
-    "description": "Reminders & project planner",
-    "scraped_at": "2020-01-17T22:42:25.700Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.396Z"
   },
   {
     "name": "Color Calculator + Widget + Web Extension",
@@ -692,20 +624,7 @@
     "category": "Business",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/ab/b4/2e/abb42ec3-34cd-ce18-7a60-95a8e14ebc25/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:31.800Z",
-    "day": 0
-  },
-  {
-    "name": "Dashlane - Password Manager",
-    "url": "https://apps.apple.com/us/app/dashlane-password-manager/id552383089",
-    "interactionCount": "-",
-    "ratingCount": 2,
-    "ratingValue": 4.4,
-    "category": "Productivity",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/7e/6e/d87e6e98-2b1c-2790-4e4f-f14e6f40e867/Dashlane.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:25.944Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.373Z"
   },
   {
     "name": "Zeroconf Browser",
@@ -714,58 +633,9 @@
     "ratingCount": 2,
     "ratingValue": 5,
     "category": "Utilities",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/8d/5a/61/8d5a61fe-4751-3c57-d91a-0d0e42d52389/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:27.031Z",
-    "day": 0
-  },
-  {
-    "name": "Translator & Voice Collection",
-    "url": "https://apps.apple.com/us/app/translator-voice-collection/id1178801474",
-    "interactionCount": "-",
-    "ratingCount": 2,
-    "ratingValue": 4,
-    "category": "Productivity",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c1/75/6c/c1756c50-821a-846e-39d5-a6dd122caa80/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:31.273Z",
-    "day": 0
-  },
-  {
-    "name": "Send It - For Slack",
-    "url": "https://apps.apple.com/us/app/send-it-for-slack/id1293799461",
-    "interactionCount": "-",
-    "ratingCount": 2,
-    "ratingValue": 3,
-    "category": "Productivity",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/49/22/1c49222f-6c2f-440d-9d1f-78b4c63e35ba/AppIcon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:31.540Z",
-    "day": 0
-  },
-  {
-    "name": "Block images for internet ( Fast browsing )",
-    "url": "https://apps.apple.com/us/app/block-images-for-internet-fast-browsing/id1176522116",
-    "interactionCount": "-",
-    "ratingCount": 2,
-    "ratingValue": 1.5,
-    "category": "News",
-    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/fb/3c/6a/fb3c6ad2-3db0-acb5-21f7-6361284fb10e/AppIcon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:32.360Z",
-    "day": 0
-  },
-  {
-    "name": "Universal Popup Blocker",
-    "url": "https://apps.apple.com/us/app/universal-popup-blocker/id1276280594",
-    "interactionCount": "-",
-    "ratingCount": 2,
-    "ratingValue": 1,
-    "category": "Utilities",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/17/44/f5/1744f580-a9c0-ea03-af4b-5bde5a78e0a2/AppIcon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:33.515Z",
-    "day": 0
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/73/5e/dd/735edd54-5ccf-aa4c-9940-ee55003003f8/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "Discover Bonjour hosts",
+    "scraped_at": "2020-01-25T07:12:14.851Z"
   },
   {
     "name": "Block Tracking",
@@ -776,104 +646,62 @@
     "category": "Utilities",
     "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/89/6d/89896dbd-d2e3-9906-d911-15f3cf368dc9/AppIcon-0-85-220-0-4-2x.png/246x0w.png",
     "description": "Keep your life private",
-    "scraped_at": "2020-01-17T22:42:34.852Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.931Z"
   },
   {
-    "name": "WeBlog - The Blogging App",
-    "url": "https://apps.apple.com/us/app/weblog-the-blogging-app/id1242308270",
+    "name": "Send It - For Slack",
+    "url": "https://apps.apple.com/us/app/send-it-for-slack/id1293799461",
     "interactionCount": "-",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "ratingValue": 3,
     "category": "Productivity",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/96/19/1696190e-8509-a274-076e-0c82a536ed73/AppIcon-85-220-0-4-2x.png/246x0w.png",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/49/22/1c49222f-6c2f-440d-9d1f-78b4c63e35ba/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:25.350Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:18.957Z"
   },
   {
-    "name": "JustContent",
-    "url": "https://apps.apple.com/us/app/justcontent/id1178537525",
+    "name": "Universal Popup Blocker",
+    "url": "https://apps.apple.com/us/app/universal-popup-blocker/id1276280594",
     "interactionCount": "-",
-    "ratingCount": 1,
+    "ratingCount": 2,
     "ratingValue": 1,
     "category": "Utilities",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/52/2e/80522ee8-6e2f-1ce7-7d26-ace811cb16fb/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/17/44/f5/1744f580-a9c0-ea03-af4b-5bde5a78e0a2/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:25.537Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.182Z"
   },
   {
-    "name": "Inboard - Image Organizer",
-    "url": "https://apps.apple.com/us/app/inboard-image-organizer/id944109819",
+    "name": "Dashlane - Password Manager",
+    "url": "https://apps.apple.com/us/app/dashlane-password-manager/id552383089",
     "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 1,
-    "category": "Graphics & Design",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/c6/1f/a6c61ffc-f049-300a-a364-2067df95f7b7/Icon.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:28.315Z",
-    "day": 0
-  },
-  {
-    "name": "a11yTools - Web Accessibility",
-    "url": "https://apps.apple.com/us/app/a11ytools-web-accessibility/id1364813335",
-    "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 5,
-    "category": "Developer Tools",
-    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/11/8b/2a/118b2a62-7583-9d0b-9699-2915e7700ec8/AppIcon-0-0-85-220-0-0-0-0-0-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
-    "description": "Safari Accessibility Extension",
-    "scraped_at": "2020-01-17T22:42:28.374Z",
-    "day": 0
-  },
-  {
-    "name": "Buffer: Social Media Composer",
-    "url": "https://apps.apple.com/us/app/buffer-social-media-composer/id1474298973",
-    "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 5,
-    "category": "Social Networking",
-    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6b/d8/82/6bd88224-06c4-516c-a092-3cde1c865ea5/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
-    "description": "Share to Buffer from Safari",
-    "scraped_at": "2020-01-17T22:42:29.366Z",
-    "day": 0
-  },
-  {
-    "name": "EasyIQ",
-    "url": "https://apps.apple.com/us/app/easyiq/id1285083244",
-    "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 1,
-    "category": "Education",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/a7/29/0f/a7290fd4-da51-a511-ff1e-e9d074f1928b/mzl.biovddiz.png/246x0w.png",
-    "description": "",
-    "scraped_at": "2020-01-17T22:42:29.432Z",
-    "day": 0
-  },
-  {
-    "name": "1Password 7 - Password Manager",
-    "url": "https://apps.apple.com/us/app/1password-7-password-manager/id1333542190",
-    "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 3.3,
+    "ratingCount": 2,
+    "ratingValue": 4.4,
     "category": "Productivity",
-    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/12/27/25/122725c4-7bfb-19f8-97f6-6ec2fb24fcc4/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
-    "description": "Generate & keep passwords safe",
-    "scraped_at": "2020-01-17T22:42:30.518Z",
-    "day": 0
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/7e/6e/d87e6e98-2b1c-2790-4e4f-f14e6f40e867/Dashlane.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.262Z"
   },
   {
-    "name": "Utility Cube",
-    "url": "https://apps.apple.com/us/app/utility-cube/id1205673970",
+    "name": "Translator & Voice Collection",
+    "url": "https://apps.apple.com/us/app/translator-voice-collection/id1178801474",
     "interactionCount": "-",
-    "ratingCount": 1,
-    "ratingValue": 3,
+    "ratingCount": 2,
+    "ratingValue": 4,
     "category": "Productivity",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/22/c8/e5/22c8e5f5-7964-4d2d-5ab1-b015536cecc8/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c1/75/6c/c1756c50-821a-846e-39d5-a6dd122caa80/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:30.590Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.627Z"
+  },
+  {
+    "name": "Block images for internet ( Fast browsing )",
+    "url": "https://apps.apple.com/us/app/block-images-for-internet-fast-browsing/id1176522116",
+    "interactionCount": "-",
+    "ratingCount": 2,
+    "ratingValue": 1.5,
+    "category": "News",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/fb/3c/6a/fb3c6ad2-3db0-acb5-21f7-6361284fb10e/AppIcon.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:19.659Z"
   },
   {
     "name": "Honey for Safari",
@@ -884,8 +712,73 @@
     "category": "Lifestyle",
     "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d5/6a/ac/d56aacdc-86d3-15e9-a75e-9f708f739069/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
     "description": "Your Smart Shopping Assistant",
-    "scraped_at": "2020-01-17T22:42:34.790Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:11.690Z"
+  },
+  {
+    "name": "1Blocker",
+    "url": "https://apps.apple.com/us/app/1blocker/id1107421413",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 4.6,
+    "category": "Utilities",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/e7/55/bde755a6-acc0-e561-c5e3-ea0f5970cf32/MacAppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "You deserve privacy online",
+    "scraped_at": "2020-01-25T07:12:13.999Z"
+  },
+  {
+    "name": "1Password 7 - Password Manager",
+    "url": "https://apps.apple.com/us/app/1password-7-password-manager/id1333542190",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 3.3,
+    "category": "Productivity",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/12/27/25/122725c4-7bfb-19f8-97f6-6ec2fb24fcc4/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "Generate & keep passwords safe",
+    "scraped_at": "2020-01-25T07:12:15.349Z"
+  },
+  {
+    "name": "EasyIQ",
+    "url": "https://apps.apple.com/us/app/easyiq/id1285083244",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 1,
+    "category": "Education",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/a7/29/0f/a7290fd4-da51-a511-ff1e-e9d074f1928b/mzl.biovddiz.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:15.829Z"
+  },
+  {
+    "name": "Utility Cube",
+    "url": "https://apps.apple.com/us/app/utility-cube/id1205673970",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 3,
+    "category": "Productivity",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/22/c8/e5/22c8e5f5-7964-4d2d-5ab1-b015536cecc8/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:16.686Z"
+  },
+  {
+    "name": "a11yTools - Web Accessibility",
+    "url": "https://apps.apple.com/us/app/a11ytools-web-accessibility/id1364813335",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 5,
+    "category": "Developer Tools",
+    "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/11/8b/2a/118b2a62-7583-9d0b-9699-2915e7700ec8/AppIcon-0-0-85-220-0-0-0-0-0-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "Safari Accessibility Extension",
+    "scraped_at": "2020-01-25T07:12:17.043Z"
+  },
+  {
+    "name": "Buffer: Social Media Composer",
+    "url": "https://apps.apple.com/us/app/buffer-social-media-composer/id1474298973",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 5,
+    "category": "Social Networking",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/6b/d8/82/6bd88224-06c4-516c-a092-3cde1c865ea5/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/246x0w.png",
+    "description": "Share to Buffer from Safari",
+    "scraped_at": "2020-01-25T07:12:18.762Z"
   },
   {
     "name": "Speak Text Pro",
@@ -896,7 +789,39 @@
     "category": "Productivity",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/3a/88/90/3a889074-4793-1ab5-fb4a-e6e1219dcb48/AppIcon.png/246x0w.png",
     "description": "",
-    "scraped_at": "2020-01-17T22:42:34.907Z",
-    "day": 0
+    "scraped_at": "2020-01-25T07:12:19.884Z"
+  },
+  {
+    "name": "JustContent",
+    "url": "https://apps.apple.com/us/app/justcontent/id1178537525",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 1,
+    "category": "Utilities",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/52/2e/80522ee8-6e2f-1ce7-7d26-ace811cb16fb/AppIcon-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:20.470Z"
+  },
+  {
+    "name": "WeBlog - The Blogging App",
+    "url": "https://apps.apple.com/us/app/weblog-the-blogging-app/id1242308270",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 3,
+    "category": "Productivity",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/96/19/1696190e-8509-a274-076e-0c82a536ed73/AppIcon-85-220-0-4-2x.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:20.756Z"
+  },
+  {
+    "name": "Inboard - Image Organizer",
+    "url": "https://apps.apple.com/us/app/inboard-image-organizer/id944109819",
+    "interactionCount": "-",
+    "ratingCount": 1,
+    "ratingValue": 1,
+    "category": "Graphics & Design",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/c6/1f/a6c61ffc-f049-300a-a364-2067df95f7b7/Icon.png/246x0w.png",
+    "description": "",
+    "scraped_at": "2020-01-25T07:12:20.948Z"
   }
 ]

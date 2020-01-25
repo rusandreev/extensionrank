@@ -17,7 +17,7 @@ function Header() {
             <img 
               src="https://cdn.buymeacoffee.com/buttons/lato-red.png" 
               alt="Buy Me A Coffee" 
-              style={{height: '51px', width: '217px', borderRadius: '3px'}} 
+              style={{height: '40px', width: 'auto', borderRadius: '3px'}} 
             />
           </a>
           </HeaderContainer>
