@@ -4,8 +4,9 @@ import styled from 'styled-components';
 import { BROWSERS } from '../constants/common';
 
 function Extension(props) {
-    const { name, url, image, category, interactionCount, ratingValue, ratingCount, browser } = props;
-
+  const { name, url, image, category, interactionCount, ratingValue, ratingCount, browser } = props;
+  const intalls = isNaN(interactionCount) ? parseInt(interactionCount.replace(/,/g, '')) : interactionCount;
+  const ratings = isNaN(ratingCount) ? parseInt(ratingCount.replace(/,/g, '')) : ratingCount;
   const onExtensionClick = (name) => {
     if( window && window.gtag) {
       window.gtag('event', 'Extension.Link', {
@@ -31,15 +32,15 @@ function Extension(props) {
       <DataWrapper>
         <InteractionCount title="Users">
           <MobileTitle>Users:</MobileTitle>
-           {interactionCount === 10000000 ? '10 000 000 +' : interactionCount.toLocaleString('ru-RU')}
+           {intalls === 10000000 ? '10 000 000 +' : (isNaN(intalls) ? '-' : intalls.toLocaleString('ru-RU'))}
         </InteractionCount>
         <RatingCount title="Reviews">
           <MobileTitle>Reviews:</MobileTitle>
-          {ratingCount.toLocaleString('ru-RU')}
+          {isNaN(ratings) ? '-' : ratings.toLocaleString('ru-RU')}
         </RatingCount>
         <RatingValue>
           <MobileTitle>Stars:</MobileTitle>
-          {ratingValue === '-' ? ratingValue : parseFloat(ratingValue).toPrecision(2)}
+          {isNaN(ratingValue) ? '-' : parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
       </DataWrapper>
     </ExtensionWrapper>
