@@ -71,7 +71,7 @@ const ShowMoreButton = styled.div`
   border: 1px solid #333;
   border-radius: 6px;
   cursor: pointer;
-  margin: 0 auto;
+  margin: 15px  auto 0;
   text-align: center;
 `;
 
