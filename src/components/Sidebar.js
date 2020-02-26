@@ -1,30 +1,35 @@
 import React from 'react';
 import styled from 'styled-components';
+import { useParams } from 'react-router-dom';
 
 import { BROWSERS } from '../constants/common';
 
-function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, category }) {
+function Sidebar() {
+  let { type } = useParams();
+  console.log(type)
+
+  const TYPES = BROWSERS;
   return (
     <Wrapper>
       <Browsers>
         <Title>Browsers</Title>
         
-        {Object.keys(BROWSERS).map(key =>{
+        {Object.keys(TYPES).map(key =>{
           return (
-            <Button active={browser === BROWSERS[key]} key={key} onClick={() => onBrowserSelect(BROWSERS[key])}>
-              {BROWSERS[key]}
+            <Button active={type === TYPES[key]} key={key}>
+              {TYPES[key]}
             </Button>
           );
         })}
       </Browsers>
-      {categories && categories.length > 0 && (<Categories>
+      {/* {categories && categories.length > 0 && (<Categories>
         <Title>Categories</Title>
         {categories.map(item => {
           return (
-            <Button active={category === item} key={item} onClick={() => onCategorySelect(item)}>{item}</Button>
+            <Button active={category === item} key={item}>{item}</Button>
           )
         })}
-      </Categories>)}
+      </Categories>)} */}
     </Wrapper>
   );
 }

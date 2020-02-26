@@ -1,12 +1,15 @@
 import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
+import {
+  Switch,
+  Route
+} from "react-router-dom";
 
 import Header from './components/Header';
-import ExtensionList from './components/ExtensionList';
 import Footer from './components/Footer';
-import Sidebar from './components/Sidebar';
-import Hero from './components/Hero';
 import { BROWSERS, CATEGORIES } from './constants/common';
+import Content from './components/Content';
+import Home from './pages/Home';
 
 const MIN_COUNT = 100;
 
@@ -72,11 +75,18 @@ class App extends React.Component {
         <GlobalStyle />
         <Header />
         <Container>
-          <Hero />
-          <Wrapper>
-            <Sidebar onBrowserSelect={this.onBrowserSelect} onCategorySelect={this.onCategorySelect} category={category} browser={browser} categories={categories} />
-            <ExtensionList browser={browser} category={category} count={count} onShowMore={this.onShowMore} />
-          </Wrapper>
+          <Switch>
+          <Route path="/:type">
+            <Content />
+          </Route>
+          <Route path="/:type">
+            <Content />
+          </Route>
+          <Route exact path="/">
+            <Home />
+          </Route>
+          </Switch>
+            
         </Container>
         <Footer />
       </div>
@@ -92,14 +102,6 @@ export const Container = styled.div`
     height: 100%;
     margin: 0 auto;
     padding: 0 20px;
-`;
-
-const Wrapper = styled.div`
-  display: flex;
-
-  @media(max-width: 980px) {
-    flex-direction: column;
-  }
 `;
 
 const GlobalStyle = createGlobalStyle`
