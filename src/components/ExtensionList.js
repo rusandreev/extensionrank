@@ -21,23 +21,33 @@ function ExtensionList({ browser, category, count, onShowMore }) {
     extensions = sf;
   }
 
-  if (category !== '') {
-    extensions = extensions.filter(item => item.category === category);
-  }
+  // if (category !== '') {
+  //   extensions = extensions.filter(item => item.category === category);
+  // }
+
+  extensions.sort(function (a, b) {
+    if (browser === BROWSERS.SAFARI) {
+      return b.ratingCount - a.ratingCount;
+    }
+    return (b.interactionCount - a.interactionCount) + (b.ratingCount - a.ratingCount);
+  });
 
   return (
     <Wrapper>
       <ExtensionsWrapper>
         <ExtensionsHeader>
-          <Users>
+          {browser !== BROWSERS.SAFARI && <Users>
             Users
-          </Users>
+          </Users>}
           <Reviews>
             Reviews
           </Reviews>
           <Stars>
             Stars
           </Stars>
+          <LastUpdated>
+            Last Updated
+          </LastUpdated>
         </ExtensionsHeader>
         {extensions.slice(0, count).map(ext => {
             return (
@@ -108,4 +118,8 @@ const Reviews = styled(Item)`
 
 const Stars = styled(Item)`
   width: 60px;
+`;
+
+const LastUpdated = styled(Item)`
+  width: 100px;
 `;

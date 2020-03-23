@@ -17,14 +17,14 @@ function Sidebar({ onBrowserSelect, onCategorySelect, browser, categories, categ
           );
         })}
       </Browsers>
-      {categories && categories.length > 0 && (<Categories>
+      {/* {categories && categories.length > 0 && (<Categories>
         <Title>Categories</Title>
         {categories.map(item => {
           return (
             <Button active={category === item} key={item} onClick={() => onCategorySelect(item)}>{item}</Button>
           )
         })}
-      </Categories>)}
+      </Categories>)} */}
     </Wrapper>
   );
 }

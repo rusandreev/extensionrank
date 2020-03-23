@@ -2,9 +2,10 @@ import React from 'react';
 import styled from 'styled-components';
 
 import { BROWSERS } from '../constants/common';
+import {timeSince } from '../utils';
 
 function Extension(props) {
-  const { name, url, image, category, interactionCount, ratingValue, ratingCount, browser } = props;
+  const { name, url, image, lastUpdated, interactionCount, ratingValue, ratingCount, browser } = props;
   const intalls = isNaN(interactionCount) ? parseInt(interactionCount.replace(/,/g, '')) : interactionCount;
   const ratings = isNaN(ratingCount) ? parseInt(ratingCount.replace(/,/g, '')) : ratingCount;
   const onExtensionClick = (name) => {
@@ -24,16 +25,17 @@ function Extension(props) {
           <Name href={url} target="_blank" rel="noopener noreferrer" onClick={() => onExtensionClick(name)}>
             {name}
           </Name>
-          {(category) && <Category>
+          {/* {(category) && <Category>
             {category}
-          </Category>}
+          </Category>} */}
         </NameWrapper>
       </LeftColumn>
       <DataWrapper>
-        <InteractionCount title="Users">
+        {browser !== BROWSERS.SAFARI && <InteractionCount title="Users">
           <MobileTitle>Users:</MobileTitle>
-           {intalls === 10000000 ? '10 000 000 +' : (isNaN(intalls) ? '-' : intalls.toLocaleString('ru-RU'))}
-        </InteractionCount>
+           {browser === BROWSERS.CHROME ? (isNaN(intalls) ? '-' : (intalls.toLocaleString('ru-RU') + '+')) : 
+            (isNaN(intalls) ? '-' : intalls.toLocaleString('ru-RU'))}
+        </InteractionCount>}
         <RatingCount title="Reviews">
           <MobileTitle>Reviews:</MobileTitle>
           {isNaN(ratings) ? '-' : ratings.toLocaleString('ru-RU')}
@@ -42,6 +44,9 @@ function Extension(props) {
           <MobileTitle>Stars:</MobileTitle>
           {isNaN(ratingValue) ? '-' : parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
+        <LastUpdated>
+          {timeSince(lastUpdated) + ' ago'}
+        </LastUpdated>
       </DataWrapper>
     </ExtensionWrapper>
   );
@@ -53,7 +58,7 @@ const Image = styled.img`
   min-width: 32px;
   width: 32px;
   height: 100%;
-  margin-right: 6px;
+  margin-right: 10px;
 `;
 
 const ExtensionWrapper = styled.div`
@@ -71,6 +76,8 @@ const ExtensionWrapper = styled.div`
 
 const LeftColumn = styled.div`
     display: flex;
+    align-items: center;
+
     @media(max-width: 980px) {
       width: 100%;
     }
@@ -131,14 +138,6 @@ const InteractionCount = styled(Data)`
   }
 `;
 
-const InteractionCountDiff = styled.div`
-  font-size: 11px;
-
-    span {
-      color: ${props => props.positive ? 'green' : 'red'};
-    }
-`;
-
 const RatingCount = styled(Data)`
   min-width: 114px;
   margin-left: 15px;
@@ -147,6 +146,11 @@ const RatingCount = styled(Data)`
 const RatingValue = styled(Data)`
   margin-left: 15px;
   min-width: 60px;
+`;
+
+const LastUpdated = styled(Data)`
+  margin-left: 15px;
+  min-width: 100px;
 `;
 
 const MobileTitle = styled.div`
