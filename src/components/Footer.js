@@ -16,7 +16,7 @@ function Footer() {
             </TwitterUser>
           </div>
           
-            <a href="https://www.producthunt.com/posts/extension-rank?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-extension-rank" target="_blank">
+            <a href="https://www.producthunt.com/posts/extension-rank?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-extension-rank" target="_blank" rel="noopener noreferrer">
               <img
                 src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=180418&theme=light" 
                 alt="Extension Rank - Discover extensions for Chrome, Firefox and  Opera browsers | Product Hunt Embed" 
