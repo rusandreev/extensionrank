@@ -2,20 +2,20 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import styled from 'styled-components';
 
-// import ExtensionList from './components/ExtensionList';
+import ExtensionList from './ExtensionList';
 import Sidebar from './Sidebar';
 import Hero from './Hero';
 
 
-const Content = props => {
+const Content = ({ onShowMore, count }) => {
     let { type } = useParams();
 
     return (
         <div>
             <Hero />
             <Wrapper>
-              {/* <Sidebar /> */}
-              {/* <ExtensionList browser={browser} category={category} count={count} onShowMore={this.onShowMore} /> */}
+              <Sidebar browser={type} />
+              <ExtensionList browser={type} count={count} onShowMore={onShowMore} />
             </Wrapper>
         </div>
     );

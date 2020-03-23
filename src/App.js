@@ -2,12 +2,13 @@ import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 import {
   Switch,
-  Route
+  Route,
+  Redirect
 } from "react-router-dom";
 
 import Header from './components/Header';
 import Footer from './components/Footer';
-import { BROWSERS, CATEGORIES } from './constants/common';
+import { BROWSERS } from './constants/common';
 import Content from './components/Content';
 import Home from './pages/Home';
 
@@ -23,35 +24,21 @@ class App extends React.Component {
       count: MIN_COUNT
     };
 
-    this.onBrowserSelect = this.onBrowserSelect.bind(this);
-    this.onCategorySelect = this.onCategorySelect.bind(this);
+    // this.onCategorySelect = this.onCategorySelect.bind(this);
     this.onShowMore = this.onShowMore.bind(this);
   }
 
-  onBrowserSelect(browser) {
-    this.setState({ browser });
-    this.setState({ category: '' });
-    this.setState({ count: MIN_COUNT });
+  // onCategorySelect(category) {
+  //   this.setState({ category });
+  //   this.setState({ count: MIN_COUNT });
 
-    if( window && window.gtag) {
-      window.gtag('event', 'Sidebar.Browser', {
-        event_category: 'Sidebar',
-        event_label: browser,
-      });
-    }
-  }
-
-  onCategorySelect(category) {
-    this.setState({ category });
-    this.setState({ count: MIN_COUNT });
-
-    if( window && window.gtag) {
-      window.gtag('event', 'Sidebar.Category', {
-        event_category: 'Sidebar',
-        event_label: category
-      });
-    }
-  }
+  //   if( window && window.gtag) {
+  //     window.gtag('event', 'Sidebar.Category', {
+  //       event_category: 'Sidebar',
+  //       event_label: category
+  //     });
+  //   }
+  // }
 
   onShowMore() {
     const { category, browser, count } = this.state;
@@ -67,8 +54,8 @@ class App extends React.Component {
   }
 
   render() {
-    const { browser, category, count } = this.state;
-    const categories = CATEGORIES[browser];
+    const { browser, count } = this.state;
+    // const categories = CATEGORIES[browser];
 
     return (
       <div className="App">
@@ -77,14 +64,12 @@ class App extends React.Component {
         <Container>
           <Switch>
           <Route path="/:type">
-            <Content />
+            <Content onShowMore={this.onShowMore} count={count} />
           </Route>
-          <Route path="/:type">
-            <Content />
-          </Route>
-          <Route exact path="/">
+          <Redirect to="/chrome" />
+          {/* <Route exact path="/">
             <Home />
-          </Route>
+          </Route> */}
           </Switch>
             
         </Container>

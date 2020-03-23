@@ -1,24 +1,25 @@
 import React from 'react';
 import styled from 'styled-components';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 
 import { BROWSERS } from '../constants/common';
 
 function Sidebar() {
   let { type } = useParams();
-  console.log(type)
 
   const TYPES = BROWSERS;
   return (
     <Wrapper>
       <Browsers>
         <Title>Browsers</Title>
-        
         {Object.keys(TYPES).map(key =>{
           return (
-            <Button active={type === TYPES[key]} key={key}>
-              {TYPES[key]}
-            </Button>
+            <Link to={TYPES[key]}  key={key}>
+              <Button active={type === TYPES[key]}>
+                {TYPES[key]}
+              </Button>
+            </Link>
+            
           );
         })}
       </Browsers>
@@ -45,6 +46,8 @@ const Button = styled.div`
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.15s ease-in-out;
+  text-transform: capitalize;
+  text-decoration: none;
 
   &:hover {
     background: #ebebeb;
@@ -55,15 +58,15 @@ const Section = styled.div`
   margin-bottom: 30px;
 `;
 
-const Categories = styled(Section)`
-  @media(max-width: 980px) {
-    display: none;
-  }
+// const Categories = styled(Section)`
+//   @media(max-width: 980px) {
+//     display: none;
+//   }
 
-  ${Button} {
-    text-transform: lowercase;
-  }
-`;
+//   ${Button} {
+//     text-transform: lowercase;
+//   }
+// `;
 
 const Title = styled.div``;
 
@@ -79,6 +82,11 @@ const Browsers = styled(Section)`
     ${Button} {
       margin: 0 10px;
     }
+  }
+
+  a {
+    text-decoration: none;
+    color: #000;
   }
 `;
 

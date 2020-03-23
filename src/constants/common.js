@@ -1,8 +1,8 @@
 export const BROWSERS = {
-    CHROME: 'Chrome',
-    FIREFOX: 'Firefox',
-    OPERA: 'Opera',
-    SAFARI: 'Safari',
+    CHROME: 'chrome',
+    FIREFOX: 'firefox',
+    OPERA: 'opera',
+    SAFARI: 'safari',
 };
 
 export const CATEGORIES = {

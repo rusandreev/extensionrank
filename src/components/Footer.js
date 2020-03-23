@@ -10,18 +10,18 @@ function Footer() {
         <Container>
         <FooterContainer>
           <div>
-            © 2020 - Extension Rank - Made by 
+            © 2020 - Extension Rank. Made by 
             <TwitterUser>
             <Twitter color="#08a0e9" size={14} /><a href="https://twitter.com/rusandreev" target="_blank" rel="noopener noreferrer">rusandreev</a>
             </TwitterUser>
           </div>
           
-            <a href="https://www.producthunt.com/posts/extension-rank?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-extension-rank" target="_blank" rel="noopener noreferrer">
+            {/* <a href="https://www.producthunt.com/posts/extension-rank?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-extension-rank" target="_blank" rel="noopener noreferrer">
               <img
                 src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=180418&theme=light" 
                 alt="Extension Rank - Discover extensions for Chrome, Firefox and  Opera browsers | Product Hunt Embed" 
                 style={{width: '250px', height: '54px'}} />
-            </a>
+            </a> */}
           </FooterContainer>
             
         </Container>

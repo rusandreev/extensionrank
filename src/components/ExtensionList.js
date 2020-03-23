@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
 import cx from '../ch_ext.json';
@@ -8,7 +8,7 @@ import sf from '../sf_ext.json';
 import Extension from './Extension';
 import { BROWSERS } from '../constants/common';
 
-function ExtensionList({ browser, category, count, onShowMore }) {
+function ExtensionList({ browser, count, onShowMore }) {
   let extensions;
   
   if (browser === BROWSERS.CHROME) {

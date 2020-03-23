@@ -24,7 +24,7 @@ const HeroWrapper = styled.div`
     background: #fff;
     border-radius: 6px;
     font-size: 22px;
-    padding: 10px;
+    padding: 10px 0 0;
 
     @media(max-width: 980px) {
         font-size: 20px;
