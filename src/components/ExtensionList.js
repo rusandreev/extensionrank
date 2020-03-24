@@ -5,28 +5,27 @@ import cx from '../ch_ext.json';
 import fx from '../fx_ext.json';
 import op from '../op_ext.json';
 import sf from '../sf_ext.json';
+import shopifyData from '../json/shopify.json';
 import Extension from './Extension';
-import { BROWSERS } from '../constants/common';
+import { BROWSERS, SHOPS } from '../constants/common';
 
-function ExtensionList({ browser, count, onShowMore }) {
-  let extensions;
-  
-  if (browser === BROWSERS.CHROME) {
-    extensions = cx;
-  } else if (browser === BROWSERS.FIREFOX) {
-    extensions = fx;
-  } else if (browser === BROWSERS.OPERA) {
-    extensions = op;
-  } else if (browser === BROWSERS.SAFARI) {
-    extensions = sf;
-  }
+const data = {
+  [BROWSERS.CHROME]: cx,
+  [BROWSERS.FIREFOX]: fx,
+  [BROWSERS.OPERA]: op,
+  [BROWSERS.SAFARI]: sf,
+  [SHOPS.SHOPIFY]: shopifyData,
+}
+
+function ExtensionList({ platform, count, onShowMore }) {
+  let extensions = data[platform];
 
   // if (category !== '') {
   //   extensions = extensions.filter(item => item.category === category);
   // }
 
   extensions.sort(function (a, b) {
-    if (browser === BROWSERS.SAFARI) {
+    if (platform === BROWSERS.SAFARI || platform === SHOPS.SHOPIFY) {
       return b.ratingCount - a.ratingCount;
     }
     return (b.interactionCount - a.interactionCount) + (b.ratingCount - a.ratingCount);
@@ -36,7 +35,7 @@ function ExtensionList({ browser, count, onShowMore }) {
     <Wrapper>
       <ExtensionsWrapper>
         <ExtensionsHeader>
-          {browser !== BROWSERS.SAFARI && <Users>
+          {platform !== BROWSERS.SAFARI && platform !== SHOPS.SHOPIFY && <Users>
             Users
           </Users>}
           <Reviews>
@@ -45,13 +44,13 @@ function ExtensionList({ browser, count, onShowMore }) {
           <Stars>
             Stars
           </Stars>
-          <LastUpdated>
+          {platform !== SHOPS.SHOPIFY && <LastUpdated>
             Last Updated
-          </LastUpdated>
+          </LastUpdated>}
         </ExtensionsHeader>
         {extensions.slice(0, count).map(ext => {
             return (
-                <Extension {...ext} key={ext.url} browser={browser} />
+                <Extension {...ext} key={ext.url} platform={platform} />
             )
         })}
       </ExtensionsWrapper>

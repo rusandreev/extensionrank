@@ -8,14 +8,14 @@ import Hero from './Hero';
 
 
 const Content = ({ onShowMore, count }) => {
-    let { type } = useParams();
+    let { platform } = useParams();
 
     return (
         <div>
             <Hero />
             <Wrapper>
-              <Sidebar browser={type} />
-              <ExtensionList browser={type} count={count} onShowMore={onShowMore} />
+              <Sidebar platform={platform} />
+              <ExtensionList platform={platform} count={count} onShowMore={onShowMore} />
             </Wrapper>
         </div>
     );

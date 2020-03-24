@@ -2,21 +2,30 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link, useParams } from 'react-router-dom';
 
-import { BROWSERS } from '../constants/common';
+import { BROWSERS, SHOPS } from '../constants/common';
 
 function Sidebar() {
-  let { type } = useParams();
+  let { platform } = useParams();
 
-  const TYPES = BROWSERS;
+  let categories;
+  let title;
+  if (platform === BROWSERS.CHROME || platform === BROWSERS.FIREFOX || platform === BROWSERS.OPERA ||
+    platform === BROWSERS.SAFARI) {
+      categories = BROWSERS;
+      title = 'Browsers';
+    } else if (platform === SHOPS.SHOPIFY) {
+      categories = SHOPS;
+      title = 'Shops';
+    }
   return (
     <Wrapper>
       <Browsers>
-        <Title>Browsers</Title>
-        {Object.keys(TYPES).map(key =>{
+        <Title>{title}</Title>
+        {Object.keys(categories).map(key =>{
           return (
-            <Link to={TYPES[key]}  key={key}>
-              <Button active={type === TYPES[key]}>
-                {TYPES[key]}
+            <Link to={categories[key]}  key={key}>
+              <Button active={platform === categories[key]}>
+                {categories[key]}
               </Button>
             </Link>
             
@@ -27,7 +36,7 @@ function Sidebar() {
         <Title>Categories</Title>
         {categories.map(item => {
           return (
-            <Button active={category === item} key={item}>{item}</Button>
+            <Button active={platform === item} key={item}>{item}</Button>
           )
         })}
       </Categories>)} */}

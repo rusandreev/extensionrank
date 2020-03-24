@@ -54,8 +54,7 @@ class App extends React.Component {
   }
 
   render() {
-    const { browser, count } = this.state;
-    // const categories = CATEGORIES[browser];
+    const { count } = this.state;
 
     return (
       <div className="App">
@@ -63,7 +62,7 @@ class App extends React.Component {
         <Header />
         <Container>
           <Switch>
-          <Route path="/:type">
+          <Route path="/:platform">
             <Content onShowMore={this.onShowMore} count={count} />
           </Route>
           <Redirect to="/chrome" />

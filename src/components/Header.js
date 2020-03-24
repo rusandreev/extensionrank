@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 import { Container } from '../App';
 import logo from '../logo.png';
@@ -20,6 +21,12 @@ function Header() {
               style={{height: '40px', width: 'auto', borderRadius: '3px'}} 
             />
           </a> */}
+          <Menu>
+            <Link to="/chrome">Browsers</Link>
+            <Link to="/shopify">Shops</Link>
+            <Link to="/vscode">Text editors</Link>
+            <Link to="/figma">Design tools</Link>
+          </Menu>
           </HeaderContainer>
         </Container>
     </HeaderWrapper>
@@ -27,6 +34,17 @@ function Header() {
 }
 
 export default Header;
+
+const Menu = styled.div`
+  display: flex;
+  align-items: center;
+
+  a {
+    text-decoration: none;
+    color: #000;
+    margin-left: 15px;
+  }
+`;
 
 const HeaderContainer = styled.div`
   display: flex;

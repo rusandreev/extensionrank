@@ -1,18 +1,18 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { BROWSERS } from '../constants/common';
+import { BROWSERS, SHOPS } from '../constants/common';
 import {timeSince } from '../utils';
 
 function Extension(props) {
-  const { name, url, image, lastUpdated, interactionCount, ratingValue, ratingCount, browser } = props;
+  const { name, url, image, lastUpdated, interactionCount, ratingValue, ratingCount, platform } = props;
   const intalls = isNaN(interactionCount) ? parseInt(interactionCount.replace(/,/g, '')) : interactionCount;
   const ratings = isNaN(ratingCount) ? parseInt(ratingCount.replace(/,/g, '')) : ratingCount;
   const onExtensionClick = (name) => {
     if( window && window.gtag) {
       window.gtag('event', 'Extension.Link', {
         event_category: 'Extension',
-        event_label: browser + '/' + name
+        event_label: platform + '/' + name
       });
     }
   } 
@@ -31,9 +31,9 @@ function Extension(props) {
         </NameWrapper>
       </LeftColumn>
       <DataWrapper>
-        {browser !== BROWSERS.SAFARI && <InteractionCount title="Users">
+        {(platform !== BROWSERS.SAFARI && platform !== SHOPS.SHOPIFY) && <InteractionCount title="Users">
           <MobileTitle>Users:</MobileTitle>
-           {browser === BROWSERS.CHROME ? (isNaN(intalls) ? '-' : (intalls.toLocaleString('ru-RU') + '+')) : 
+           {platform === BROWSERS.CHROME ? (isNaN(intalls) ? '-' : (intalls.toLocaleString('ru-RU') + '+')) : 
             (isNaN(intalls) ? '-' : intalls.toLocaleString('ru-RU'))}
         </InteractionCount>}
         <RatingCount title="Reviews">
@@ -44,9 +44,9 @@ function Extension(props) {
           <MobileTitle>Stars:</MobileTitle>
           {isNaN(ratingValue) ? '-' : parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
-        <LastUpdated>
+        {platform !== SHOPS.SHOPIFY && <LastUpdated>
           {timeSince(lastUpdated) + ' ago'}
-        </LastUpdated>
+        </LastUpdated>}
       </DataWrapper>
     </ExtensionWrapper>
   );

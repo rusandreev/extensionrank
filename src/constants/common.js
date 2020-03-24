@@ -5,6 +5,10 @@ export const BROWSERS = {
     SAFARI: 'safari',
 };
 
+export const SHOPS = {
+    SHOPIFY: 'shopify'
+};
+
 export const CATEGORIES = {
     [BROWSERS.CHROME]: [
         "productivity",
