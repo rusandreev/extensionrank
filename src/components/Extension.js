@@ -5,7 +5,7 @@ import { BROWSERS, SHOPS } from '../constants/common';
 import {timeSince } from '../utils';
 
 function Extension(props) {
-  const { name, url, image, lastUpdated, interactionCount, ratingValue, ratingCount, platform } = props;
+  const { name, url, image, lastUpdated, interactionCount, ratingValue, ratingCount, platform, index } = props;
   const intalls = isNaN(interactionCount) ? parseInt(interactionCount.replace(/,/g, '')) : interactionCount;
   const ratings = isNaN(ratingCount) ? parseInt(ratingCount.replace(/,/g, '')) : ratingCount;
   const onExtensionClick = (name) => {
@@ -20,6 +20,7 @@ function Extension(props) {
   return (
     <ExtensionWrapper>
       <LeftColumn>
+        <Place>{index + 1}.</Place>
         <Image src={image} />
         <NameWrapper>
           <Name href={url} target="_blank" rel="noopener noreferrer" onClick={() => onExtensionClick(name)}>
@@ -53,6 +54,11 @@ function Extension(props) {
 }
 
 export default Extension;
+
+const Place = styled.span`
+    display: inline-block;
+    margin-right: 20px;
+`;
 
 const Image = styled.img`
   min-width: 32px;

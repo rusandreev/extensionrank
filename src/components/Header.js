@@ -21,12 +21,12 @@ function Header() {
               style={{height: '40px', width: 'auto', borderRadius: '3px'}} 
             />
           </a> */}
-          <Menu>
+          {/* <Menu>
             <Link to="/chrome">Browsers</Link>
             <Link to="/shopify">Shops</Link>
             <Link to="/vscode">Text editors</Link>
             <Link to="/figma">Design tools</Link>
-          </Menu>
+          </Menu> */}
           </HeaderContainer>
         </Container>
     </HeaderWrapper>

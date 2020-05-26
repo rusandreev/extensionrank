@@ -48,9 +48,9 @@ function ExtensionList({ platform, count, onShowMore }) {
             Last Updated
           </LastUpdated>}
         </ExtensionsHeader>
-        {extensions.slice(0, count).map(ext => {
+        {extensions.slice(0, count).map((ext, index) => {
             return (
-                <Extension {...ext} key={ext.url} platform={platform} />
+                <Extension {...ext} key={ext.url} index={index} platform={platform} />
             )
         })}
       </ExtensionsWrapper>
