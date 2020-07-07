@@ -2,8 +2,8 @@
     {
       "name": "Adblock Plus",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/",
-      "interactionCount": 7165592,
-      "ratingCount": 12935,
+      "interactionCount": 7162534,
+      "ratingCount": 12944,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/1/1865-64.png",
@@ -13,8 +13,8 @@
     {
       "name": "uBlock Origin",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/",
-      "interactionCount": 3902398,
-      "ratingCount": 11996,
+      "interactionCount": 3903798,
+      "ratingCount": 12006,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/607/607454-64.png",
@@ -24,7 +24,7 @@
     {
       "name": "Easy Screenshot",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/easyscreenshot/",
-      "interactionCount": 2990805,
+      "interactionCount": 2993064,
       "ratingCount": 682,
       "ratingValue": 4,
       "category": "category",
@@ -35,8 +35,8 @@
     {
       "name": "Video DownloadHelper",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/",
-      "interactionCount": 2351748,
-      "ratingCount": 23896,
+      "interactionCount": 2349080,
+      "ratingCount": 23908,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-64.png",
@@ -46,8 +46,8 @@
     {
       "name": "Cisco Webex Extension",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/cisco-webex-extension/",
-      "interactionCount": 2220666,
-      "ratingCount": 233,
+      "interactionCount": 2212845,
+      "ratingCount": 234,
       "ratingValue": 2.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/735/735601-64.png",
@@ -57,8 +57,8 @@
     {
       "name": "Facebook Container",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/facebook-container/",
-      "interactionCount": 1622003,
-      "ratingCount": 2302,
+      "interactionCount": 1619053,
+      "ratingCount": 2305,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/954/954390-64.png",
@@ -68,8 +68,8 @@
     {
       "name": "Grammarly for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/",
-      "interactionCount": 1154211,
-      "ratingCount": 2109,
+      "interactionCount": 1152490,
+      "ratingCount": 2112,
       "ratingValue": 4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/566/566314-64.png",
@@ -79,8 +79,8 @@
     {
       "name": "Ghostery – Privacy Ad Blocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/ghostery/",
-      "interactionCount": 1060246,
-      "ratingCount": 4168,
+      "interactionCount": 1059483,
+      "ratingCount": 4172,
       "ratingValue": 4.4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/9/9609-64.png",
@@ -90,8 +90,8 @@
     {
       "name": "DuckDuckGo Privacy Essentials",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/",
-      "interactionCount": 1053635,
-      "ratingCount": 935,
+      "interactionCount": 1055407,
+      "ratingCount": 937,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/385/385621-64.png",
@@ -101,8 +101,8 @@
     {
       "name": "AdBlock for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/",
-      "interactionCount": 1022847,
-      "ratingCount": 2342,
+      "interactionCount": 1021509,
+      "ratingCount": 2343,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/532/532754-64.png",
@@ -112,19 +112,19 @@
     {
       "name": "Norton Safe Web",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/norton-safe-web/",
-      "interactionCount": 986455,
+      "interactionCount": 987486,
       "ratingCount": 217,
       "ratingValue": 3.9,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/746/746257-64.png",
       "description": "Protects your browser from online threats.",
-      "lastUpdated": "2020-05-04T21:00:00.000Z"
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
     },
     {
       "name": "Honey",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/honey/",
-      "interactionCount": 943934,
-      "ratingCount": 3306,
+      "interactionCount": 943332,
+      "ratingCount": 3309,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/415/415198-64.png",
@@ -134,8 +134,8 @@
     {
       "name": "Privacy Badger",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/",
-      "interactionCount": 912090,
-      "ratingCount": 1493,
+      "interactionCount": 910837,
+      "ratingCount": 1492,
       "ratingValue": 4.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-64.png",
@@ -145,8 +145,8 @@
     {
       "name": "LastPass Password Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/",
-      "interactionCount": 888625,
-      "ratingCount": 8328,
+      "interactionCount": 887325,
+      "ratingCount": 8331,
       "ratingValue": 3.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/8/8542-64.png",
@@ -156,8 +156,8 @@
     {
       "name": "Avast Online Security",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/avast-online-security/",
-      "interactionCount": 875183,
-      "ratingCount": 461,
+      "interactionCount": 873886,
+      "ratingCount": 464,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/473/473816-64.png",
@@ -167,8 +167,8 @@
     {
       "name": "AdBlocker Ultimate",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/",
-      "interactionCount": 802234,
-      "ratingCount": 7463,
+      "interactionCount": 802834,
+      "ratingCount": 7470,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/686/686646-64.png",
@@ -178,7 +178,7 @@
     {
       "name": "Визуальные закладки от Яндекс",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yandex-visual-bookmarks/",
-      "interactionCount": 774975,
+      "interactionCount": 787606,
       "ratingCount": 545,
       "ratingValue": 3.5,
       "category": "category",
@@ -189,8 +189,8 @@
     {
       "name": "Enhancer for YouTube™",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/",
-      "interactionCount": 667829,
-      "ratingCount": 6430,
+      "interactionCount": 666874,
+      "ratingCount": 6432,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/700/700308-64.png",
@@ -200,8 +200,8 @@
     {
       "name": "To Google Translate",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/",
-      "interactionCount": 651429,
-      "ratingCount": 1837,
+      "interactionCount": 650987,
+      "ratingCount": 1843,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/445/445852-64.png",
@@ -211,8 +211,8 @@
     {
       "name": "HTTPS Everywhere",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/",
-      "interactionCount": 565115,
-      "ratingCount": 1935,
+      "interactionCount": 566955,
+      "ratingCount": 1934,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-64.png",
@@ -222,8 +222,8 @@
     {
       "name": "Easy Youtube Video Downloader Express",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/",
-      "interactionCount": 558833,
-      "ratingCount": 7408,
+      "interactionCount": 558273,
+      "ratingCount": 7412,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/463/463677-64.png",
@@ -233,8 +233,8 @@
     {
       "name": "Norton Password Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/norton-password-manager/",
-      "interactionCount": 555584,
-      "ratingCount": 395,
+      "interactionCount": 556455,
+      "ratingCount": 396,
       "ratingValue": 3.4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/717/717294-64.png",
@@ -244,7 +244,7 @@
     {
       "name": "Советник Яндекс.Маркета",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/sovetnik/",
-      "interactionCount": 530876,
+      "interactionCount": 537961,
       "ratingCount": 56,
       "ratingValue": 4,
       "category": "category",
@@ -255,8 +255,8 @@
     {
       "name": "Kaspersky Protection 2020",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/kaspersky-protection-2020/",
-      "interactionCount": 522858,
-      "ratingCount": 1273,
+      "interactionCount": 524483,
+      "ratingCount": 1277,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/957/957750-64.png",
@@ -266,7 +266,7 @@
     {
       "name": "Amazon Assistant for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/amazon-browser-bar/",
-      "interactionCount": 462539,
+      "interactionCount": 462515,
       "ratingCount": 958,
       "ratingValue": 3.4,
       "category": "category",
@@ -277,8 +277,8 @@
     {
       "name": "SaveFrom.net helper all-in-1 / youtube downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/",
-      "interactionCount": 446627,
-      "ratingCount": 2540,
+      "interactionCount": 446668,
+      "ratingCount": 2542,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/271/271830-64.png",
@@ -288,8 +288,8 @@
     {
       "name": "Google Translator for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/",
-      "interactionCount": 437570,
-      "ratingCount": 1449,
+      "interactionCount": 437267,
+      "ratingCount": 1450,
       "ratingValue": 3.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/46/46308-64.png",
@@ -299,7 +299,7 @@
     {
       "name": "Ecosia — The search engine that plants trees 🌱",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/",
-      "interactionCount": 406140,
+      "interactionCount": 405072,
       "ratingCount": 588,
       "ratingValue": 4.8,
       "category": "category",
@@ -310,7 +310,7 @@
     {
       "name": "NoScript Security Suite",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/noscript/",
-      "interactionCount": 384891,
+      "interactionCount": 384725,
       "ratingCount": 3373,
       "ratingValue": 4.5,
       "category": "category",
@@ -321,7 +321,7 @@
     {
       "name": "Pinterest Save Button",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/pinterest/",
-      "interactionCount": 362864,
+      "interactionCount": 362136,
       "ratingCount": 237,
       "ratingValue": 3.4,
       "category": "category",
@@ -332,8 +332,8 @@
     {
       "name": "Browsec VPN",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/browsec/",
-      "interactionCount": 334446,
-      "ratingCount": 1785,
+      "interactionCount": 334810,
+      "ratingCount": 1784,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/603/603434-64.png",
@@ -343,7 +343,7 @@
     {
       "name": "AdGuard AdBlocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/",
-      "interactionCount": 328550,
+      "interactionCount": 329276,
       "ratingCount": 3041,
       "ratingValue": 4.7,
       "category": "category",
@@ -354,8 +354,8 @@
     {
       "name": "Dark Reader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/darkreader/",
-      "interactionCount": 325113,
-      "ratingCount": 2606,
+      "interactionCount": 325802,
+      "ratingCount": 2611,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/855/855413-64.png",
@@ -363,10 +363,21 @@
       "lastUpdated": "2020-07-05T21:00:00.000Z"
     },
     {
+      "name": "Greasemonkey",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/",
+      "interactionCount": 321087,
+      "ratingCount": 2142,
+      "ratingValue": 4.1,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/0/748-64.png",
+      "description": "Customize the way a web page displays or behaves, by using small bits of JavaScript.",
+      "lastUpdated": "2019-06-11T21:00:00.000Z"
+    },
+    {
       "name": "Tampermonkey",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/",
-      "interactionCount": 313557,
-      "ratingCount": 2089,
+      "interactionCount": 312358,
+      "ratingCount": 2093,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/683/683490-64.png",
@@ -376,7 +387,7 @@
     {
       "name": "AdBlocker for YouTube™",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube/",
-      "interactionCount": 303702,
+      "interactionCount": 303425,
       "ratingCount": 468,
       "ratingValue": 4.2,
       "category": "category",
@@ -387,7 +398,7 @@
     {
       "name": "Avast SafePrice",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/avast-safeprice/",
-      "interactionCount": 296365,
+      "interactionCount": 295757,
       "ratingCount": 98,
       "ratingValue": 4.1,
       "category": "category",
@@ -398,8 +409,8 @@
     {
       "name": "Zoom Scheduler",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler/",
-      "interactionCount": 293233,
-      "ratingCount": 442,
+      "interactionCount": 292461,
+      "ratingCount": 443,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/880/880806-64.png",
@@ -409,8 +420,8 @@
     {
       "name": "iCloud Bookmarks",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/icloud-bookmarks/",
-      "interactionCount": 284650,
-      "ratingCount": 3052,
+      "interactionCount": 284477,
+      "ratingCount": 3056,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/462/462729-64.png",
@@ -420,7 +431,7 @@
     {
       "name": "Video Downloader professional",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-downloader-profession/",
-      "interactionCount": 278144,
+      "interactionCount": 277736,
       "ratingCount": 4880,
       "ratingValue": 4.3,
       "category": "category",
@@ -431,8 +442,8 @@
     {
       "name": "DownThemAll!",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/downthemall/",
-      "interactionCount": 256003,
-      "ratingCount": 3348,
+      "interactionCount": 255885,
+      "ratingCount": 3349,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/0/201-64.png",
@@ -442,8 +453,8 @@
     {
       "name": "Hoxx VPN Proxy",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/hoxx-vpn-proxy/",
-      "interactionCount": 247789,
-      "ratingCount": 12080,
+      "interactionCount": 247671,
+      "ratingCount": 12082,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/680/680403-64.png",
@@ -453,7 +464,7 @@
     {
       "name": "Reddit Enhancement Suite",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/",
-      "interactionCount": 245415,
+      "interactionCount": 245032,
       "ratingCount": 477,
       "ratingValue": 4.8,
       "category": "category",
@@ -464,8 +475,8 @@
     {
       "name": "BetterTTV",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/betterttv/",
-      "interactionCount": 231312,
-      "ratingCount": 217,
+      "interactionCount": 231694,
+      "ratingCount": 219,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/624/624952-64.png",
@@ -475,8 +486,8 @@
     {
       "name": "Firefox Multi-Account Containers",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/",
-      "interactionCount": 226399,
-      "ratingCount": 4418,
+      "interactionCount": 226232,
+      "ratingCount": 4422,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/782/782160-64.png",
@@ -486,7 +497,7 @@
     {
       "name": "Yandex.Bar",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yandexbar/",
-      "interactionCount": 211741,
+      "interactionCount": 215725,
       "ratingCount": 478,
       "ratingValue": 2.3,
       "category": "category",
@@ -497,8 +508,8 @@
     {
       "name": "Belgium eID",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/belgium-eid/",
-      "interactionCount": 203766,
-      "ratingCount": 1038,
+      "interactionCount": 203692,
+      "ratingCount": 1042,
       "ratingValue": 3.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/51/51744-64.png",
@@ -508,8 +519,8 @@
     {
       "name": "YouTube Video and Audio Downloader (WebEx)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader_webx/",
-      "interactionCount": 197437,
-      "ratingCount": 1014,
+      "interactionCount": 197339,
+      "ratingCount": 1015,
       "ratingValue": 4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/810/810604-64.png",
@@ -519,7 +530,7 @@
     {
       "name": "Evernote Web Clipper",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/evernote-web-clipper/",
-      "interactionCount": 181653,
+      "interactionCount": 181472,
       "ratingCount": 1756,
       "ratingValue": 3,
       "category": "category",
@@ -530,8 +541,8 @@
     {
       "name": "Google Translate, ImTranslator, Dictionary, TTS",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/imtranslator/",
-      "interactionCount": 175971,
-      "ratingCount": 1586,
+      "interactionCount": 176295,
+      "ratingCount": 1588,
       "ratingValue": 4.4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/2/2257-64.png",
@@ -541,8 +552,8 @@
     {
       "name": "Cookie AutoDelete",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/",
-      "interactionCount": 168893,
-      "ratingCount": 1049,
+      "interactionCount": 168553,
+      "ratingCount": 1050,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/784/784287-64.png",
@@ -550,9 +561,20 @@
       "lastUpdated": "2020-06-18T21:00:00.000Z"
     },
     {
+      "name": "Bitwarden - Free Password Manager",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
+      "interactionCount": 166156,
+      "ratingCount": 3350,
+      "ratingValue": 4.8,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/735/735894-64.png",
+      "description": "A secure and free password manager for all of your devices.",
+      "lastUpdated": "2020-06-28T21:00:00.000Z"
+    },
+    {
       "name": "Rakuten: Get Cash Back For Shopping",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/ebates/",
-      "interactionCount": 166271,
+      "interactionCount": 166017,
       "ratingCount": 857,
       "ratingValue": 4.6,
       "category": "category",
@@ -561,20 +583,9 @@
       "lastUpdated": "2020-07-01T21:00:00.000Z"
     },
     {
-      "name": "Bitwarden - Free Password Manager",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/",
-      "interactionCount": 166171,
-      "ratingCount": 3348,
-      "ratingValue": 4.8,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/735/735894-64.png",
-      "description": "A secure and free password manager for all of your devices.",
-      "lastUpdated": "2020-06-28T21:00:00.000Z"
-    },
-    {
       "name": "Full Web Page Screenshots (♥♥♥♥♥)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/fireshot/",
-      "interactionCount": 159935,
+      "interactionCount": 159919,
       "ratingCount": 1491,
       "ratingValue": 4.7,
       "category": "category",
@@ -585,8 +596,8 @@
     {
       "name": "360 Internet Protection",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/360-internet-protection/",
-      "interactionCount": 159569,
-      "ratingCount": 1504,
+      "interactionCount": 159637,
+      "ratingCount": 1505,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/649/649702-64.png",
@@ -596,7 +607,7 @@
     {
       "name": "Qwant",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/qwantcom-for-firefox/",
-      "interactionCount": 153829,
+      "interactionCount": 153332,
       "ratingCount": 374,
       "ratingValue": 4.3,
       "category": "category",
@@ -607,7 +618,7 @@
     {
       "name": "ColorZilla",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/colorzilla/",
-      "interactionCount": 151492,
+      "interactionCount": 151315,
       "ratingCount": 551,
       "ratingValue": 4.1,
       "category": "category",
@@ -618,8 +629,8 @@
     {
       "name": "Tree Style Tab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/",
-      "interactionCount": 146545,
-      "ratingCount": 2488,
+      "interactionCount": 146400,
+      "ratingCount": 2489,
       "ratingValue": 4.4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/5/5890-64.png",
@@ -629,7 +640,7 @@
     {
       "name": "Flagfox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/flagfox/",
-      "interactionCount": 139998,
+      "interactionCount": 140093,
       "ratingCount": 1271,
       "ratingValue": 4.7,
       "category": "category",
@@ -638,9 +649,20 @@
       "lastUpdated": "2020-06-29T21:00:00.000Z"
     },
     {
+      "name": "Logitech Smooth Scrolling",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/logitechsmoothscrolling/",
+      "interactionCount": 137812,
+      "ratingCount": 506,
+      "ratingValue": 4.3,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/static/img/addon-icons/default-64.png",
+      "description": "Logitech® Smooth Scrolling extension delivers smooth-as-smartphone scrolling in Firefox and works with most Logitech mice and touchpads — new and old. Requires Logitech SetPoint 6.60 and above and Windows 7 and above.  Gaming mice not supported.",
+      "lastUpdated": "1970-01-01T00:00:00.000Z"
+    },
+    {
       "name": "Web Developer",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/web-developer/",
-      "interactionCount": 137965,
+      "interactionCount": 137682,
       "ratingCount": 668,
       "ratingValue": 4.3,
       "category": "category",
@@ -649,21 +671,10 @@
       "lastUpdated": "2020-01-12T21:00:00.000Z"
     },
     {
-      "name": "Logitech Smooth Scrolling",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/logitechsmoothscrolling/",
-      "interactionCount": 137865,
-      "ratingCount": 505,
-      "ratingValue": 4.2,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/static/img/addon-icons/default-64.png",
-      "description": "Logitech® Smooth Scrolling extension delivers smooth-as-smartphone scrolling in Firefox and works with most Logitech mice and touchpads — new and old. Requires Logitech SetPoint 6.60 and above and Windows 7 and above.  Gaming mice not supported.",
-      "lastUpdated": "1970-01-01T00:00:00.000Z"
-    },
-    {
       "name": "Decentraleyes",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/",
-      "interactionCount": 136565,
-      "ratingCount": 1085,
+      "interactionCount": 136672,
+      "ratingCount": 1086,
       "ratingValue": 4.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/521/521554-64.png",
@@ -673,7 +684,7 @@
     {
       "name": "GNOME Shell integration",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/",
-      "interactionCount": 135734,
+      "interactionCount": 135704,
       "ratingCount": 154,
       "ratingValue": 4.3,
       "category": "category",
@@ -684,7 +695,7 @@
     {
       "name": "EPUBReader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/epubreader/",
-      "interactionCount": 135713,
+      "interactionCount": 135567,
       "ratingCount": 358,
       "ratingValue": 4.2,
       "category": "category",
@@ -695,8 +706,8 @@
     {
       "name": "Ant Video Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-downloader-player/",
-      "interactionCount": 134519,
-      "ratingCount": 1890,
+      "interactionCount": 134481,
+      "ratingCount": 1892,
       "ratingValue": 4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/8/8174-64.png",
@@ -706,8 +717,8 @@
     {
       "name": "YouTube Video Download - YouTube HD Download",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/",
-      "interactionCount": 128601,
-      "ratingCount": 597,
+      "interactionCount": 128636,
+      "ratingCount": 598,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/1474/1474443-64.png",
@@ -715,9 +726,20 @@
       "lastUpdated": "2020-05-28T21:00:00.000Z"
     },
     {
+      "name": "Hola Free VPN Proxy Unblocker",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/hola-unblocker/",
+      "interactionCount": 125476,
+      "ratingCount": 613,
+      "ratingValue": 3.9,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/413/413082-64.png",
+      "description": "Unblock websites blocked in your country, company or school with Hola. Hola is free and easy to use!",
+      "lastUpdated": "2020-06-29T21:00:00.000Z"
+    },
+    {
       "name": "Yahoo Homepage",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yahoo-homepage/",
-      "interactionCount": 124109,
+      "interactionCount": 123951,
       "ratingCount": 1056,
       "ratingValue": 4.1,
       "category": "category",
@@ -728,7 +750,7 @@
     {
       "name": "Awesome Screenshot Plus - Capture, Annotate & More",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/",
-      "interactionCount": 121726,
+      "interactionCount": 121570,
       "ratingCount": 2145,
       "ratingValue": 4.2,
       "category": "category",
@@ -737,9 +759,20 @@
       "lastUpdated": "2019-05-12T21:00:00.000Z"
     },
     {
+      "name": "Web of Trust, MyWOT/WOT: Website Reputation Rating",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/",
+      "interactionCount": 119461,
+      "ratingCount": 1764,
+      "ratingValue": 3.9,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3456-64.png",
+      "description": "Instantly know which websites to trust! WOT protects you while you browse, warning you  against dangerous sites that host malware, phishing, and more.",
+      "lastUpdated": "2020-03-28T21:00:00.000Z"
+    },
+    {
       "name": "FoxyProxy Standard",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/",
-      "interactionCount": 119378,
+      "interactionCount": 119423,
       "ratingCount": 894,
       "ratingValue": 4.1,
       "category": "category",
@@ -748,20 +781,9 @@
       "lastUpdated": "2019-12-28T21:00:00.000Z"
     },
     {
-      "name": "Web of Trust, MyWOT/WOT: Website Reputation Rating",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/wot-safe-browsing-tool/",
-      "interactionCount": 119323,
-      "ratingCount": 1763,
-      "ratingValue": 3.9,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3456-64.png",
-      "description": "Instantly know which websites to trust! WOT protects you while you browse, warning you  against dangerous sites that host malware, phishing, and more.",
-      "lastUpdated": "2020-03-28T21:00:00.000Z"
-    },
-    {
       "name": "Keepa.com - Amazon Price Tracker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/keepa/",
-      "interactionCount": 117672,
+      "interactionCount": 117777,
       "ratingCount": 326,
       "ratingValue": 4.6,
       "category": "category",
@@ -772,7 +794,7 @@
     {
       "name": "YouTube Download Plus",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-download-plus/",
-      "interactionCount": 116634,
+      "interactionCount": 116500,
       "ratingCount": 548,
       "ratingValue": 3.7,
       "category": "category",
@@ -783,7 +805,7 @@
     {
       "name": "Disconnect",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/disconnect/",
-      "interactionCount": 116477,
+      "interactionCount": 116350,
       "ratingCount": 557,
       "ratingValue": 4.1,
       "category": "category",
@@ -794,7 +816,7 @@
     {
       "name": "React Developer Tools",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/react-devtools/",
-      "interactionCount": 113305,
+      "interactionCount": 113225,
       "ratingCount": 197,
       "ratingValue": 4.7,
       "category": "category",
@@ -805,7 +827,7 @@
     {
       "name": "SetupVPN Lifetime Free VPN",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/setupvpn/",
-      "interactionCount": 110736,
+      "interactionCount": 110839,
       "ratingCount": 3884,
       "ratingValue": 4.6,
       "category": "category",
@@ -816,7 +838,7 @@
     {
       "name": "Google Scholar Button",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/google-scholar-button/",
-      "interactionCount": 109259,
+      "interactionCount": 109141,
       "ratingCount": 148,
       "ratingValue": 4.5,
       "category": "category",
@@ -827,7 +849,7 @@
     {
       "name": "Download Video and Flash - HD Download",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/download-video-and-flash/",
-      "interactionCount": 108453,
+      "interactionCount": 108417,
       "ratingCount": 405,
       "ratingValue": 4.1,
       "category": "category",
@@ -838,8 +860,8 @@
     {
       "name": "Touch VPN - Secure VPN proxy for unlimited access",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/touch-vpn/",
-      "interactionCount": 102399,
-      "ratingCount": 1214,
+      "interactionCount": 102331,
+      "ratingCount": 1215,
       "ratingValue": 4.1,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/971/971314-64.png",
@@ -849,18 +871,18 @@
     {
       "name": "Gesturefy",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/gesturefy/",
-      "interactionCount": 101178,
-      "ratingCount": 945,
+      "interactionCount": 100942,
+      "ratingCount": 946,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/819/819184-64.png",
-      "description": "Navigate, operate and browse faster with mouse gestures! A customizable mouse gesture add-on with a variety of different commands.",
+      "description": "Navigate, operate, and browse faster with mouse gestures! A customizable mouse gesture add-on with a variety of different commands.",
       "lastUpdated": "2020-06-22T21:00:00.000Z"
     },
     {
       "name": "Citavi Picker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/citavi-picker/",
-      "interactionCount": 99364,
+      "interactionCount": 99380,
       "ratingCount": 10,
       "ratingValue": 4.1,
       "category": "category",
@@ -871,7 +893,7 @@
     {
       "name": "YouTube High Definition",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-high-definition/",
-      "interactionCount": 96333,
+      "interactionCount": 96274,
       "ratingCount": 1059,
       "ratingValue": 4.2,
       "category": "category",
@@ -882,8 +904,8 @@
     {
       "name": "OneTab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/onetab/",
-      "interactionCount": 95172,
-      "ratingCount": 1678,
+      "interactionCount": 95149,
+      "ratingCount": 1680,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/525/525044-64.png",
@@ -893,7 +915,7 @@
     {
       "name": "Stylish - Custom themes for any website",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/stylish/",
-      "interactionCount": 90392,
+      "interactionCount": 90277,
       "ratingCount": 1716,
       "ratingValue": 3.6,
       "category": "category",
@@ -904,8 +926,8 @@
     {
       "name": "YouTube Flash Player",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-flash-player/",
-      "interactionCount": 90146,
-      "ratingCount": 467,
+      "interactionCount": 90054,
+      "ratingCount": 468,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/548/548026-64.png",
@@ -915,8 +937,8 @@
     {
       "name": "anonymoX",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/anonymox/",
-      "interactionCount": 88719,
-      "ratingCount": 2353,
+      "interactionCount": 88629,
+      "ratingCount": 2354,
       "ratingValue": 4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/325/325576-64.png",
@@ -926,7 +948,7 @@
     {
       "name": "Tab Session Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/",
-      "interactionCount": 88446,
+      "interactionCount": 88414,
       "ratingCount": 689,
       "ratingValue": 3.9,
       "category": "category",
@@ -937,8 +959,8 @@
     {
       "name": "Wappalyzer",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/",
-      "interactionCount": 88284,
-      "ratingCount": 376,
+      "interactionCount": 88315,
+      "ratingCount": 377,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/10/10229-64.png",
@@ -948,7 +970,7 @@
     {
       "name": "I don't care about cookies",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/",
-      "interactionCount": 83023,
+      "interactionCount": 83093,
       "ratingCount": 581,
       "ratingValue": 4.6,
       "category": "category",
@@ -959,7 +981,7 @@
     {
       "name": "1Password X – Password Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/",
-      "interactionCount": 82166,
+      "interactionCount": 82036,
       "ratingCount": 410,
       "ratingValue": 4.1,
       "category": "category",
@@ -968,9 +990,20 @@
       "lastUpdated": "2020-06-25T21:00:00.000Z"
     },
     {
+      "name": "Popup Blocker Ultimate",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/popup-blocker-ultimate/",
+      "interactionCount": 81343,
+      "ratingCount": 412,
+      "ratingValue": 4.6,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/697/697677-64.png",
+      "description": "Best Popup Blocker for Firefox. (Best in Rating, Performance, This addon does NOT track user activities same as others)If your Firefox version is not 57+ please install version 8.1 from Official website.",
+      "lastUpdated": "2020-05-24T21:00:00.000Z"
+    },
+    {
       "name": "Search",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/search_by_image/",
-      "interactionCount": 80522,
+      "interactionCount": 80727,
       "ratingCount": 658,
       "ratingValue": 4.7,
       "category": "category",
@@ -979,20 +1012,9 @@
       "lastUpdated": "2020-04-15T21:00:00.000Z"
     },
     {
-      "name": "RoboForm Password Manager",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/roboform/",
-      "interactionCount": 79461,
-      "ratingCount": 1902,
-      "ratingValue": 4.2,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/823/823490-64.png",
-      "description": "RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically",
-      "lastUpdated": "2020-05-13T21:00:00.000Z"
-    },
-    {
       "name": "Yandex — Homepage",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yandex-homepage/",
-      "interactionCount": 78839,
+      "interactionCount": 80556,
       "ratingCount": 39,
       "ratingValue": 3.2,
       "category": "category",
@@ -1001,10 +1023,21 @@
       "lastUpdated": "2017-12-06T21:00:00.000Z"
     },
     {
+      "name": "RoboForm Password Manager",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/roboform/",
+      "interactionCount": 79384,
+      "ratingCount": 1903,
+      "ratingValue": 4.2,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/823/823490-64.png",
+      "description": "RoboForm, the #1 ranked Password Manager makes your life easier by remembering passwords and logging you into websites automatically",
+      "lastUpdated": "2020-05-13T21:00:00.000Z"
+    },
+    {
       "name": "Trusted Shops extension",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/googlesearchfirefox/",
-      "interactionCount": 78729,
-      "ratingCount": 1482,
+      "interactionCount": 79026,
+      "ratingCount": 1484,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/523/523060-64.png",
@@ -1014,7 +1047,7 @@
     {
       "name": "Vue.js devtools",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/",
-      "interactionCount": 78565,
+      "interactionCount": 78563,
       "ratingCount": 374,
       "ratingValue": 4.8,
       "category": "category",
@@ -1025,8 +1058,8 @@
     {
       "name": "Windscribe - Free VPN and Ad Blocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/windscribe/",
-      "interactionCount": 77980,
-      "ratingCount": 2420,
+      "interactionCount": 77915,
+      "ratingCount": 2422,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/697/697223-64.png",
@@ -1036,8 +1069,8 @@
     {
       "name": "Grammar and Spell Checker - LanguageTool",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/languagetool/",
-      "interactionCount": 77683,
-      "ratingCount": 1032,
+      "interactionCount": 77592,
+      "ratingCount": 1033,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/708/708770-64.png",
@@ -1047,7 +1080,7 @@
     {
       "name": "Lilo - Search engine",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/lilo-moteur-de-recherche/",
-      "interactionCount": 76994,
+      "interactionCount": 76722,
       "ratingCount": 128,
       "ratingValue": 4.8,
       "category": "category",
@@ -1058,8 +1091,8 @@
     {
       "name": "Speed Dial [FVD] New Tab Page, 3D Start Page, Sync",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/fvd-speed-dial/",
-      "interactionCount": 75455,
-      "ratingCount": 7216,
+      "interactionCount": 75521,
+      "ratingCount": 7219,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/344/344147-64.png",
@@ -1069,7 +1102,7 @@
     {
       "name": "Privacy Possum",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/",
-      "interactionCount": 75338,
+      "interactionCount": 75269,
       "ratingCount": 250,
       "ratingValue": 4.5,
       "category": "category",
@@ -1078,9 +1111,20 @@
       "lastUpdated": "2019-07-17T21:00:00.000Z"
     },
     {
+      "name": "Simple Translate",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/simple-translate/",
+      "interactionCount": 74277,
+      "ratingCount": 805,
+      "ratingValue": 4.7,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/857/857110-64.png",
+      "description": "Quickly translate selected text on web page. In toolbar popup, you can translate input text.",
+      "lastUpdated": "2020-05-01T21:00:00.000Z"
+    },
+    {
       "name": "Dark Mode (WebExtension)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/dark-mode-webextension/",
-      "interactionCount": 74269,
+      "interactionCount": 74179,
       "ratingCount": 595,
       "ratingValue": 4.2,
       "category": "category",
@@ -1089,20 +1133,9 @@
       "lastUpdated": "2020-06-15T21:00:00.000Z"
     },
     {
-      "name": "Simple Translate",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/simple-translate/",
-      "interactionCount": 74228,
-      "ratingCount": 803,
-      "ratingValue": 4.7,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/857/857110-64.png",
-      "description": "Quickly translate selected text on web page. In toolbar popup, you can translate input text.",
-      "lastUpdated": "2020-05-01T21:00:00.000Z"
-    },
-    {
       "name": "OneNote Web Clipper",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/onenote-clipper/",
-      "interactionCount": 71667,
+      "interactionCount": 71530,
       "ratingCount": 2693,
       "ratingValue": 4.7,
       "category": "category",
@@ -1113,7 +1146,7 @@
     {
       "name": "Flash Player",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/flash-player-for-firefox/",
-      "interactionCount": 71213,
+      "interactionCount": 71184,
       "ratingCount": 194,
       "ratingValue": 4.4,
       "category": "category",
@@ -1124,7 +1157,7 @@
     {
       "name": "New Tab Override",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/",
-      "interactionCount": 70968,
+      "interactionCount": 70915,
       "ratingCount": 702,
       "ratingValue": 4.4,
       "category": "category",
@@ -1135,7 +1168,7 @@
     {
       "name": "ExpressVPN: VPN proxy to unblock everything",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/expressvpn/",
-      "interactionCount": 70806,
+      "interactionCount": 70768,
       "ratingCount": 529,
       "ratingValue": 4.4,
       "category": "category",
@@ -1146,7 +1179,7 @@
     {
       "name": "Nimbus Screen Capture:  Screenshot, Edit, Annotate",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/",
-      "interactionCount": 70540,
+      "interactionCount": 70454,
       "ratingCount": 751,
       "ratingValue": 4.2,
       "category": "category",
@@ -1157,7 +1190,7 @@
     {
       "name": "RESTClient, a debugger for RESTful web services.",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/restclient/",
-      "interactionCount": 69250,
+      "interactionCount": 69124,
       "ratingCount": 251,
       "ratingValue": 3.9,
       "category": "category",
@@ -1168,8 +1201,8 @@
     {
       "name": "Download Manager (S3)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/s3download-statusbar/",
-      "interactionCount": 67752,
-      "ratingCount": 768,
+      "interactionCount": 67782,
+      "ratingCount": 770,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/477/477770-64.png",
@@ -1179,7 +1212,7 @@
     {
       "name": "Доступ к Рутрекеру",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D1%80%D1%83%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80%D1%83/",
-      "interactionCount": 67471,
+      "interactionCount": 67695,
       "ratingCount": 384,
       "ratingValue": 4.5,
       "category": "category",
@@ -1190,8 +1223,8 @@
     {
       "name": "Stylus",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/styl-us/",
-      "interactionCount": 66249,
-      "ratingCount": 663,
+      "interactionCount": 66200,
+      "ratingCount": 664,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-64.png",
@@ -1201,8 +1234,8 @@
     {
       "name": "Firefox Color",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-color/",
-      "interactionCount": 65473,
-      "ratingCount": 495,
+      "interactionCount": 65372,
+      "ratingCount": 497,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/1004/1004409-64.png",
@@ -1212,8 +1245,8 @@
     {
       "name": "iMacros for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/",
-      "interactionCount": 65175,
-      "ratingCount": 1335,
+      "interactionCount": 65158,
+      "ratingCount": 1336,
       "ratingValue": 3.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3863-64.png",
@@ -1223,7 +1256,7 @@
     {
       "name": "Search and New Tab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/search-and-new-tab-by-yahoo/",
-      "interactionCount": 63797,
+      "interactionCount": 63762,
       "ratingCount": 82,
       "ratingValue": 3.4,
       "category": "category",
@@ -1234,7 +1267,7 @@
     {
       "name": "YouTube Flash Video Player",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-flash-video-player/",
-      "interactionCount": 63739,
+      "interactionCount": 63631,
       "ratingCount": 230,
       "ratingValue": 4.4,
       "category": "category",
@@ -1245,8 +1278,8 @@
     {
       "name": "YouTube Converter Button",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-converter-button/",
-      "interactionCount": 63416,
-      "ratingCount": 240,
+      "interactionCount": 63359,
+      "ratingCount": 241,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/2536/2536272-64.png",
@@ -1256,7 +1289,7 @@
     {
       "name": "Bitdefender TrafficLight for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/trafficlight/",
-      "interactionCount": 63008,
+      "interactionCount": 62956,
       "ratingCount": 282,
       "ratingValue": 4.1,
       "category": "category",
@@ -1267,8 +1300,8 @@
     {
       "name": "NordVPN – The #1 VPN Proxy Extension for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/nordvpn-proxy-extension/",
-      "interactionCount": 61556,
-      "ratingCount": 687,
+      "interactionCount": 61646,
+      "ratingCount": 689,
       "ratingValue": 3.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/872/872622-64.png",
@@ -1278,7 +1311,7 @@
     {
       "name": "Video Downloader Pro",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-downloader-pro-firefox/",
-      "interactionCount": 61109,
+      "interactionCount": 61041,
       "ratingCount": 493,
       "ratingValue": 3.5,
       "category": "category",
@@ -1289,7 +1322,7 @@
     {
       "name": "User-Agent Switcher",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/",
-      "interactionCount": 60755,
+      "interactionCount": 60695,
       "ratingCount": 250,
       "ratingValue": 3.9,
       "category": "category",
@@ -1300,8 +1333,8 @@
     {
       "name": "Imagus",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/imagus/",
-      "interactionCount": 60520,
-      "ratingCount": 631,
+      "interactionCount": 60454,
+      "ratingCount": 632,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/485/485620-64.png",
@@ -1309,9 +1342,20 @@
       "lastUpdated": "2020-04-11T21:00:00.000Z"
     },
     {
+      "name": "User-Agent Switcher",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/",
+      "interactionCount": 60279,
+      "ratingCount": 314,
+      "ratingValue": 4.4,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/812/812521-64.png",
+      "description": "Easily override the browser's User-Agent string",
+      "lastUpdated": "2020-07-02T21:00:00.000Z"
+    },
+    {
       "name": "YouTube Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube_downloader/",
-      "interactionCount": 59208,
+      "interactionCount": 59119,
       "ratingCount": 272,
       "ratingValue": 3.1,
       "category": "category",
@@ -1322,7 +1366,7 @@
     {
       "name": "BlockSite",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/blocksite/",
-      "interactionCount": 58744,
+      "interactionCount": 58798,
       "ratingCount": 1655,
       "ratingValue": 3.6,
       "category": "category",
@@ -1331,10 +1375,21 @@
       "lastUpdated": "2019-03-24T21:00:00.000Z"
     },
     {
+      "name": "SBIS Plugin Extension",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/sbisplugin-extension/",
+      "interactionCount": 58336,
+      "ratingCount": 35,
+      "ratingValue": 4.1,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/837/837256-64.png",
+      "description": "Это расширение предоставляет транспортного агента  для взаимодействия с приложением SBIS Plugin на сайте https://online.sbis.ruРасширение полностью бесплатно, не имеет пользовательского интерфейса, нужно исключительно для реализации канала связи.",
+      "lastUpdated": "2019-12-04T21:00:00.000Z"
+    },
+    {
       "name": "Strict Pop-up Blocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/strict-pop-up-blocker/",
-      "interactionCount": 58118,
-      "ratingCount": 274,
+      "interactionCount": 58053,
+      "ratingCount": 275,
       "ratingValue": 4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/515/515226-64.png",
@@ -1344,7 +1399,7 @@
     {
       "name": "Free Download Manager extension",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/",
-      "interactionCount": 57649,
+      "interactionCount": 57680,
       "ratingCount": 317,
       "ratingValue": 4.3,
       "category": "category",
@@ -1355,8 +1410,8 @@
     {
       "name": "Download All Images",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension/",
-      "interactionCount": 56162,
-      "ratingCount": 333,
+      "interactionCount": 56153,
+      "ratingCount": 334,
       "ratingValue": 3.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/781/781060-64.png",
@@ -1366,7 +1421,7 @@
     {
       "name": "Dark Background and Light Text",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/",
-      "interactionCount": 56111,
+      "interactionCount": 55934,
       "ratingCount": 906,
       "ratingValue": 4.6,
       "category": "category",
@@ -1377,7 +1432,7 @@
     {
       "name": "Image Search Options",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/image-search-options/",
-      "interactionCount": 54681,
+      "interactionCount": 54644,
       "ratingCount": 301,
       "ratingValue": 4.7,
       "category": "category",
@@ -1386,20 +1441,9 @@
       "lastUpdated": "2019-06-26T21:00:00.000Z"
     },
     {
-      "name": "SBIS Plugin Extension",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/sbisplugin-extension/",
-      "interactionCount": 54459,
-      "ratingCount": 35,
-      "ratingValue": 4.1,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/837/837256-64.png",
-      "description": "Это расширение предоставляет транспортного агента  для взаимодействия с приложением SBIS Plugin на сайте https://online.sbis.ruРасширение полностью бесплатно, не имеет пользовательского интерфейса, нужно исключительно для реализации канала связи.",
-      "lastUpdated": "2019-12-04T21:00:00.000Z"
-    },
-    {
       "name": "Adblock for Youtube™",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube-tm/",
-      "interactionCount": 54360,
+      "interactionCount": 54304,
       "ratingCount": 196,
       "ratingValue": 4.6,
       "category": "category",
@@ -1410,7 +1454,7 @@
     {
       "name": "Selenium IDE",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/selenium-ide/",
-      "interactionCount": 54106,
+      "interactionCount": 54002,
       "ratingCount": 476,
       "ratingValue": 4.2,
       "category": "category",
@@ -1421,7 +1465,7 @@
     {
       "name": "User-Agent Switcher and Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/",
-      "interactionCount": 50935,
+      "interactionCount": 50852,
       "ratingCount": 317,
       "ratingValue": 4.3,
       "category": "category",
@@ -1432,18 +1476,18 @@
     {
       "name": "MetaMask",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/",
-      "interactionCount": 50685,
+      "interactionCount": 50776,
       "ratingCount": 1056,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/725/725460-64.png",
       "description": "Ethereum Browser Extension",
-      "lastUpdated": "2020-07-02T21:00:00.000Z"
+      "lastUpdated": "2020-07-05T21:00:00.000Z"
     },
     {
       "name": "The Camelizer - Price Tracker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/",
-      "interactionCount": 50294,
+      "interactionCount": 50255,
       "ratingCount": 191,
       "ratingValue": 4.1,
       "category": "category",
@@ -1454,8 +1498,8 @@
     {
       "name": "Hotspot Shield Free VPN Proxy - Unlimited VPN",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/hotspot-shield-free-vpn-proxy-/",
-      "interactionCount": 50018,
-      "ratingCount": 1559,
+      "interactionCount": 50020,
+      "ratingCount": 1560,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/639/639490-64.png",
@@ -1465,7 +1509,7 @@
     {
       "name": "Worldwide Radio",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/",
-      "interactionCount": 49784,
+      "interactionCount": 49720,
       "ratingCount": 695,
       "ratingValue": 4.5,
       "category": "category",
@@ -1476,7 +1520,7 @@
     {
       "name": "Tab Auto Refresh",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-auto-refresh/",
-      "interactionCount": 49344,
+      "interactionCount": 49282,
       "ratingCount": 203,
       "ratingValue": 3.6,
       "category": "category",
@@ -1487,8 +1531,8 @@
     {
       "name": "Forecastfox (fix version)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/forecastfox-fix-version/",
-      "interactionCount": 49095,
-      "ratingCount": 568,
+      "interactionCount": 48935,
+      "ratingCount": 569,
       "ratingValue": 4.3,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/583/583250-64.png",
@@ -1498,7 +1542,7 @@
     {
       "name": "New Tab Homepage",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/new-tab-homepage/",
-      "interactionCount": 48533,
+      "interactionCount": 48446,
       "ratingCount": 535,
       "ratingValue": 4.1,
       "category": "category",
@@ -1509,7 +1553,7 @@
     {
       "name": "Mailvelope",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/mailvelope/",
-      "interactionCount": 48140,
+      "interactionCount": 48220,
       "ratingCount": 67,
       "ratingValue": 4.3,
       "category": "category",
@@ -1520,7 +1564,7 @@
     {
       "name": "YouTube mp3 Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/mp3-downloader-youtube/",
-      "interactionCount": 47489,
+      "interactionCount": 47374,
       "ratingCount": 420,
       "ratingValue": 2.8,
       "category": "category",
@@ -1531,7 +1575,7 @@
     {
       "name": "Scopus Document Download Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/scopus-document-download/",
-      "interactionCount": 47348,
+      "interactionCount": 47334,
       "ratingCount": 9,
       "ratingValue": 4,
       "category": "category",
@@ -1542,7 +1586,7 @@
     {
       "name": "Video Speed Controller",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/videospeed/",
-      "interactionCount": 47234,
+      "interactionCount": 47238,
       "ratingCount": 361,
       "ratingValue": 4.5,
       "category": "category",
@@ -1553,8 +1597,8 @@
     {
       "name": "TinEye Reverse Image Search",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/",
-      "interactionCount": 45076,
-      "ratingCount": 315,
+      "interactionCount": 45047,
+      "ratingCount": 317,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/8/8922-64.png",
@@ -1564,7 +1608,7 @@
     {
       "name": "РуТрекер - официальный плагин от RuTracker.org",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/rutracker-add-on/",
-      "interactionCount": 43838,
+      "interactionCount": 43958,
       "ratingCount": 172,
       "ratingValue": 4.5,
       "category": "category",
@@ -1575,7 +1619,7 @@
     {
       "name": "Malware",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/malwarebytes/",
-      "interactionCount": 43663,
+      "interactionCount": 43641,
       "ratingCount": 286,
       "ratingValue": 4.3,
       "category": "category",
@@ -1586,7 +1630,7 @@
     {
       "name": "Poper Blocker - Popup blocker for FireFox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/poper-blocker-pop-up-blocker/",
-      "interactionCount": 43163,
+      "interactionCount": 43160,
       "ratingCount": 901,
       "ratingValue": 4.6,
       "category": "category",
@@ -1597,7 +1641,7 @@
     {
       "name": "Simple YouTube to MP3/MP4 Converter and Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/simple-youtube-converter/",
-      "interactionCount": 43116,
+      "interactionCount": 42993,
       "ratingCount": 722,
       "ratingValue": 3.8,
       "category": "category",
@@ -1608,7 +1652,7 @@
     {
       "name": "Video Downloader Prime",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-downloader-prime/",
-      "interactionCount": 42762,
+      "interactionCount": 42711,
       "ratingCount": 428,
       "ratingValue": 3.7,
       "category": "category",
@@ -1617,9 +1661,20 @@
       "lastUpdated": "2019-09-20T21:00:00.000Z"
     },
     {
+      "name": "Tab Reloader (page auto refresh)",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-reloader/",
+      "interactionCount": 42626,
+      "ratingCount": 179,
+      "ratingValue": 3.9,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/634/634556-64.png",
+      "description": "An easy-to-use tab reloader with custom reloading time settings for individual tabs",
+      "lastUpdated": "2020-05-31T21:00:00.000Z"
+    },
+    {
       "name": "Kopernio - powered",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/kopernio/",
-      "interactionCount": 42641,
+      "interactionCount": 42565,
       "ratingCount": 110,
       "ratingValue": 4.4,
       "category": "category",
@@ -1628,31 +1683,9 @@
       "lastUpdated": "2020-06-30T21:00:00.000Z"
     },
     {
-      "name": "Tab Reloader (page auto refresh)",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-reloader/",
-      "interactionCount": 42634,
-      "ratingCount": 178,
-      "ratingValue": 3.9,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/634/634556-64.png",
-      "description": "An easy-to-use tab reloader with custom reloading time settings for individual tabs",
-      "lastUpdated": "2020-05-31T21:00:00.000Z"
-    },
-    {
-      "name": "Gmail™ Notifier (restartless)",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/gmail-notifier-restartless/",
-      "interactionCount": 42566,
-      "ratingCount": 550,
-      "ratingValue": 4.2,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/406/406178-64.png",
-      "description": "Multiple account (or label) Gmail notifier (without storing passwords)",
-      "lastUpdated": "2019-03-11T21:00:00.000Z"
-    },
-    {
       "name": "Yahoo Toolbar and New Tab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yahoo-toolbar-and-new-tab/",
-      "interactionCount": 42533,
+      "interactionCount": 42537,
       "ratingCount": 392,
       "ratingValue": 2.3,
       "category": "category",
@@ -1661,10 +1694,21 @@
       "lastUpdated": "2020-05-13T21:00:00.000Z"
     },
     {
+      "name": "Gmail™ Notifier (restartless)",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/gmail-notifier-restartless/",
+      "interactionCount": 42519,
+      "ratingCount": 550,
+      "ratingValue": 4.2,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/406/406178-64.png",
+      "description": "Multiple account (or label) Gmail notifier (without storing passwords)",
+      "lastUpdated": "2019-03-11T21:00:00.000Z"
+    },
+    {
       "name": "Plasma Integration",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/",
-      "interactionCount": 42471,
-      "ratingCount": 257,
+      "interactionCount": 42495,
+      "ratingCount": 258,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/809/809703-64.png",
@@ -1674,7 +1718,7 @@
     {
       "name": "Disable WebRTC",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/",
-      "interactionCount": 42146,
+      "interactionCount": 42185,
       "ratingCount": 252,
       "ratingValue": 4.3,
       "category": "category",
@@ -1685,8 +1729,8 @@
     {
       "name": "Print Edit WE",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/print-edit-we/",
-      "interactionCount": 41270,
-      "ratingCount": 273,
+      "interactionCount": 41250,
+      "ratingCount": 274,
       "ratingValue": 3.9,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/726/726880-64.png",
@@ -1696,7 +1740,7 @@
     {
       "name": "ProxTube - Unblock YouTube",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/proxtube/",
-      "interactionCount": 40564,
+      "interactionCount": 40653,
       "ratingCount": 348,
       "ratingValue": 3.6,
       "category": "category",
@@ -1707,7 +1751,7 @@
     {
       "name": "Feedbro",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/",
-      "interactionCount": 40493,
+      "interactionCount": 40487,
       "ratingCount": 385,
       "ratingValue": 4.5,
       "category": "category",
@@ -1718,7 +1762,7 @@
     {
       "name": "iGraal - Cashback & codes promo",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/igraal/",
-      "interactionCount": 40342,
+      "interactionCount": 40350,
       "ratingCount": 68,
       "ratingValue": 4,
       "category": "category",
@@ -1729,8 +1773,8 @@
     {
       "name": "Proxy SwitchyOmega",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/switchyomega/",
-      "interactionCount": 40114,
-      "ratingCount": 397,
+      "interactionCount": 40187,
+      "ratingCount": 398,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/805/805756-64.png",
@@ -1740,7 +1784,7 @@
     {
       "name": "Mate Translate – translator, dictionary",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/instant-translate/",
-      "interactionCount": 40062,
+      "interactionCount": 40088,
       "ratingCount": 1666,
       "ratingValue": 4.4,
       "category": "category",
@@ -1751,8 +1795,8 @@
     {
       "name": "Google search link fix",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/",
-      "interactionCount": 39876,
-      "ratingCount": 541,
+      "interactionCount": 39885,
+      "ratingCount": 542,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/351/351740-64.png",
@@ -1762,7 +1806,7 @@
     {
       "name": "Video Downloader for Facebook",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/x-facebook-video-downloader/",
-      "interactionCount": 39782,
+      "interactionCount": 39769,
       "ratingCount": 251,
       "ratingValue": 3.7,
       "category": "category",
@@ -1771,9 +1815,20 @@
       "lastUpdated": "2020-06-18T21:00:00.000Z"
     },
     {
+      "name": "Cookie Quick Manager",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/",
+      "interactionCount": 39633,
+      "ratingCount": 182,
+      "ratingValue": 4.4,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/905/905349-64.png",
+      "description": "An addon to manage cookies (view, search, create, edit, remove, backup, restore, protect from deletion and much more). Firefox 57+ is supported.",
+      "lastUpdated": "2019-07-08T21:00:00.000Z"
+    },
+    {
       "name": "VidPlay",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/vidplay/",
-      "interactionCount": 39505,
+      "interactionCount": 39378,
       "ratingCount": 1365,
       "ratingValue": 4.3,
       "category": "category",
@@ -1784,8 +1839,8 @@
     {
       "name": "Save as PDF",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/save-as-pdf/",
-      "interactionCount": 38971,
-      "ratingCount": 320,
+      "interactionCount": 38965,
+      "ratingCount": 322,
       "ratingValue": 2.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/220/220850-64.png",
@@ -1795,7 +1850,7 @@
     {
       "name": "Turbo Download Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/turbo-download-manager/",
-      "interactionCount": 38876,
+      "interactionCount": 38851,
       "ratingCount": 422,
       "ratingValue": 3.9,
       "category": "category",
@@ -1806,7 +1861,7 @@
     {
       "name": "No Coin",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/no-coin/",
-      "interactionCount": 38869,
+      "interactionCount": 38807,
       "ratingCount": 129,
       "ratingValue": 4.3,
       "category": "category",
@@ -1817,7 +1872,7 @@
     {
       "name": "View Image",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/view-image/",
-      "interactionCount": 38790,
+      "interactionCount": 38728,
       "ratingCount": 377,
       "ratingValue": 4.4,
       "category": "category",
@@ -1826,21 +1881,10 @@
       "lastUpdated": "2020-04-23T21:00:00.000Z"
     },
     {
-      "name": "Seznam doplněk - Esko",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/seznam-doplnek-esko/",
-      "interactionCount": 38439,
-      "ratingCount": 7,
-      "ratingValue": 4.4,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/867/867345-64.png",
-      "description": "Seznam (Lištička) pro Firefox načte domovskou stránku Seznam.cz raz dva. Stačí kliknout na červené „eSko“.",
-      "lastUpdated": "2020-04-26T21:00:00.000Z"
-    },
-    {
       "name": "Bulk Media Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/bulk-media-downloader/",
-      "interactionCount": 38322,
-      "ratingCount": 658,
+      "interactionCount": 38274,
+      "ratingCount": 659,
       "ratingValue": 2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/728/728674-64.png",
@@ -1850,7 +1894,7 @@
     {
       "name": "Kee - Password Manager",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/keefox/",
-      "interactionCount": 38127,
+      "interactionCount": 38096,
       "ratingCount": 1431,
       "ratingValue": 4.6,
       "category": "category",
@@ -1861,7 +1905,7 @@
     {
       "name": "Pushbullet",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/pushbullet/",
-      "interactionCount": 37907,
+      "interactionCount": 37861,
       "ratingCount": 357,
       "ratingValue": 3.6,
       "category": "category",
@@ -1870,10 +1914,21 @@
       "lastUpdated": "2020-06-21T21:00:00.000Z"
     },
     {
+      "name": "Seznam doplněk - Esko",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/seznam-doplnek-esko/",
+      "interactionCount": 37603,
+      "ratingCount": 7,
+      "ratingValue": 4.4,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/867/867345-64.png",
+      "description": "Seznam (Lištička) pro Firefox načte domovskou stránku Seznam.cz raz dva. Stačí kliknout na červené „eSko“.",
+      "lastUpdated": "2020-04-26T21:00:00.000Z"
+    },
+    {
       "name": "uMatrix",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/umatrix/",
-      "interactionCount": 37250,
-      "ratingCount": 681,
+      "interactionCount": 37257,
+      "ratingCount": 682,
       "ratingValue": 4.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/613/613250-64.png",
@@ -1881,20 +1936,9 @@
       "lastUpdated": "2019-09-04T21:00:00.000Z"
     },
     {
-      "name": "Redux DevTools",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/",
-      "interactionCount": 37202,
-      "ratingCount": 78,
-      "ratingValue": 4.6,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/715/715938-64.png",
-      "description": "DevTools for Redux with actions history, undo and replay.",
-      "lastUpdated": "2019-01-24T21:00:00.000Z"
-    },
-    {
       "name": "Lightshot (screenshot tool)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/lightshot/",
-      "interactionCount": 37187,
+      "interactionCount": 37195,
       "ratingCount": 297,
       "ratingValue": 4.6,
       "category": "category",
@@ -1903,10 +1947,21 @@
       "lastUpdated": "2017-10-16T21:00:00.000Z"
     },
     {
+      "name": "Redux DevTools",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/",
+      "interactionCount": 37160,
+      "ratingCount": 78,
+      "ratingValue": 4.6,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/715/715938-64.png",
+      "description": "DevTools for Redux with actions history, undo and replay.",
+      "lastUpdated": "2019-01-24T21:00:00.000Z"
+    },
+    {
       "name": "Tabliss - New Tab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tabliss/",
-      "interactionCount": 37151,
-      "ratingCount": 1132,
+      "interactionCount": 37125,
+      "ratingCount": 1133,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/850/850407-64.png",
@@ -1916,7 +1971,7 @@
     {
       "name": "YouTube mp3 Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/yt-to-mp3-converter-ytmp3/",
-      "interactionCount": 36951,
+      "interactionCount": 36926,
       "ratingCount": 275,
       "ratingValue": 3.9,
       "category": "category",
@@ -1927,7 +1982,7 @@
     {
       "name": "Clear Cache",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/clearcache/",
-      "interactionCount": 36928,
+      "interactionCount": 36914,
       "ratingCount": 143,
       "ratingValue": 4.5,
       "category": "category",
@@ -1936,9 +1991,20 @@
       "lastUpdated": "2019-07-08T21:00:00.000Z"
     },
     {
+      "name": "Popup Blocker (strict)",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/",
+      "interactionCount": 36767,
+      "ratingCount": 283,
+      "ratingValue": 4.2,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/742/742681-64.png",
+      "description": "Strictly block all popup requests from any website by default. A notification window is opened to allow you accept, reject, open the popup in background page, or redirect the current page to popup address",
+      "lastUpdated": "2019-07-03T21:00:00.000Z"
+    },
+    {
       "name": "Open in VLC media player",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/open-in-vlc/",
-      "interactionCount": 36748,
+      "interactionCount": 36736,
       "ratingCount": 186,
       "ratingValue": 4.4,
       "category": "category",
@@ -1947,20 +2013,9 @@
       "lastUpdated": "2019-10-11T21:00:00.000Z"
     },
     {
-      "name": "Popup Blocker (strict)",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/",
-      "interactionCount": 36745,
-      "ratingCount": 282,
-      "ratingValue": 4.2,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/742/742681-64.png",
-      "description": "Strictly block all popup requests from any website by default. A notification window is opened to allow you accept, reject, open the popup in background page, or redirect the current page to popup address",
-      "lastUpdated": "2019-07-03T21:00:00.000Z"
-    },
-    {
       "name": "Turn Off the Lights for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights/",
-      "interactionCount": 36509,
+      "interactionCount": 36457,
       "ratingCount": 716,
       "ratingValue": 4.7,
       "category": "category",
@@ -1971,8 +2026,8 @@
     {
       "name": "Absolute Enable Right Click & Copy",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/",
-      "interactionCount": 36395,
-      "ratingCount": 277,
+      "interactionCount": 36421,
+      "ratingCount": 278,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/918/918574-64.png",
@@ -1982,7 +2037,7 @@
     {
       "name": "Group Speed Dial",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/groupspeeddial/",
-      "interactionCount": 36170,
+      "interactionCount": 36215,
       "ratingCount": 931,
       "ratingValue": 4.4,
       "category": "category",
@@ -1993,8 +2048,8 @@
     {
       "name": "u VPN",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/uvpn-unlimited-vpn/",
-      "interactionCount": 35832,
-      "ratingCount": 528,
+      "interactionCount": 35727,
+      "ratingCount": 529,
       "ratingValue": 3.4,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/1483/1483778-64.png",
@@ -2004,7 +2059,7 @@
     {
       "name": "Emoji Cheatsheet",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/emoji-cheatsheet/",
-      "interactionCount": 35748,
+      "interactionCount": 35686,
       "ratingCount": 307,
       "ratingValue": 4.2,
       "category": "category",
@@ -2015,18 +2070,18 @@
     {
       "name": "Watch2Gether",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/w2g/",
-      "interactionCount": 35347,
+      "interactionCount": 35278,
       "ratingCount": 46,
       "ratingValue": 4.2,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/832/832320-64.png",
       "description": "The official Watch2Gether Firefox extension allows you to share content from a supported site (Youtube, Vimeo, ...) directly into a Watch2Gether room. The new W2gSync feature allows you to sync-watch videos from any website on Watch2Gether.",
-      "lastUpdated": "2020-06-24T21:00:00.000Z"
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
     },
     {
       "name": "Notes",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/notes-by-firefox/",
-      "interactionCount": 35112,
+      "interactionCount": 35065,
       "ratingCount": 366,
       "ratingValue": 3.9,
       "category": "category",
@@ -2037,7 +2092,7 @@
     {
       "name": "JSONView",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/jsonview/",
-      "interactionCount": 35081,
+      "interactionCount": 35031,
       "ratingCount": 242,
       "ratingValue": 4.5,
       "category": "category",
@@ -2046,9 +2101,20 @@
       "lastUpdated": "2019-03-16T21:00:00.000Z"
     },
     {
+      "name": "Пульс",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/%D0%BF%D1%83%D0%BB%D1%8C%D1%82/",
+      "interactionCount": 34362,
+      "ratingCount": 51,
+      "ratingValue": 4,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/745/745706-64.png",
+      "description": "Новые визуальные закладки Mail.Ru",
+      "lastUpdated": "2017-11-07T21:00:00.000Z"
+    },
+    {
       "name": "Violentmonkey",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/",
-      "interactionCount": 34398,
+      "interactionCount": 34288,
       "ratingCount": 341,
       "ratingValue": 4.6,
       "category": "category",
@@ -2059,7 +2125,7 @@
     {
       "name": "YouTube NonStop",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/",
-      "interactionCount": 33946,
+      "interactionCount": 33988,
       "ratingCount": 114,
       "ratingValue": 4.6,
       "category": "category",
@@ -2068,21 +2134,10 @@
       "lastUpdated": "2020-05-28T21:00:00.000Z"
     },
     {
-      "name": "Пульс",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/%D0%BF%D1%83%D0%BB%D1%8C%D1%82/",
-      "interactionCount": 33732,
-      "ratingCount": 51,
-      "ratingValue": 4,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/745/745706-64.png",
-      "description": "Новые визуальные закладки Mail.Ru",
-      "lastUpdated": "2017-11-07T21:00:00.000Z"
-    },
-    {
       "name": "PDF Mage",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/pdf-mage/",
-      "interactionCount": 33287,
-      "ratingCount": 288,
+      "interactionCount": 33284,
+      "ratingCount": 289,
       "ratingValue": 3.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/688/688756-64.png",
@@ -2092,7 +2147,7 @@
     {
       "name": "ColorfulTabs",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/colorfultabs/",
-      "interactionCount": 33145,
+      "interactionCount": 33181,
       "ratingCount": 1448,
       "ratingValue": 3.6,
       "category": "category",
@@ -2103,7 +2158,7 @@
     {
       "name": "Print Friendly & PDF",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/",
-      "interactionCount": 33013,
+      "interactionCount": 33000,
       "ratingCount": 351,
       "ratingValue": 4,
       "category": "category",
@@ -2114,7 +2169,7 @@
     {
       "name": "Webmail Ad Blocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/webmail-ad-blocker/",
-      "interactionCount": 32823,
+      "interactionCount": 32815,
       "ratingCount": 359,
       "ratingValue": 4.4,
       "category": "category",
@@ -2125,7 +2180,7 @@
     {
       "name": "Foxy Gestures",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/foxy-gestures/",
-      "interactionCount": 32545,
+      "interactionCount": 32510,
       "ratingCount": 395,
       "ratingValue": 4.2,
       "category": "category",
@@ -2136,7 +2191,7 @@
     {
       "name": "Unpaywall",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/unpaywall/",
-      "interactionCount": 32317,
+      "interactionCount": 32273,
       "ratingCount": 140,
       "ratingValue": 4.5,
       "category": "category",
@@ -2147,7 +2202,7 @@
     {
       "name": "Auto Tab Discard",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/",
-      "interactionCount": 32041,
+      "interactionCount": 32050,
       "ratingCount": 336,
       "ratingValue": 4.5,
       "category": "category",
@@ -2158,8 +2213,8 @@
     {
       "name": "LeechBlock NG",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/",
-      "interactionCount": 31855,
-      "ratingCount": 658,
+      "interactionCount": 31831,
+      "ratingCount": 660,
       "ratingValue": 4.8,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/866/866226-64.png",
@@ -2167,31 +2222,9 @@
       "lastUpdated": "2020-06-29T21:00:00.000Z"
     },
     {
-      "name": "Block Site",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/block-website/",
-      "interactionCount": 31780,
-      "ratingCount": 177,
-      "ratingValue": 4.4,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/865/865295-64.png",
-      "description": "A customizable, password-protected website blocker and redirector.",
-      "lastUpdated": "2020-06-19T21:00:00.000Z"
-    },
-    {
-      "name": "YouTube MP4 Downloader",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-mp4-downloader/",
-      "interactionCount": 31723,
-      "ratingCount": 393,
-      "ratingValue": 4.1,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/749/749002-64.png",
-      "description": "View and Download YouTube videos in raw MP4 format. Get notifications about available videos and formats.",
-      "lastUpdated": "2019-06-10T21:00:00.000Z"
-    },
-    {
       "name": "CyberGhost VPN Free Proxy",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/",
-      "interactionCount": 31705,
+      "interactionCount": 31770,
       "ratingCount": 215,
       "ratingValue": 4.3,
       "category": "category",
@@ -2200,9 +2233,31 @@
       "lastUpdated": "2020-02-19T21:00:00.000Z"
     },
     {
+      "name": "Block Site",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/block-website/",
+      "interactionCount": 31766,
+      "ratingCount": 177,
+      "ratingValue": 4.4,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/865/865295-64.png",
+      "description": "A customizable, password-protected website blocker and redirector.",
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
+    },
+    {
+      "name": "YouTube MP4 Downloader",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-mp4-downloader/",
+      "interactionCount": 31656,
+      "ratingCount": 393,
+      "ratingValue": 4.1,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/749/749002-64.png",
+      "description": "View and Download YouTube videos in raw MP4 format. Get notifications about available videos and formats.",
+      "lastUpdated": "2019-06-10T21:00:00.000Z"
+    },
+    {
       "name": "KeePassXC-Browser",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/",
-      "interactionCount": 31155,
+      "interactionCount": 31175,
       "ratingCount": 275,
       "ratingValue": 4.3,
       "category": "category",
@@ -2213,8 +2268,8 @@
     {
       "name": "Undo Close Tab",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/",
-      "interactionCount": 31111,
-      "ratingCount": 290,
+      "interactionCount": 31132,
+      "ratingCount": 291,
       "ratingValue": 4.7,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/794/794073-64.png",
@@ -2224,7 +2279,7 @@
     {
       "name": "WebRTC Leak Shield",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/webrtc-leak-shield/",
-      "interactionCount": 30015,
+      "interactionCount": 30004,
       "ratingCount": 231,
       "ratingValue": 4.5,
       "category": "category",
@@ -2235,7 +2290,7 @@
     {
       "name": "Lilo - Home Page",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/lilo-page-d-accueil/",
-      "interactionCount": 29706,
+      "interactionCount": 29528,
       "ratingCount": 32,
       "ratingValue": 4.7,
       "category": "category",
@@ -2246,7 +2301,7 @@
     {
       "name": "Text Link",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/text-link/",
-      "interactionCount": 28654,
+      "interactionCount": 28667,
       "ratingCount": 373,
       "ratingValue": 4.3,
       "category": "category",
@@ -2257,7 +2312,7 @@
     {
       "name": "Momentum",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/momentumdash/",
-      "interactionCount": 28405,
+      "interactionCount": 28350,
       "ratingCount": 664,
       "ratingValue": 4.4,
       "category": "category",
@@ -2268,7 +2323,7 @@
     {
       "name": "Vimium-FF",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/",
-      "interactionCount": 28279,
+      "interactionCount": 28250,
       "ratingCount": 291,
       "ratingValue": 4.8,
       "category": "category",
@@ -2279,7 +2334,7 @@
     {
       "name": "Pinned WhatsApp Web",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/pinned-whatsapp-web/",
-      "interactionCount": 28190,
+      "interactionCount": 28207,
       "ratingCount": 151,
       "ratingValue": 4.6,
       "category": "category",
@@ -2290,7 +2345,7 @@
     {
       "name": "Media Converter and Muxer - Audio Tools",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/media-conversion-tool/",
-      "interactionCount": 27528,
+      "interactionCount": 27515,
       "ratingCount": 115,
       "ratingValue": 3.9,
       "category": "category",
@@ -2301,7 +2356,7 @@
     {
       "name": "Measure-it",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/measure-it/",
-      "interactionCount": 27410,
+      "interactionCount": 27375,
       "ratingCount": 75,
       "ratingValue": 4.5,
       "category": "category",
@@ -2312,7 +2367,7 @@
     {
       "name": "Zoom Page WE",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/",
-      "interactionCount": 27223,
+      "interactionCount": 27224,
       "ratingCount": 323,
       "ratingValue": 3.7,
       "category": "category",
@@ -2323,7 +2378,7 @@
     {
       "name": "Exhentai Passport",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/exhentai-passport/",
-      "interactionCount": 27077,
+      "interactionCount": 27082,
       "ratingCount": 118,
       "ratingValue": 4.2,
       "category": "category",
@@ -2334,8 +2389,8 @@
     {
       "name": "AdNauseam",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/adnauseam/",
-      "interactionCount": 26985,
-      "ratingCount": 354,
+      "interactionCount": 26992,
+      "ratingCount": 355,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/585/585454-64.png",
@@ -2345,7 +2400,7 @@
     {
       "name": "Old Reddit Redirect",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/",
-      "interactionCount": 26308,
+      "interactionCount": 26301,
       "ratingCount": 123,
       "ratingValue": 4.8,
       "category": "category",
@@ -2356,7 +2411,7 @@
     {
       "name": "SearchPreview",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/searchpreview/",
-      "interactionCount": 25926,
+      "interactionCount": 25923,
       "ratingCount": 500,
       "ratingValue": 4.4,
       "category": "category",
@@ -2367,7 +2422,7 @@
     {
       "name": "Easy Video Downloader (Flash and Video)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/easy-video-downloader/",
-      "interactionCount": 25743,
+      "interactionCount": 25720,
       "ratingCount": 119,
       "ratingValue": 3.5,
       "category": "category",
@@ -2378,7 +2433,7 @@
     {
       "name": "Disable JavaScript",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/",
-      "interactionCount": 25519,
+      "interactionCount": 25507,
       "ratingCount": 85,
       "ratingValue": 4.8,
       "category": "category",
@@ -2389,7 +2444,7 @@
     {
       "name": "Exif Viewer",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/",
-      "interactionCount": 25325,
+      "interactionCount": 25305,
       "ratingCount": 125,
       "ratingValue": 3.9,
       "category": "category",
@@ -2400,7 +2455,7 @@
     {
       "name": "Private Video Downloader",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/private-video-downloader/",
-      "interactionCount": 25170,
+      "interactionCount": 25140,
       "ratingCount": 220,
       "ratingValue": 3.7,
       "category": "category",
@@ -2411,7 +2466,7 @@
     {
       "name": "Mp3 Downloader for SoundCloud™",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/soundcloud-mp3-downloader/",
-      "interactionCount": 24979,
+      "interactionCount": 24973,
       "ratingCount": 216,
       "ratingValue": 4.2,
       "category": "category",
@@ -2422,7 +2477,7 @@
     {
       "name": "Nano Defender for Firefox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/nano-defender-firefox/",
-      "interactionCount": 24833,
+      "interactionCount": 24879,
       "ratingCount": 122,
       "ratingValue": 4.8,
       "category": "category",
@@ -2433,7 +2488,7 @@
     {
       "name": "Lilo",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/lilo/",
-      "interactionCount": 24546,
+      "interactionCount": 24460,
       "ratingCount": 111,
       "ratingValue": 4.7,
       "category": "category",
@@ -2444,7 +2499,7 @@
     {
       "name": "RESTED",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/rested/",
-      "interactionCount": 24286,
+      "interactionCount": 24247,
       "ratingCount": 82,
       "ratingValue": 4.4,
       "category": "category",
@@ -2453,20 +2508,9 @@
       "lastUpdated": "2019-07-22T21:00:00.000Z"
     },
     {
-      "name": "YouTube™ Downloader Lite",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-downloader-lite/",
-      "interactionCount": 24072,
-      "ratingCount": 223,
-      "ratingValue": 3.5,
-      "category": "category",
-      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/447/447984-64.png",
-      "description": "A very lite YouTube downloader (FLV, WebM, 3GP, and MP4)",
-      "lastUpdated": "2019-12-27T21:00:00.000Z"
-    },
-    {
       "name": "Empty Cache Button",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/",
-      "interactionCount": 24058,
+      "interactionCount": 24020,
       "ratingCount": 151,
       "ratingValue": 4.3,
       "category": "category",
@@ -2475,9 +2519,20 @@
       "lastUpdated": "2017-11-19T21:00:00.000Z"
     },
     {
+      "name": "YouTube™ Downloader Lite",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-downloader-lite/",
+      "interactionCount": 24001,
+      "ratingCount": 223,
+      "ratingValue": 3.5,
+      "category": "category",
+      "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/447/447984-64.png",
+      "description": "A very lite YouTube downloader (FLV, WebM, 3GP, and MP4)",
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
+    },
+    {
       "name": "JavaScript Toggle On and Off (WebExtension)",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/javascript-toggler/",
-      "interactionCount": 23000,
+      "interactionCount": 22985,
       "ratingCount": 92,
       "ratingValue": 3.9,
       "category": "category",
@@ -2488,7 +2543,7 @@
     {
       "name": "Save Page WE",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/save-page-we/",
-      "interactionCount": 22344,
+      "interactionCount": 22350,
       "ratingCount": 297,
       "ratingValue": 4.3,
       "category": "category",
@@ -2499,7 +2554,7 @@
     {
       "name": "Blur",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/donottrackplus/",
-      "interactionCount": 21349,
+      "interactionCount": 21324,
       "ratingCount": 927,
       "ratingValue": 3.7,
       "category": "category",
@@ -2510,7 +2565,7 @@
     {
       "name": "Flash-HTML5 Player for YouTube™",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-flash-html5/",
-      "interactionCount": 20965,
+      "interactionCount": 20946,
       "ratingCount": 177,
       "ratingValue": 4,
       "category": "category",
@@ -2521,7 +2576,7 @@
     {
       "name": "Default Bookmark Folder",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/",
-      "interactionCount": 20912,
+      "interactionCount": 20910,
       "ratingCount": 290,
       "ratingValue": 4.6,
       "category": "category",
@@ -2532,7 +2587,7 @@
     {
       "name": "Snap Links Plus",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/snaplinksplus/",
-      "interactionCount": 19918,
+      "interactionCount": 19899,
       "ratingCount": 293,
       "ratingValue": 4.1,
       "category": "category",
@@ -2543,7 +2598,7 @@
     {
       "name": "Tab Mix - Links",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/tab-mix-plus-webextension/",
-      "interactionCount": 18480,
+      "interactionCount": 18471,
       "ratingCount": 254,
       "ratingValue": 4.4,
       "category": "category",
@@ -2554,7 +2609,7 @@
     {
       "name": "Clippings",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/clippings/",
-      "interactionCount": 16280,
+      "interactionCount": 16230,
       "ratingCount": 371,
       "ratingValue": 4.3,
       "category": "category",
@@ -2565,8 +2620,8 @@
     {
       "name": "CanvasBlocker",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/",
-      "interactionCount": 16037,
-      "ratingCount": 257,
+      "interactionCount": 16030,
+      "ratingCount": 259,
       "ratingValue": 4.6,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/534/534930-64.png",
@@ -2576,7 +2631,7 @@
     {
       "name": "Public Fox",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/public-fox/",
-      "interactionCount": 6723,
+      "interactionCount": 6735,
       "ratingCount": 223,
       "ratingValue": 3.8,
       "category": "category",
@@ -2587,7 +2642,7 @@
     {
       "name": "GoodTwitter",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/goodtwitter/",
-      "interactionCount": 4165,
+      "interactionCount": 4134,
       "ratingCount": 266,
       "ratingValue": 4.5,
       "category": "category",
@@ -2598,8 +2653,8 @@
     {
       "name": "Video Background Play Fix",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/video-background-play-fix/",
-      "interactionCount": 1941,
-      "ratingCount": 847,
+      "interactionCount": 1940,
+      "ratingCount": 850,
       "ratingValue": 4.5,
       "category": "category",
       "image": "https://addons.cdn.mozilla.net/user-media/addon_icons/811/811592-64.png",
@@ -2609,7 +2664,7 @@
     {
       "name": "Search",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/search-by-image-on-ali/",
-      "interactionCount": 879,
+      "interactionCount": 882,
       "ratingCount": 187,
       "ratingValue": 4.7,
       "category": "category",
@@ -2620,7 +2675,7 @@
     {
       "name": "WebSocket Sniffer",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/websocketsniff/",
-      "interactionCount": 780,
+      "interactionCount": 777,
       "ratingCount": 14,
       "ratingValue": 2.5,
       "category": "category",

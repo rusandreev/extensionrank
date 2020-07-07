@@ -2,30 +2,30 @@
     {
       "name": "SaveFrom.net helper",
       "url": "https://addons.opera.com/en/extensions/details/savefromnet-helper/",
-      "interactionCount": 84830963,
-      "ratingCount": 3342,
+      "interactionCount": 84913029,
+      "ratingCount": 3349,
       "ratingValue": 4.5,
       "category": "Downloads",
-      "image": "https://addons-media.operacdn.com/media/extensions/25/6425/8.92-rev1/icons/icon_64x64_9ad309c4127bcc1d996e647c7dc1e377.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/25/6425/8.96-rev1/icons/icon_64x64_9ad309c4127bcc1d996e647c7dc1e377.png",
       "description": "description",
-      "lastUpdated": "2020-05-31T21:00:00.000Z"
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
     },
     {
       "name": "Adblock Plus",
       "url": "https://addons.opera.com/en/extensions/details/adblock-plus/",
-      "interactionCount": 40444952,
-      "ratingCount": 2692,
+      "interactionCount": 40454952,
+      "ratingCount": 2693,
       "ratingValue": 4.2,
       "category": "Appearance",
-      "image": "https://addons-media.operacdn.com/media/extensions/85/7385/3.8.4-rev1/icons/icon_64x64_46f1339d0c9786e1a310111a11cef0f5.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/85/7385/3.9-rev1/icons/icon_64x64_46f1339d0c9786e1a310111a11cef0f5.png",
       "description": "description",
-      "lastUpdated": "2020-03-31T21:00:00.000Z"
+      "lastUpdated": "2020-07-05T21:00:00.000Z"
     },
     {
       "name": "AdBlock",
       "url": "https://addons.opera.com/en/extensions/details/adblock/",
-      "interactionCount": 14081033,
-      "ratingCount": 1255,
+      "interactionCount": 14085310,
+      "ratingCount": 1256,
       "ratingValue": 4.4,
       "category": "Appearance",
       "image": "https://addons-media.operacdn.com/media/extensions/45/57745/2.57-rev1/icons/icon_64x64.png",
@@ -35,8 +35,8 @@
     {
       "name": "Install Chrome Extensions",
       "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
-      "interactionCount": 12766218,
-      "ratingCount": 2516,
+      "interactionCount": 12800706,
+      "ratingCount": 2521,
       "ratingValue": 4.6,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/25/113925/2.5.9-rev1/icons/icon_64x64_506b49f3f7914c9c910f255bf838540f.png",
@@ -46,8 +46,8 @@
     {
       "name": "360 Internet Protection",
       "url": "https://addons.opera.com/en/extensions/details/360-internet-protection/",
-      "interactionCount": 8745180,
-      "ratingCount": 659,
+      "interactionCount": 8748870,
+      "ratingCount": 660,
       "ratingValue": 4.5,
       "category": "Privacy & Security",
       "image": "https://addons-media.operacdn.com/media/extensions/35/192835/2.1.36-rev1/icons/icon_64x64_dbe3846502c6d1c21518f6c28709f6c7.png",
@@ -57,8 +57,8 @@
     {
       "name": "Adguard",
       "url": "https://addons.opera.com/en/extensions/details/adguard/",
-      "interactionCount": 7847048,
-      "ratingCount": 2284,
+      "interactionCount": 7850036,
+      "ratingCount": 2286,
       "ratingValue": 4.6,
       "category": "Privacy & Security",
       "image": "https://addons-media.operacdn.com/media/extensions/65/134665/3.4.19-rev1/icons/icon_64x64_724c6db98f97b531416b4c77eeda821a.png",
@@ -68,7 +68,7 @@
     {
       "name": "uBlock Origin",
       "url": "https://addons.opera.com/en/extensions/details/ublock/",
-      "interactionCount": 6948888,
+      "interactionCount": 6954481,
       "ratingCount": 1518,
       "ratingValue": 4.7,
       "category": "Privacy & Security",
@@ -79,8 +79,8 @@
     {
       "name": "Amazon for Opera",
       "url": "https://addons.opera.com/en/extensions/details/amazon-for-opera/",
-      "interactionCount": 5660304,
-      "ratingCount": 296,
+      "interactionCount": 5667973,
+      "ratingCount": 297,
       "ratingValue": 4.1,
       "category": "Shopping",
       "image": "https://addons-media.operacdn.com/media/extensions/75/94575/10.2003.31.11559-rev1/icons/icon_64x64_498f303984517929ae0f55194f2dcc30.png",
@@ -90,8 +90,8 @@
     {
       "name": "Translator",
       "url": "https://addons.opera.com/en/extensions/details/translator/",
-      "interactionCount": 5653755,
-      "ratingCount": 2008,
+      "interactionCount": 5659807,
+      "ratingCount": 2012,
       "ratingValue": 4.3,
       "category": "Translation",
       "image": "https://addons-media.operacdn.com/media/extensions/03/1103/1.6.7-rev1/icons/icon_64x64_530b9d662236ba5eaf78d9e9b5820267.png",
@@ -101,7 +101,7 @@
     {
       "name": "Ghostery",
       "url": "https://addons.opera.com/en/extensions/details/ghostery/",
-      "interactionCount": 5632738,
+      "interactionCount": 5633700,
       "ratingCount": 974,
       "ratingValue": 4.5,
       "category": "Privacy & Security",
@@ -112,7 +112,7 @@
     {
       "name": "ZenMate VPN",
       "url": "https://addons.opera.com/en/extensions/details/zenmate-vpn/",
-      "interactionCount": 4810711,
+      "interactionCount": 4812461,
       "ratingCount": 450,
       "ratingValue": 3.7,
       "category": "Privacy & Security",
@@ -123,18 +123,18 @@
     {
       "name": "LastPass",
       "url": "https://addons.opera.com/en/extensions/details/lastpass/",
-      "interactionCount": 4390860,
-      "ratingCount": 2457,
+      "interactionCount": 4393133,
+      "ratingCount": 2459,
       "ratingValue": 4.4,
       "category": "Privacy & Security",
-      "image": "https://addons-media.operacdn.com/media/extensions/43/3143/4.50.1.1-rev1/icons/icon_64x64_afce08368ea1815012bd89de0bc19cef.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/43/3143/4.51.0.1-rev2/icons/icon_64x64_afce08368ea1815012bd89de0bc19cef.png",
       "description": "description",
-      "lastUpdated": "2020-06-18T21:00:00.000Z"
+      "lastUpdated": "2020-07-05T21:00:00.000Z"
     },
     {
       "name": "VKontakte.ru Downloader",
       "url": "https://addons.opera.com/en/extensions/details/vkontakteru-downloader/",
-      "interactionCount": 4337035,
+      "interactionCount": 4337380,
       "ratingCount": 525,
       "ratingValue": 4,
       "category": "Downloads",
@@ -145,7 +145,7 @@
     {
       "name": "Browsec",
       "url": "https://addons.opera.com/en/extensions/details/browsec/",
-      "interactionCount": 4085650,
+      "interactionCount": 4088039,
       "ratingCount": 359,
       "ratingValue": 4.4,
       "category": "Privacy & Security",
@@ -156,7 +156,7 @@
     {
       "name": "AliTools",
       "url": "https://addons.opera.com/en/extensions/details/ali-tools/",
-      "interactionCount": 4036414,
+      "interactionCount": 4039954,
       "ratingCount": 247,
       "ratingValue": 4.1,
       "category": "Shopping",
@@ -167,8 +167,8 @@
     {
       "name": "FVD Video Downloader",
       "url": "https://addons.opera.com/en/extensions/details/fvd-video-downloader/",
-      "interactionCount": 3750566,
-      "ratingCount": 884,
+      "interactionCount": 3753430,
+      "ratingCount": 885,
       "ratingValue": 4.4,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/75/111675/1.5.3-rev1/icons/icon_64x64_97c24125ac4f6f8c1ae61e9abc4e825a.png",
@@ -178,7 +178,7 @@
     {
       "name": "WOT",
       "url": "https://addons.opera.com/en/extensions/details/wot/",
-      "interactionCount": 3324636,
+      "interactionCount": 3324975,
       "ratingCount": 721,
       "ratingValue": 4.3,
       "category": "Privacy & Security",
@@ -189,9 +189,9 @@
     {
       "name": "YouTube Downloader",
       "url": "https://addons.opera.com/en/extensions/details/youtube-downloader-2/",
-      "interactionCount": 3254650,
+      "interactionCount": 3255107,
       "ratingCount": 583,
-      "ratingValue": 3.5,
+      "ratingValue": 3.4,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/33/1633/2.3-rev1/icons/icon_64x64.png",
       "description": "description",
@@ -200,7 +200,7 @@
     {
       "name": "Hola Free VPN Proxy Unblocker",
       "url": "https://addons.opera.com/en/extensions/details/hola-better-internet/",
-      "interactionCount": 3076638,
+      "interactionCount": 3078765,
       "ratingCount": 525,
       "ratingValue": 4.4,
       "category": "Productivity",
@@ -211,7 +211,7 @@
     {
       "name": "DotVPN - better than VPN",
       "url": "https://addons.opera.com/en/extensions/details/dotvpn-free-and-secure-vpn-2/",
-      "interactionCount": 2914969,
+      "interactionCount": 2916723,
       "ratingCount": 350,
       "ratingValue": 3.6,
       "category": "Privacy & Security",
@@ -222,8 +222,8 @@
     {
       "name": "Google Translate",
       "url": "https://addons.opera.com/en/extensions/details/google-translate/",
-      "interactionCount": 2683831,
-      "ratingCount": 749,
+      "interactionCount": 2687519,
+      "ratingCount": 750,
       "ratingValue": 4.5,
       "category": "Translation",
       "image": "https://addons-media.operacdn.com/media/extensions/35/221735/12.52-rev1/icons/icon_64x64_4eaf65f904d0692e51583f91d8359343.png",
@@ -233,7 +233,7 @@
     {
       "name": "SurfEasy Proxy",
       "url": "https://addons.opera.com/en/extensions/details/surfeasy-proxy/",
-      "interactionCount": 2592777,
+      "interactionCount": 2593274,
       "ratingCount": 4635,
       "ratingValue": 4.5,
       "category": "Privacy & Security",
@@ -244,7 +244,7 @@
     {
       "name": "Скачать Музыку ВКонтакте",
       "url": "https://addons.opera.com/en/extensions/details/skachat-muzyku-vkontakte-2/",
-      "interactionCount": 2367504,
+      "interactionCount": 2368455,
       "ratingCount": 163,
       "ratingValue": 4.1,
       "category": "Social",
@@ -255,7 +255,7 @@
     {
       "name": "AdBlocker Ultimate",
       "url": "https://addons.opera.com/en/extensions/details/adblock-ultimate/",
-      "interactionCount": 2221948,
+      "interactionCount": 2223286,
       "ratingCount": 170,
       "ratingValue": 4.1,
       "category": "Privacy & Security",
@@ -266,7 +266,7 @@
     {
       "name": "Turn Off the Lights",
       "url": "https://addons.opera.com/en/extensions/details/turn-off-the-lights/",
-      "interactionCount": 2082879,
+      "interactionCount": 2083340,
       "ratingCount": 935,
       "ratingValue": 4.4,
       "category": "Productivity",
@@ -277,7 +277,7 @@
     {
       "name": "CryptoPro Extension for CAdES Browser Plug-in",
       "url": "https://addons.opera.com/en/extensions/details/cryptopro-extension-for-cades-browser-plug-in/",
-      "interactionCount": 1801157,
+      "interactionCount": 1802771,
       "ratingCount": 24,
       "ratingValue": 4.2,
       "category": "Developer Tools",
@@ -288,7 +288,7 @@
     {
       "name": "Tampermonkey",
       "url": "https://addons.opera.com/en/extensions/details/tampermonkey-beta/",
-      "interactionCount": 1701869,
+      "interactionCount": 1703550,
       "ratingCount": 385,
       "ratingValue": 4.7,
       "category": "Productivity",
@@ -299,7 +299,7 @@
     {
       "name": "Magic Actions for YouTube™",
       "url": "https://addons.opera.com/en/extensions/details/magic-actions-for-youtube/",
-      "interactionCount": 1701022,
+      "interactionCount": 1701464,
       "ratingCount": 1811,
       "ratingValue": 4.6,
       "category": "Fun",
@@ -310,8 +310,8 @@
     {
       "name": "Download with Internet Download Manager (IDM)",
       "url": "https://addons.opera.com/en/extensions/details/download-with-internet-download-manager-idm/",
-      "interactionCount": 1575984,
-      "ratingCount": 229,
+      "interactionCount": 1578439,
+      "ratingCount": 232,
       "ratingValue": 4.3,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/88/229388/0.1.9-rev1/icons/icon_64x64_aff4716001bfcc15772a6c091a7b6410.png",
@@ -321,7 +321,7 @@
     {
       "name": "Ant.com Antmarks Extension",
       "url": "https://addons.opera.com/en/extensions/details/antcom-antmarks-extension/",
-      "interactionCount": 1423456,
+      "interactionCount": 1423472,
       "ratingCount": 10,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -332,7 +332,7 @@
     {
       "name": "Video Downloader Pro",
       "url": "https://addons.opera.com/en/extensions/details/all-in-all-downloader/",
-      "interactionCount": 1420167,
+      "interactionCount": 1421731,
       "ratingCount": 281,
       "ratingValue": 4.3,
       "category": "Downloads",
@@ -343,7 +343,7 @@
     {
       "name": "Скачать музыку с ВК",
       "url": "https://addons.opera.com/en/extensions/details/skachat-muzyku-s-vk/",
-      "interactionCount": 1308203,
+      "interactionCount": 1308997,
       "ratingCount": 109,
       "ratingValue": 4,
       "category": "Downloads",
@@ -354,8 +354,8 @@
     {
       "name": "HTTPS Everywhere",
       "url": "https://addons.opera.com/en/extensions/details/https-everywhere/",
-      "interactionCount": 1278745,
-      "ratingCount": 294,
+      "interactionCount": 1279310,
+      "ratingCount": 295,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
       "image": "https://addons-media.operacdn.com/media/extensions/65/142965/2019.1.7-rev1/icons/icon_64x64_7eb89697e36211dc52b6503909076829.png",
@@ -365,7 +365,7 @@
     {
       "name": "Easy Youtube Video Downloader For Opera",
       "url": "https://addons.opera.com/en/extensions/details/easy-youtube-video-downloader-for-opera/",
-      "interactionCount": 1261926,
+      "interactionCount": 1262180,
       "ratingCount": 228,
       "ratingValue": 3.3,
       "category": "Downloads",
@@ -376,7 +376,7 @@
     {
       "name": "Vkontakte Download",
       "url": "https://addons.opera.com/en/extensions/details/vkontakte-download/",
-      "interactionCount": 1259169,
+      "interactionCount": 1259287,
       "ratingCount": 328,
       "ratingValue": 4.1,
       "category": "Downloads",
@@ -387,7 +387,7 @@
     {
       "name": "VPN.S HTTP Proxy",
       "url": "https://addons.opera.com/en/extensions/details/vpns-http-proxy/",
-      "interactionCount": 1231173,
+      "interactionCount": 1231979,
       "ratingCount": 80,
       "ratingValue": 3.4,
       "category": "Privacy & Security",
@@ -398,8 +398,8 @@
     {
       "name": "Sidebar for YouTube™",
       "url": "https://addons.opera.com/en/extensions/details/youtubetm-sidebar/",
-      "interactionCount": 1218873,
-      "ratingCount": 212,
+      "interactionCount": 1220034,
+      "ratingCount": 213,
       "ratingValue": 4.1,
       "category": "Fun",
       "image": "https://addons-media.operacdn.com/media/extensions/02/226702/0.1.7-rev1/icons/icon_64x64_b3c20d31720d62dae57794d01aa77f0a.png",
@@ -409,7 +409,7 @@
     {
       "name": "Доступ к Рутрекеру",
       "url": "https://addons.opera.com/en/extensions/details/dostup-k-rutrekeru/",
-      "interactionCount": 1216698,
+      "interactionCount": 1217857,
       "ratingCount": 316,
       "ratingValue": 4.7,
       "category": "Accessibility",
@@ -420,8 +420,8 @@
     {
       "name": "Enhancer for YouTube",
       "url": "https://addons.opera.com/en/extensions/details/enhancer-for-youtube/",
-      "interactionCount": 1201964,
-      "ratingCount": 943,
+      "interactionCount": 1203452,
+      "ratingCount": 944,
       "ratingValue": 4.7,
       "category": "Productivity",
       "image": "https://addons-media.operacdn.com/media/extensions/92/225892/2.0.101-rev1/icons/icon_64x64_2c6d61ea2faf819d155dde5ce937e146.png",
@@ -431,7 +431,7 @@
     {
       "name": "OkTools - Темы, Cтатусы для сайта одноклассники.ру",
       "url": "https://addons.opera.com/en/extensions/details/oktools/",
-      "interactionCount": 1196217,
+      "interactionCount": 1196476,
       "ratingCount": 921,
       "ratingValue": 4.5,
       "category": "Social",
@@ -442,7 +442,7 @@
     {
       "name": "Gismeteo",
       "url": "https://addons.opera.com/en/extensions/details/gismeteo/",
-      "interactionCount": 1080943,
+      "interactionCount": 1081528,
       "ratingCount": 418,
       "ratingValue": 4.4,
       "category": "News & Weather",
@@ -453,7 +453,7 @@
     {
       "name": "TunnelBear",
       "url": "https://addons.opera.com/en/extensions/details/tunnelbear/",
-      "interactionCount": 1048140,
+      "interactionCount": 1048757,
       "ratingCount": 285,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -464,7 +464,7 @@
     {
       "name": "Google™ Translator",
       "url": "https://addons.opera.com/en/extensions/details/googletm-translator/",
-      "interactionCount": 987551,
+      "interactionCount": 987946,
       "ratingCount": 271,
       "ratingValue": 4.5,
       "category": "Translation",
@@ -475,7 +475,7 @@
     {
       "name": "History Eraser",
       "url": "https://addons.opera.com/en/extensions/details/history-eraser/",
-      "interactionCount": 963377,
+      "interactionCount": 963707,
       "ratingCount": 439,
       "ratingValue": 4.6,
       "category": "Privacy & Security",
@@ -486,7 +486,7 @@
     {
       "name": "Dark Mode",
       "url": "https://addons.opera.com/en/extensions/details/dark-mode/",
-      "interactionCount": 948520,
+      "interactionCount": 950018,
       "ratingCount": 245,
       "ratingValue": 4.2,
       "category": "Appearance",
@@ -497,9 +497,9 @@
     {
       "name": "Video Downloader Multiformat",
       "url": "https://addons.opera.com/en/extensions/details/video-downloader-multiformat/",
-      "interactionCount": 890264,
-      "ratingCount": 111,
-      "ratingValue": 3.9,
+      "interactionCount": 891070,
+      "ratingCount": 112,
+      "ratingValue": 4,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/35/186435/3.9.1-rev1/icons/icon_64x64.png",
       "description": "description",
@@ -508,8 +508,8 @@
     {
       "name": "Get Styles",
       "url": "https://addons.opera.com/en/extensions/details/get-styles/",
-      "interactionCount": 867044,
-      "ratingCount": 135,
+      "interactionCount": 867807,
+      "ratingCount": 136,
       "ratingValue": 4.1,
       "category": "Fun",
       "image": "https://addons-media.operacdn.com/media/extensions/05/161505/1.0.11-rev1/icons/icon_64x64_b79d28a464b01e63a0ca2d64423c7eec.png",
@@ -519,8 +519,8 @@
     {
       "name": "Evernote Web Clipper",
       "url": "https://addons.opera.com/en/extensions/details/evernote-web-clipper/",
-      "interactionCount": 859210,
-      "ratingCount": 636,
+      "interactionCount": 859518,
+      "ratingCount": 637,
       "ratingValue": 4.5,
       "category": "Productivity",
       "image": "https://addons-media.operacdn.com/media/extensions/35/109835/6.13.2-rev2/icons/icon_64x64_66f25c807d2a50e3ad7564b043df92cb.png",
@@ -530,7 +530,7 @@
     {
       "name": "DuckDuckGo for Opera",
       "url": "https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/",
-      "interactionCount": 820273,
+      "interactionCount": 820834,
       "ratingCount": 306,
       "ratingValue": 4.6,
       "category": "Productivity",
@@ -541,7 +541,7 @@
     {
       "name": "Whatsapp™ For PC",
       "url": "https://addons.opera.com/en/extensions/details/whatsapptm-for-pc/",
-      "interactionCount": 805219,
+      "interactionCount": 805413,
       "ratingCount": 113,
       "ratingValue": 4.2,
       "category": "Social",
@@ -552,7 +552,7 @@
     {
       "name": "Disconnect",
       "url": "https://addons.opera.com/en/extensions/details/disconnect/",
-      "interactionCount": 789346,
+      "interactionCount": 789623,
       "ratingCount": 253,
       "ratingValue": 4.3,
       "category": "Privacy & Security",
@@ -563,7 +563,7 @@
     {
       "name": "Bookmarks Import & Export",
       "url": "https://addons.opera.com/en/extensions/details/bookmarks-import-export/",
-      "interactionCount": 787180,
+      "interactionCount": 787644,
       "ratingCount": 138,
       "ratingValue": 4,
       "category": "Productivity",
@@ -574,8 +574,8 @@
     {
       "name": "Avira Browser Safety",
       "url": "https://addons.opera.com/en/extensions/details/avira-browser-safety/",
-      "interactionCount": 777741,
-      "ratingCount": 190,
+      "interactionCount": 778074,
+      "ratingCount": 192,
       "ratingValue": 4.4,
       "category": "Privacy & Security",
       "image": "https://addons-media.operacdn.com/media/extensions/15/163115/2.7.2.2033-rev1/icons/icon_64x64_37f029a36293e8bf5824876856df4ebc.png",
@@ -585,7 +585,7 @@
     {
       "name": "AdBlocker for YouTube™",
       "url": "https://addons.opera.com/en/extensions/details/adblock-for-youtubetm-2/",
-      "interactionCount": 750182,
+      "interactionCount": 751012,
       "ratingCount": 49,
       "ratingValue": 4.3,
       "category": "Privacy & Security",
@@ -596,8 +596,8 @@
     {
       "name": "Honey",
       "url": "https://addons.opera.com/en/extensions/details/honey/",
-      "interactionCount": 732818,
-      "ratingCount": 238,
+      "interactionCount": 735183,
+      "ratingCount": 240,
       "ratingValue": 4.4,
       "category": "Shopping",
       "image": "https://addons-media.operacdn.com/media/extensions/65/202765/10.7.0-rev1/icons/icon_64x64_dc69a957e6e645ee0d4201c71b3c133a.png",
@@ -607,8 +607,8 @@
     {
       "name": "Mate Translate",
       "url": "https://addons.opera.com/en/extensions/details/instant-translate-2/",
-      "interactionCount": 732225,
-      "ratingCount": 760,
+      "interactionCount": 733158,
+      "ratingCount": 761,
       "ratingValue": 4.6,
       "category": "Translation",
       "image": "https://addons-media.operacdn.com/media/extensions/95/163095/7.0.14-rev1/icons/icon_64x64_b2fc4f15923e5cad32a36ec4ef7b65bf.png",
@@ -618,7 +618,7 @@
     {
       "name": "Capture Webpage Screenshot - FireShot",
       "url": "https://addons.opera.com/en/extensions/details/capture-webpage-screenshot-fireshot/",
-      "interactionCount": 731208,
+      "interactionCount": 731440,
       "ratingCount": 147,
       "ratingValue": 4.4,
       "category": "Productivity",
@@ -629,7 +629,7 @@
     {
       "name": "Any Media Downloader",
       "url": "https://addons.opera.com/en/extensions/details/any-media-downloader/",
-      "interactionCount": 701430,
+      "interactionCount": 701832,
       "ratingCount": 92,
       "ratingValue": 3.5,
       "category": "Downloads",
@@ -640,7 +640,7 @@
     {
       "name": "YouTube™ Downloader Lite",
       "url": "https://addons.opera.com/en/extensions/details/youtube-video-downloader-2/",
-      "interactionCount": 700782,
+      "interactionCount": 701092,
       "ratingCount": 150,
       "ratingValue": 3.6,
       "category": "Downloads",
@@ -651,7 +651,7 @@
     {
       "name": "Privatix for Opera",
       "url": "https://addons.opera.com/en/extensions/details/privatix-for-opera/",
-      "interactionCount": 690894,
+      "interactionCount": 691067,
       "ratingCount": 65,
       "ratingValue": 3.2,
       "category": "Privacy & Security",
@@ -662,18 +662,18 @@
     {
       "name": "Stop Reclame",
       "url": "https://addons.opera.com/en/extensions/details/stop-reclame/",
-      "interactionCount": 670834,
+      "interactionCount": 671009,
       "ratingCount": 140,
       "ratingValue": 4.5,
       "category": "Appearance",
-      "image": "https://addons-media.operacdn.com/media/extensions/75/177075/2.18.0.0-rev1/icons/icon_64x64_ef7acc83cbaa6f4edad696d8b304bb45.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/75/177075/2.18.1.0-rev1/icons/icon_64x64_ef7acc83cbaa6f4edad696d8b304bb45.png",
       "description": "description",
-      "lastUpdated": "2017-08-06T21:00:00.000Z"
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
     },
     {
       "name": "Pocket (formerly Read It Later)",
       "url": "https://addons.opera.com/en/extensions/details/pocket-formerly-read-it-later/",
-      "interactionCount": 650412,
+      "interactionCount": 650651,
       "ratingCount": 320,
       "ratingValue": 4.5,
       "category": "Productivity",
@@ -684,7 +684,7 @@
     {
       "name": "GetThemAll - Any file downloader",
       "url": "https://addons.opera.com/en/extensions/details/getthemall-any-file-downloader/",
-      "interactionCount": 607951,
+      "interactionCount": 608397,
       "ratingCount": 149,
       "ratingValue": 4.1,
       "category": "Downloads",
@@ -695,7 +695,7 @@
     {
       "name": "ibVPN - Best VPN & Proxy",
       "url": "https://addons.opera.com/en/extensions/details/ibvpn-best-vpn-proxy/",
-      "interactionCount": 607469,
+      "interactionCount": 607936,
       "ratingCount": 64,
       "ratingValue": 3.6,
       "category": "Productivity",
@@ -706,7 +706,7 @@
     {
       "name": "Youtube Downloader",
       "url": "https://addons.opera.com/en/extensions/details/youtube-downloader-29/",
-      "interactionCount": 599283,
+      "interactionCount": 600039,
       "ratingCount": 204,
       "ratingValue": 2.9,
       "category": "Music",
@@ -717,8 +717,8 @@
     {
       "name": "HD Video Downloader",
       "url": "https://addons.opera.com/en/extensions/details/hd-video-downloader/",
-      "interactionCount": 598692,
-      "ratingCount": 69,
+      "interactionCount": 599115,
+      "ratingCount": 70,
       "ratingValue": 3.8,
       "category": "Accessibility",
       "image": "https://addons-media.operacdn.com/media/extensions/15/183515/3.2.8-rev1/icons/icon_64x64.png",
@@ -728,7 +728,7 @@
     {
       "name": "Video Downloader Prime",
       "url": "https://addons.opera.com/en/extensions/details/video-download-helper/",
-      "interactionCount": 536536,
+      "interactionCount": 537180,
       "ratingCount": 63,
       "ratingValue": 4,
       "category": "Downloads",
@@ -739,7 +739,7 @@
     {
       "name": "Whoer VPN",
       "url": "https://addons.opera.com/en/extensions/details/whoer-vpn-3/",
-      "interactionCount": 529217,
+      "interactionCount": 530478,
       "ratingCount": 80,
       "ratingValue": 3.3,
       "category": "Privacy & Security",
@@ -750,8 +750,8 @@
     {
       "name": "Translate Web Page",
       "url": "https://addons.opera.com/en/extensions/details/translate-web-page/",
-      "interactionCount": 528201,
-      "ratingCount": 99,
+      "interactionCount": 528791,
+      "ratingCount": 100,
       "ratingValue": 3.7,
       "category": "Translation",
       "image": "https://addons-media.operacdn.com/media/extensions/75/218675/1.0-rev1/icons/icon_64x64_13d13f89dbfaaddf787683a9c590fbb0.png",
@@ -761,7 +761,7 @@
     {
       "name": "Youtube To MP3",
       "url": "https://addons.opera.com/en/extensions/details/youtube-to-mp3-2/",
-      "interactionCount": 516700,
+      "interactionCount": 516837,
       "ratingCount": 148,
       "ratingValue": 3.4,
       "category": "Music",
@@ -772,7 +772,7 @@
     {
       "name": "Privacy Badger",
       "url": "https://addons.opera.com/en/extensions/details/privacy-badger/",
-      "interactionCount": 490308,
+      "interactionCount": 490845,
       "ratingCount": 184,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -783,7 +783,7 @@
     {
       "name": "ImTranslator: Translator, Dictionary, TTS",
       "url": "https://addons.opera.com/en/extensions/details/imtranslator-translator-dictionary-tts/",
-      "interactionCount": 489604,
+      "interactionCount": 490210,
       "ratingCount": 287,
       "ratingValue": 4.7,
       "category": "Translation",
@@ -794,7 +794,7 @@
     {
       "name": "Nimbus Screen Capture",
       "url": "https://addons.opera.com/en/extensions/details/nimbus-screen-capture/",
-      "interactionCount": 474515,
+      "interactionCount": 474896,
       "ratingCount": 208,
       "ratingValue": 4.4,
       "category": "Productivity",
@@ -805,7 +805,7 @@
     {
       "name": "Gmail Notifier",
       "url": "https://addons.opera.com/en/extensions/details/gmail-notifier/",
-      "interactionCount": 467934,
+      "interactionCount": 468212,
       "ratingCount": 222,
       "ratingValue": 4.6,
       "category": "Productivity",
@@ -816,7 +816,7 @@
     {
       "name": "Additional settings VK.com",
       "url": "https://addons.opera.com/en/extensions/details/additional-settings-vkcom/",
-      "interactionCount": 467100,
+      "interactionCount": 467120,
       "ratingCount": 121,
       "ratingValue": 4.3,
       "category": "Social",
@@ -827,7 +827,7 @@
     {
       "name": "VKfox - плагин для ВКонтакте\"",
       "url": "https://addons.opera.com/en/extensions/details/vkfox-plagin-dlia-vkontakte/",
-      "interactionCount": 452657,
+      "interactionCount": 452795,
       "ratingCount": 122,
       "ratingValue": 4.2,
       "category": "Social",
@@ -838,7 +838,7 @@
     {
       "name": "Instagram™ Web",
       "url": "https://addons.opera.com/en/extensions/details/instagramtm-web/",
-      "interactionCount": 432031,
+      "interactionCount": 432477,
       "ratingCount": 98,
       "ratingValue": 4.2,
       "category": "Social",
@@ -849,7 +849,7 @@
     {
       "name": "uTorrent easy client",
       "url": "https://addons.opera.com/en/extensions/details/utorrent-easy-client/",
-      "interactionCount": 425718,
+      "interactionCount": 426048,
       "ratingCount": 68,
       "ratingValue": 4.1,
       "category": "Productivity",
@@ -860,8 +860,8 @@
     {
       "name": "Emoji Keyboard by JoyPixels™",
       "url": "https://addons.opera.com/en/extensions/details/emoji-keyboard-2016-by-emojionetm/",
-      "interactionCount": 425143,
-      "ratingCount": 230,
+      "interactionCount": 425456,
+      "ratingCount": 231,
       "ratingValue": 4.5,
       "category": "Appearance",
       "image": "https://addons-media.operacdn.com/media/extensions/09/226809/4.6.0-rev1/icons/icon_64x64_029ae15be7e97def16d3af9d6c0809b7.png",
@@ -871,7 +871,7 @@
     {
       "name": "Скачать музыку с Вконтакте (vk.com)",
       "url": "https://addons.opera.com/en/extensions/details/skachat-muzyku-s-vkontakte-vkcom/",
-      "interactionCount": 424174,
+      "interactionCount": 424377,
       "ratingCount": 75,
       "ratingValue": 4.2,
       "category": "Social",
@@ -882,8 +882,8 @@
     {
       "name": "VKSteam",
       "url": "https://addons.opera.com/en/extensions/details/vksteam/",
-      "interactionCount": 423331,
-      "ratingCount": 38,
+      "interactionCount": 423514,
+      "ratingCount": 39,
       "ratingValue": 3.2,
       "category": "Social",
       "image": "https://addons-media.operacdn.com/media/extensions/05/129905/1.0.0-rev1/icons/icon_64x64.png",
@@ -893,7 +893,7 @@
     {
       "name": "Фон ВКонтакте",
       "url": "https://addons.opera.com/en/extensions/details/fon-vkontakte-2/",
-      "interactionCount": 420914,
+      "interactionCount": 421410,
       "ratingCount": 43,
       "ratingValue": 4.3,
       "category": "Appearance",
@@ -904,7 +904,7 @@
     {
       "name": "ContentBlockHelper",
       "url": "https://addons.opera.com/en/extensions/details/contentblockhelper/",
-      "interactionCount": 406002,
+      "interactionCount": 406052,
       "ratingCount": 136,
       "ratingValue": 4.2,
       "category": "Appearance",
@@ -915,7 +915,7 @@
     {
       "name": "HD Youtube Downloader",
       "url": "https://addons.opera.com/en/extensions/details/hd-youtube-downloader/",
-      "interactionCount": 390871,
+      "interactionCount": 391144,
       "ratingCount": 114,
       "ratingValue": 3.4,
       "category": "Downloads",
@@ -926,7 +926,7 @@
     {
       "name": "ImagePreviewer",
       "url": "https://addons.opera.com/en/extensions/details/imagepreviewer/",
-      "interactionCount": 389116,
+      "interactionCount": 389169,
       "ratingCount": 170,
       "ratingValue": 3.5,
       "category": "Productivity",
@@ -937,7 +937,7 @@
     {
       "name": "User-Agent Switcher",
       "url": "https://addons.opera.com/en/extensions/details/user-agent-switcher/",
-      "interactionCount": 387685,
+      "interactionCount": 387927,
       "ratingCount": 96,
       "ratingValue": 4.2,
       "category": "Developer Tools",
@@ -948,7 +948,7 @@
     {
       "name": "EditThisCookie",
       "url": "https://addons.opera.com/en/extensions/details/edit-this-cookie/",
-      "interactionCount": 386655,
+      "interactionCount": 386838,
       "ratingCount": 66,
       "ratingValue": 4.3,
       "category": "Developer Tools",
@@ -959,7 +959,7 @@
     {
       "name": "MyJDownloader Browser Extension",
       "url": "https://addons.opera.com/en/extensions/details/myjdownloader-browser-extension/",
-      "interactionCount": 375924,
+      "interactionCount": 376385,
       "ratingCount": 63,
       "ratingValue": 4.5,
       "category": "Downloads",
@@ -970,7 +970,7 @@
     {
       "name": "YouTube Video and Audio Downloader",
       "url": "https://addons.opera.com/en/extensions/details/youtube-video-and-audio-downloader/",
-      "interactionCount": 366905,
+      "interactionCount": 367286,
       "ratingCount": 105,
       "ratingValue": 3.7,
       "category": "Downloads",
@@ -981,7 +981,7 @@
     {
       "name": "VK Saver",
       "url": "https://addons.opera.com/en/extensions/details/vk-saver/",
-      "interactionCount": 364604,
+      "interactionCount": 364841,
       "ratingCount": 84,
       "ratingValue": 4.2,
       "category": "Social",
@@ -992,7 +992,7 @@
     {
       "name": "Vkontakte Music Downloader 2015",
       "url": "https://addons.opera.com/en/extensions/details/vkontakte-music-downloader-2015/",
-      "interactionCount": 360648,
+      "interactionCount": 360737,
       "ratingCount": 28,
       "ratingValue": 3.7,
       "category": "Downloads",
@@ -1003,8 +1003,8 @@
     {
       "name": "I don't care about cookies",
       "url": "https://addons.opera.com/en/extensions/details/i-dont-care-about-cookies/",
-      "interactionCount": 357505,
-      "ratingCount": 144,
+      "interactionCount": 357865,
+      "ratingCount": 145,
       "ratingValue": 4.7,
       "category": "Productivity",
       "image": "https://addons-media.operacdn.com/media/extensions/25/169925/3.1.8-rev1/icons/icon_64x64_ed2a05e59cd05e545dc39334b21952f0.png",
@@ -1014,7 +1014,7 @@
     {
       "name": "Popup Blocker (strict)",
       "url": "https://addons.opera.com/en/extensions/details/popup-blocker-ultimate/",
-      "interactionCount": 348740,
+      "interactionCount": 349106,
       "ratingCount": 114,
       "ratingValue": 4.6,
       "category": "Privacy & Security",
@@ -1025,7 +1025,7 @@
     {
       "name": "YouTube™ Flash-HTML5",
       "url": "https://addons.opera.com/en/extensions/details/youtubetm-flash-html5/",
-      "interactionCount": 345987,
+      "interactionCount": 346101,
       "ratingCount": 25,
       "ratingValue": 4,
       "category": "Productivity",
@@ -1036,8 +1036,8 @@
     {
       "name": "Dark Skin for Youtube™",
       "url": "https://addons.opera.com/en/extensions/details/dark-skin-for-youtube/",
-      "interactionCount": 344063,
-      "ratingCount": 95,
+      "interactionCount": 344157,
+      "ratingCount": 96,
       "ratingValue": 4.1,
       "category": "Appearance",
       "image": "https://addons-media.operacdn.com/media/extensions/05/110805/1.3.40-rev1/icons/icon_64x64_c31047fef868cfd8e3882656dce74299.png",
@@ -1047,7 +1047,7 @@
     {
       "name": "Super Auto Refresh",
       "url": "https://addons.opera.com/en/extensions/details/super-auto-refresh/",
-      "interactionCount": 341643,
+      "interactionCount": 342046,
       "ratingCount": 49,
       "ratingValue": 4.3,
       "category": "Developer Tools",
@@ -1058,7 +1058,7 @@
     {
       "name": "VK music downloader",
       "url": "https://addons.opera.com/en/extensions/details/vk-music-downloader/",
-      "interactionCount": 341218,
+      "interactionCount": 341334,
       "ratingCount": 35,
       "ratingValue": 3.5,
       "category": "Social",
@@ -1069,8 +1069,8 @@
     {
       "name": "Web Developer",
       "url": "https://addons.opera.com/en/extensions/details/web-developer/",
-      "interactionCount": 325706,
-      "ratingCount": 87,
+      "interactionCount": 325892,
+      "ratingCount": 88,
       "ratingValue": 4.4,
       "category": "Developer Tools",
       "image": "https://addons-media.operacdn.com/media/extensions/15/127715/0.2.2-rev1/icons/icon_64x64_8e40228560d6255e29324fbb5a54bf65.png",
@@ -1080,7 +1080,7 @@
     {
       "name": "VK Helper",
       "url": "https://addons.opera.com/en/extensions/details/vk-helper/",
-      "interactionCount": 322177,
+      "interactionCount": 322364,
       "ratingCount": 43,
       "ratingValue": 3.7,
       "category": "Social",
@@ -1091,7 +1091,7 @@
     {
       "name": "Pushbullet",
       "url": "https://addons.opera.com/en/extensions/details/pushbullet/",
-      "interactionCount": 317335,
+      "interactionCount": 317463,
       "ratingCount": 122,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1102,7 +1102,7 @@
     {
       "name": "LinkRedirector",
       "url": "https://addons.opera.com/en/extensions/details/linkredirector5/",
-      "interactionCount": 315322,
+      "interactionCount": 315336,
       "ratingCount": 49,
       "ratingValue": 4.1,
       "category": "Productivity",
@@ -1113,7 +1113,7 @@
     {
       "name": "VirtualShield - Fast and reliable VPN",
       "url": "https://addons.opera.com/en/extensions/details/virtualshield-fast-and-reliable-vpn/",
-      "interactionCount": 310385,
+      "interactionCount": 310492,
       "ratingCount": 40,
       "ratingValue": 3.3,
       "category": "Productivity",
@@ -1124,7 +1124,7 @@
     {
       "name": "Adult Blocker",
       "url": "https://addons.opera.com/en/extensions/details/adult-blocker/",
-      "interactionCount": 309418,
+      "interactionCount": 309577,
       "ratingCount": 42,
       "ratingValue": 3.9,
       "category": "Privacy & Security",
@@ -1135,9 +1135,9 @@
     {
       "name": "Adblock for Youtube™",
       "url": "https://addons.opera.com/en/extensions/details/adblock-for-youtubetm-6/",
-      "interactionCount": 304851,
+      "interactionCount": 305987,
       "ratingCount": 48,
-      "ratingValue": 4.4,
+      "ratingValue": 4.3,
       "category": "Social",
       "image": "https://addons-media.operacdn.com/media/extensions/57/234857/1.0.2-rev1/icons/icon_64x64_04ce414e00db5490dfb89a19a20bd8b9.png",
       "description": "description",
@@ -1146,7 +1146,7 @@
     {
       "name": "WhatsApp™ Messenger",
       "url": "https://addons.opera.com/en/extensions/details/whatsapptm-messenger/",
-      "interactionCount": 303047,
+      "interactionCount": 303218,
       "ratingCount": 66,
       "ratingValue": 4.1,
       "category": "Social",
@@ -1157,7 +1157,7 @@
     {
       "name": "YouTube to MP3 Convert Button",
       "url": "https://addons.opera.com/en/extensions/details/youtube-to-mp3-convert-button/",
-      "interactionCount": 291546,
+      "interactionCount": 291838,
       "ratingCount": 29,
       "ratingValue": 3.8,
       "category": "Music",
@@ -1168,7 +1168,7 @@
     {
       "name": "LetyShops - кэшбэк сервис",
       "url": "https://addons.opera.com/en/extensions/details/letyshops-keshbek-servis/",
-      "interactionCount": 282514,
+      "interactionCount": 283094,
       "ratingCount": 238,
       "ratingValue": 4.5,
       "category": "Shopping",
@@ -1179,7 +1179,7 @@
     {
       "name": "Turbo Button",
       "url": "https://addons.opera.com/en/extensions/details/turbo-button/",
-      "interactionCount": 281133,
+      "interactionCount": 281436,
       "ratingCount": 58,
       "ratingValue": 4.2,
       "category": "Accessibility",
@@ -1190,8 +1190,8 @@
     {
       "name": "Sidebar for Google™ Translate",
       "url": "https://addons.opera.com/en/extensions/details/googletm-translator-sidebar/",
-      "interactionCount": 281020,
-      "ratingCount": 54,
+      "interactionCount": 281289,
+      "ratingCount": 55,
       "ratingValue": 4.4,
       "category": "Translation",
       "image": "https://addons-media.operacdn.com/media/extensions/47/226747/0.1.3-rev1/icons/icon_64x64_88cd48740b74c06abb6f635abf160939.png",
@@ -1201,7 +1201,7 @@
     {
       "name": "Kenzo VK",
       "url": "https://addons.opera.com/en/extensions/details/kenzo-vk-2/",
-      "interactionCount": 278520,
+      "interactionCount": 278596,
       "ratingCount": 97,
       "ratingValue": 4.4,
       "category": "Social",
@@ -1212,7 +1212,7 @@
     {
       "name": "Zoom",
       "url": "https://addons.opera.com/en/extensions/details/zoom/",
-      "interactionCount": 272496,
+      "interactionCount": 272748,
       "ratingCount": 97,
       "ratingValue": 4.2,
       "category": "Accessibility",
@@ -1223,7 +1223,7 @@
     {
       "name": "Documents",
       "url": "https://addons.opera.com/en/extensions/details/documents/",
-      "interactionCount": 271527,
+      "interactionCount": 271574,
       "ratingCount": 85,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -1234,7 +1234,7 @@
     {
       "name": "Контур.Плагин",
       "url": "https://addons.opera.com/en/extensions/details/konturplagin/",
-      "interactionCount": 265447,
+      "interactionCount": 266157,
       "ratingCount": 18,
       "ratingValue": 4.1,
       "category": "Developer Tools",
@@ -1245,7 +1245,7 @@
     {
       "name": "Радио",
       "url": "https://addons.opera.com/en/extensions/details/radio-2/",
-      "interactionCount": 264613,
+      "interactionCount": 264624,
       "ratingCount": 123,
       "ratingValue": 4,
       "category": "Music",
@@ -1256,7 +1256,7 @@
     {
       "name": "TinEye Reverse Image Search (Context menu)",
       "url": "https://addons.opera.com/en/extensions/details/tineye-reverse-image-search-context-menu/",
-      "interactionCount": 261885,
+      "interactionCount": 262053,
       "ratingCount": 83,
       "ratingValue": 4.1,
       "category": "Search",
@@ -1267,7 +1267,7 @@
     {
       "name": "AdBlocker for YouTube™ Video",
       "url": "https://addons.opera.com/en/extensions/details/adblocker-for-youtube-video/",
-      "interactionCount": 259294,
+      "interactionCount": 259548,
       "ratingCount": 11,
       "ratingValue": 4.1,
       "category": "Productivity",
@@ -1278,7 +1278,7 @@
     {
       "name": "2048 Sidebar",
       "url": "https://addons.opera.com/en/extensions/details/2048-sidebar/",
-      "interactionCount": 252845,
+      "interactionCount": 253208,
       "ratingCount": 52,
       "ratingValue": 4.5,
       "category": "Fun",
@@ -1289,7 +1289,7 @@
     {
       "name": "Atavi bookmarks",
       "url": "https://addons.opera.com/en/extensions/details/atavi-bookmarks/",
-      "interactionCount": 252117,
+      "interactionCount": 252238,
       "ratingCount": 105,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -1300,7 +1300,7 @@
     {
       "name": "Megabonus - Cash Back up to 40%",
       "url": "https://addons.opera.com/en/extensions/details/alibonus-vozvrashchai-10-s-aliexpress/",
-      "interactionCount": 249950,
+      "interactionCount": 250082,
       "ratingCount": 226,
       "ratingValue": 4.5,
       "category": "Shopping",
@@ -1311,7 +1311,7 @@
     {
       "name": "To-Read sites",
       "url": "https://addons.opera.com/en/extensions/details/to-read-sites/",
-      "interactionCount": 249224,
+      "interactionCount": 249233,
       "ratingCount": 295,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1322,7 +1322,7 @@
     {
       "name": "Force Download",
       "url": "https://addons.opera.com/en/extensions/details/force-download/",
-      "interactionCount": 247588,
+      "interactionCount": 247791,
       "ratingCount": 50,
       "ratingValue": 3.8,
       "category": "Downloads",
@@ -1333,7 +1333,7 @@
     {
       "name": "WebRTC Control",
       "url": "https://addons.opera.com/en/extensions/details/webrtc-control/",
-      "interactionCount": 246853,
+      "interactionCount": 246972,
       "ratingCount": 29,
       "ratingValue": 3.8,
       "category": "Privacy & Security",
@@ -1344,7 +1344,7 @@
     {
       "name": "Twitch Now",
       "url": "https://addons.opera.com/en/extensions/details/twitch-now/",
-      "interactionCount": 240351,
+      "interactionCount": 240587,
       "ratingCount": 116,
       "ratingValue": 4.6,
       "category": "Fun",
@@ -1355,7 +1355,7 @@
     {
       "name": "Обои на сайты",
       "url": "https://addons.opera.com/en/extensions/details/oboi-na-saity/",
-      "interactionCount": 239866,
+      "interactionCount": 239979,
       "ratingCount": 60,
       "ratingValue": 4.3,
       "category": "Social",
@@ -1366,7 +1366,7 @@
     {
       "name": "AliExpress Radar",
       "url": "https://addons.opera.com/en/extensions/details/aliexpress-radar/",
-      "interactionCount": 235174,
+      "interactionCount": 235417,
       "ratingCount": 146,
       "ratingValue": 4.4,
       "category": "Shopping",
@@ -1377,7 +1377,7 @@
     {
       "name": "YouTube HTML5 unblocker",
       "url": "https://addons.opera.com/en/extensions/details/youtube-html5-unblocker/",
-      "interactionCount": 228535,
+      "interactionCount": 228598,
       "ratingCount": 48,
       "ratingValue": 4,
       "category": "Appearance",
@@ -1388,7 +1388,7 @@
     {
       "name": "NoScript Suite Lite",
       "url": "https://addons.opera.com/en/extensions/details/noscript-lite/",
-      "interactionCount": 226447,
+      "interactionCount": 226597,
       "ratingCount": 32,
       "ratingValue": 4.1,
       "category": "Privacy & Security",
@@ -1399,7 +1399,7 @@
     {
       "name": "Скачать музыку vk, mail, ololo, pesni.fm",
       "url": "https://addons.opera.com/en/extensions/details/skachat-muzyku-vk-mail-ololo-pesnifm/",
-      "interactionCount": 221680,
+      "interactionCount": 221721,
       "ratingCount": 6,
       "ratingValue": 3.9,
       "category": "Downloads",
@@ -1410,7 +1410,7 @@
     {
       "name": "About://Internal Pages",
       "url": "https://addons.opera.com/en/extensions/details/opera-internal-pages/",
-      "interactionCount": 220008,
+      "interactionCount": 220011,
       "ratingCount": 145,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1421,7 +1421,7 @@
     {
       "name": "Turbo Download Manager",
       "url": "https://addons.opera.com/en/extensions/details/turbo-download-manager/",
-      "interactionCount": 219027,
+      "interactionCount": 219371,
       "ratingCount": 41,
       "ratingValue": 3.9,
       "category": "Downloads",
@@ -1432,8 +1432,8 @@
     {
       "name": "Side Calculator",
       "url": "https://addons.opera.com/en/extensions/details/side-calculator/",
-      "interactionCount": 218708,
-      "ratingCount": 53,
+      "interactionCount": 219197,
+      "ratingCount": 55,
       "ratingValue": 4,
       "category": "Productivity",
       "image": "https://addons-media.operacdn.com/media/extensions/65/193865/0.7.2-rev1/icons/icon_64x64.png",
@@ -1443,8 +1443,8 @@
     {
       "name": "V7 Bookmarks",
       "url": "https://addons.opera.com/en/extensions/details/v7-bookmarks/",
-      "interactionCount": 217944,
-      "ratingCount": 209,
+      "interactionCount": 218063,
+      "ratingCount": 210,
       "ratingValue": 4.6,
       "category": "Accessibility",
       "image": "https://addons-media.operacdn.com/media/extensions/85/196985/4.7.1-rev1/icons/icon_64x64_7bd1cca993e7c9b83e1727512351acd4.png",
@@ -1454,7 +1454,7 @@
     {
       "name": "Free Avira Phantom VPN - Unblock Websites",
       "url": "https://addons.opera.com/en/extensions/details/free-avira-phantom-vpn-unblock-websites/",
-      "interactionCount": 211127,
+      "interactionCount": 211550,
       "ratingCount": 76,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -1465,7 +1465,7 @@
     {
       "name": "VK-Music Video",
       "url": "https://addons.opera.com/en/extensions/details/vk-music-video/",
-      "interactionCount": 209748,
+      "interactionCount": 209845,
       "ratingCount": 18,
       "ratingValue": 3.5,
       "category": "Social",
@@ -1476,7 +1476,7 @@
     {
       "name": "Stylus",
       "url": "https://addons.opera.com/en/extensions/details/stylus/",
-      "interactionCount": 208737,
+      "interactionCount": 209145,
       "ratingCount": 120,
       "ratingValue": 4.6,
       "category": "Developer Tools",
@@ -1487,7 +1487,7 @@
     {
       "name": "Online Radio",
       "url": "https://addons.opera.com/en/extensions/details/online-radio/",
-      "interactionCount": 206856,
+      "interactionCount": 206924,
       "ratingCount": 104,
       "ratingValue": 4.3,
       "category": "Music",
@@ -1498,7 +1498,7 @@
     {
       "name": "YOUTUBE MP3 DOWNLOADER",
       "url": "https://addons.opera.com/en/extensions/details/youtube-mp3-downloader-4/",
-      "interactionCount": 202961,
+      "interactionCount": 203080,
       "ratingCount": 43,
       "ratingValue": 3.3,
       "category": "Downloads",
@@ -1509,7 +1509,7 @@
     {
       "name": "Open With IDM™ (internet download manager)",
       "url": "https://addons.opera.com/en/extensions/details/open-with-idmtm-internet-download-manager/",
-      "interactionCount": 199174,
+      "interactionCount": 199448,
       "ratingCount": 20,
       "ratingValue": 4.4,
       "category": "Downloads",
@@ -1520,7 +1520,7 @@
     {
       "name": "Qwant for Opera",
       "url": "https://addons.opera.com/en/extensions/details/qwant-for-opera/",
-      "interactionCount": 197754,
+      "interactionCount": 197965,
       "ratingCount": 105,
       "ratingValue": 4.4,
       "category": "Search",
@@ -1531,7 +1531,7 @@
     {
       "name": "BIFIT Signer",
       "url": "https://addons.opera.com/en/extensions/details/bifit-signer/",
-      "interactionCount": 196358,
+      "interactionCount": 196404,
       "ratingCount": 10,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -1542,7 +1542,7 @@
     {
       "name": "Speed-Up Browsing",
       "url": "https://addons.opera.com/en/extensions/details/speed-up-browsing/",
-      "interactionCount": 195350,
+      "interactionCount": 195426,
       "ratingCount": 57,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1553,7 +1553,7 @@
     {
       "name": "FVD Speed Dial - New Tab Page",
       "url": "https://addons.opera.com/en/extensions/details/fvd-speed-dial-new-tab-page/",
-      "interactionCount": 194556,
+      "interactionCount": 194678,
       "ratingCount": 368,
       "ratingValue": 4.6,
       "category": "Productivity",
@@ -1564,7 +1564,7 @@
     {
       "name": "YouTube MP3 Downloader",
       "url": "https://addons.opera.com/en/extensions/details/youtube-mp3-downloader/",
-      "interactionCount": 193227,
+      "interactionCount": 193526,
       "ratingCount": 67,
       "ratingValue": 3.8,
       "category": "Downloads",
@@ -1575,7 +1575,7 @@
     {
       "name": "Помощник диагностики",
       "url": "https://addons.opera.com/en/extensions/details/pomoshchnik-diagnostiki/",
-      "interactionCount": 192338,
+      "interactionCount": 192957,
       "ratingCount": 14,
       "ratingValue": 4.3,
       "category": "Developer Tools",
@@ -1586,18 +1586,18 @@
     {
       "name": "Black Menu for Google™",
       "url": "https://addons.opera.com/en/extensions/details/black-menu-for-googletm/",
-      "interactionCount": 191180,
-      "ratingCount": 164,
+      "interactionCount": 191311,
+      "ratingCount": 165,
       "ratingValue": 4.5,
       "category": "Productivity",
-      "image": "https://addons-media.operacdn.com/media/extensions/25/150225/22.8.3-rev1/icons/icon_64x64_43778ebef9ee88bfedcf45696221fcd6.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/25/150225/22.9.1-rev2/icons/icon_64x64_43778ebef9ee88bfedcf45696221fcd6.png",
       "description": "description",
-      "lastUpdated": "2020-06-14T21:00:00.000Z"
+      "lastUpdated": "2020-07-05T21:00:00.000Z"
     },
     {
       "name": "Image Autosizer",
       "url": "https://addons.opera.com/en/extensions/details/image-autosizer/",
-      "interactionCount": 191003,
+      "interactionCount": 191018,
       "ratingCount": 122,
       "ratingValue": 4.3,
       "category": "Appearance",
@@ -1608,7 +1608,7 @@
     {
       "name": "Smart RSS",
       "url": "https://addons.opera.com/en/extensions/details/smart-rss/",
-      "interactionCount": 190666,
+      "interactionCount": 190749,
       "ratingCount": 232,
       "ratingValue": 4.5,
       "category": "Productivity",
@@ -1619,7 +1619,7 @@
     {
       "name": "Aliexpress Shopping Assistant",
       "url": "https://addons.opera.com/en/extensions/details/aliexpress-shopping-assistant/",
-      "interactionCount": 188567,
+      "interactionCount": 188623,
       "ratingCount": 285,
       "ratingValue": 4.2,
       "category": "Shopping",
@@ -1641,7 +1641,7 @@
     {
       "name": "Set password for your browser ( Opera lock )",
       "url": "https://addons.opera.com/en/extensions/details/set-password-for-your-browser-opera-lock/",
-      "interactionCount": 187226,
+      "interactionCount": 187447,
       "ratingCount": 68,
       "ratingValue": 3.8,
       "category": "Productivity",
@@ -1652,7 +1652,7 @@
     {
       "name": "WebRTC Leak Prevent",
       "url": "https://addons.opera.com/en/extensions/details/webrtc-leak-prevent/",
-      "interactionCount": 185657,
+      "interactionCount": 185764,
       "ratingCount": 15,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -1663,7 +1663,7 @@
     {
       "name": "NoFlash",
       "url": "https://addons.opera.com/en/extensions/details/noflash/",
-      "interactionCount": 180525,
+      "interactionCount": 180575,
       "ratingCount": 14,
       "ratingValue": 4.1,
       "category": "Privacy & Security",
@@ -1674,9 +1674,9 @@
     {
       "name": "Desktop Messenger for Telegram™",
       "url": "https://addons.opera.com/en/extensions/details/telegramtm-desktop/",
-      "interactionCount": 180173,
-      "ratingCount": 39,
-      "ratingValue": 3.6,
+      "interactionCount": 180492,
+      "ratingCount": 40,
+      "ratingValue": 3.5,
       "category": "Social",
       "image": "https://addons-media.operacdn.com/media/extensions/35/198135/0.1.9-rev1/icons/icon_64x64_f5042f40ff9c33329291cd39bf80f39a.png",
       "description": "description",
@@ -1685,9 +1685,9 @@
     {
       "name": "YouTube MP3/MP4 Converter & Downloader",
       "url": "https://addons.opera.com/en/extensions/details/youtube-mp3mp4-converter-downloader/",
-      "interactionCount": 179995,
+      "interactionCount": 180176,
       "ratingCount": 94,
-      "ratingValue": 3.5,
+      "ratingValue": 3.4,
       "category": "Downloads",
       "image": "https://addons-media.operacdn.com/media/extensions/45/231945/2.0-rev1/icons/icon_64x64_17c83897b2c8ff2f13b181e5622dd1fe.png",
       "description": "description",
@@ -1696,7 +1696,7 @@
     {
       "name": "Instagram Downloader",
       "url": "https://addons.opera.com/en/extensions/details/instagram-downloader-2/",
-      "interactionCount": 179511,
+      "interactionCount": 179700,
       "ratingCount": 86,
       "ratingValue": 3.4,
       "category": "Social",
@@ -1707,7 +1707,7 @@
     {
       "name": "Page Translator",
       "url": "https://addons.opera.com/en/extensions/details/page-translator/",
-      "interactionCount": 179148,
+      "interactionCount": 179646,
       "ratingCount": 69,
       "ratingValue": 3.4,
       "category": "Translation",
@@ -1718,7 +1718,7 @@
     {
       "name": "InstaSaver",
       "url": "https://addons.opera.com/en/extensions/details/instasaver/",
-      "interactionCount": 177726,
+      "interactionCount": 177910,
       "ratingCount": 37,
       "ratingValue": 4.1,
       "category": "Social",
@@ -1729,7 +1729,7 @@
     {
       "name": "F.B.(FluffBusting)Purity",
       "url": "https://addons.opera.com/en/extensions/details/fb-purity/",
-      "interactionCount": 177061,
+      "interactionCount": 177154,
       "ratingCount": 214,
       "ratingValue": 4.5,
       "category": "Social",
@@ -1740,8 +1740,8 @@
     {
       "name": "Social Fixer for Facebook",
       "url": "https://addons.opera.com/en/extensions/details/social-fixer-for-facebook/",
-      "interactionCount": 175343,
-      "ratingCount": 112,
+      "interactionCount": 175409,
+      "ratingCount": 113,
       "ratingValue": 4.3,
       "category": "Social",
       "image": "https://addons-media.operacdn.com/media/extensions/95/162995/24.1.0-rev1/icons/icon_64x64_16aa53ed88defaa2c8e6ea9d61821d56.png",
@@ -1751,7 +1751,7 @@
     {
       "name": "Blur: Protect your passwords, payments & privacy",
       "url": "https://addons.opera.com/en/extensions/details/blur-protect-your-passwords-payments-privacy/",
-      "interactionCount": 174418,
+      "interactionCount": 174451,
       "ratingCount": 65,
       "ratingValue": 4.3,
       "category": "Privacy & Security",
@@ -1762,7 +1762,7 @@
     {
       "name": "На понтах",
       "url": "https://addons.opera.com/en/extensions/details/na-pontakh/",
-      "interactionCount": 171097,
+      "interactionCount": 171106,
       "ratingCount": 32,
       "ratingValue": 4.1,
       "category": "Social",
@@ -1773,7 +1773,7 @@
     {
       "name": "Odnoklassniki Download",
       "url": "https://addons.opera.com/en/extensions/details/odnoklassniki-download/",
-      "interactionCount": 169067,
+      "interactionCount": 169112,
       "ratingCount": 26,
       "ratingValue": 3.9,
       "category": "Downloads",
@@ -1782,9 +1782,20 @@
       "lastUpdated": "2013-10-03T20:00:00.000Z"
     },
     {
+      "name": "Download with Free Download Manager (FDM)",
+      "url": "https://addons.opera.com/en/extensions/details/download-with-free-download-manager-fdm/",
+      "interactionCount": 166415,
+      "ratingCount": 48,
+      "ratingValue": 4.1,
+      "category": "Downloads",
+      "image": "https://addons-media.operacdn.com/media/extensions/06/229406/0.1.7-rev1/icons/icon_64x64_a0c38c5ada1dd172f68668bbf982b11f.png",
+      "description": "description",
+      "lastUpdated": "2018-10-25T21:00:00.000Z"
+    },
+    {
       "name": "Youtube Video Downloader - TubeGrabber",
       "url": "https://addons.opera.com/en/extensions/details/youtube-video-downloader-tubegrabber/",
-      "interactionCount": 166298,
+      "interactionCount": 166396,
       "ratingCount": 26,
       "ratingValue": 3.4,
       "category": "Downloads",
@@ -1795,7 +1806,7 @@
     {
       "name": "Flash Player for YouTube™",
       "url": "https://addons.opera.com/en/extensions/details/flash-player-for-youtubetm/",
-      "interactionCount": 166197,
+      "interactionCount": 166239,
       "ratingCount": 16,
       "ratingValue": 4,
       "category": "Music",
@@ -1804,20 +1815,9 @@
       "lastUpdated": "2016-12-04T21:00:00.000Z"
     },
     {
-      "name": "Download with Free Download Manager (FDM)",
-      "url": "https://addons.opera.com/en/extensions/details/download-with-free-download-manager-fdm/",
-      "interactionCount": 166112,
-      "ratingCount": 48,
-      "ratingValue": 4.1,
-      "category": "Downloads",
-      "image": "https://addons-media.operacdn.com/media/extensions/06/229406/0.1.7-rev1/icons/icon_64x64_a0c38c5ada1dd172f68668bbf982b11f.png",
-      "description": "description",
-      "lastUpdated": "2018-10-25T21:00:00.000Z"
-    },
-    {
       "name": "Steam Trader Helper",
       "url": "https://addons.opera.com/en/extensions/details/steam-trader-helper/",
-      "interactionCount": 165623,
+      "interactionCount": 165873,
       "ratingCount": 22,
       "ratingValue": 3.9,
       "category": "Productivity",
@@ -1828,7 +1828,7 @@
     {
       "name": "Gmail Notifier",
       "url": "https://addons.opera.com/en/extensions/details/gmail-notifier-3/",
-      "interactionCount": 164614,
+      "interactionCount": 164839,
       "ratingCount": 61,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1839,7 +1839,7 @@
     {
       "name": "betterBrowser- Browse 15% faster",
       "url": "https://addons.opera.com/en/extensions/details/betterbrowser-browse-15-faster/",
-      "interactionCount": 164100,
+      "interactionCount": 164149,
       "ratingCount": 41,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1850,8 +1850,8 @@
     {
       "name": "Bitwarden - Free Password Manager",
       "url": "https://addons.opera.com/en/extensions/details/bitwarden-free-password-manager/",
-      "interactionCount": 163748,
-      "ratingCount": 299,
+      "interactionCount": 164128,
+      "ratingCount": 300,
       "ratingValue": 4.7,
       "category": "Privacy & Security",
       "image": "https://addons-media.operacdn.com/media/extensions/26/227126/1.44.3-rev1/icons/icon_64x64_83f186b758a216ad8d6a9f9cd08d77df.png",
@@ -1861,7 +1861,7 @@
     {
       "name": "Yandex Music Fisher",
       "url": "https://addons.opera.com/en/extensions/details/yandex-music-fisher/",
-      "interactionCount": 161341,
+      "interactionCount": 161579,
       "ratingCount": 93,
       "ratingValue": 4.5,
       "category": "Downloads",
@@ -1872,7 +1872,7 @@
     {
       "name": "VipIP Plugin",
       "url": "https://addons.opera.com/en/extensions/details/vipip-plugin/",
-      "interactionCount": 161194,
+      "interactionCount": 161197,
       "ratingCount": 24,
       "ratingValue": 4.3,
       "category": "Social",
@@ -1883,7 +1883,7 @@
     {
       "name": "Download Ninja",
       "url": "https://addons.opera.com/en/extensions/details/download-ninja/",
-      "interactionCount": 158299,
+      "interactionCount": 158363,
       "ratingCount": 21,
       "ratingValue": 3.7,
       "category": "Downloads",
@@ -1894,7 +1894,7 @@
     {
       "name": "Ddict",
       "url": "https://addons.opera.com/en/extensions/details/ddict/",
-      "interactionCount": 157224,
+      "interactionCount": 157314,
       "ratingCount": 103,
       "ratingValue": 4.5,
       "category": "Translation",
@@ -1905,7 +1905,7 @@
     {
       "name": "Google Keep Sidebar",
       "url": "https://addons.opera.com/en/extensions/details/google-keep-sidebar/",
-      "interactionCount": 153938,
+      "interactionCount": 154328,
       "ratingCount": 119,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -1916,7 +1916,7 @@
     {
       "name": "Google™ Translator Lite",
       "url": "https://addons.opera.com/en/extensions/details/googletm-translator-lite/",
-      "interactionCount": 153383,
+      "interactionCount": 153539,
       "ratingCount": 61,
       "ratingValue": 4,
       "category": "Translation",
@@ -1927,7 +1927,7 @@
     {
       "name": "APIdog LongPoll",
       "url": "https://addons.opera.com/en/extensions/details/apidog-longpoll/",
-      "interactionCount": 152973,
+      "interactionCount": 153017,
       "ratingCount": 13,
       "ratingValue": 4.1,
       "category": "Social",
@@ -1938,7 +1938,7 @@
     {
       "name": "Bookmarks by the Side",
       "url": "https://addons.opera.com/en/extensions/details/bookmarks-by-the-side/",
-      "interactionCount": 152091,
+      "interactionCount": 152156,
       "ratingCount": 105,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1949,7 +1949,7 @@
     {
       "name": "YouTube™ All Flash® Player",
       "url": "https://addons.opera.com/en/extensions/details/youtubetm-all-flashr-player/",
-      "interactionCount": 149587,
+      "interactionCount": 149622,
       "ratingCount": 12,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -1960,7 +1960,7 @@
     {
       "name": "Night Mode Pro",
       "url": "https://addons.opera.com/en/extensions/details/night-mode-2/",
-      "interactionCount": 149248,
+      "interactionCount": 149356,
       "ratingCount": 56,
       "ratingValue": 4.1,
       "category": "Appearance",
@@ -1971,7 +1971,7 @@
     {
       "name": "Bookmarks",
       "url": "https://addons.opera.com/en/extensions/details/bookmarks-2/",
-      "interactionCount": 147076,
+      "interactionCount": 147119,
       "ratingCount": 87,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -1982,7 +1982,7 @@
     {
       "name": "IP Address & Geolocation",
       "url": "https://addons.opera.com/en/extensions/details/ip-address-geolocation/",
-      "interactionCount": 145697,
+      "interactionCount": 145819,
       "ratingCount": 13,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -1993,7 +1993,7 @@
     {
       "name": "LinguaLeo Translator",
       "url": "https://addons.opera.com/en/extensions/details/lingualeo-translator/",
-      "interactionCount": 143487,
+      "interactionCount": 143518,
       "ratingCount": 75,
       "ratingValue": 3.9,
       "category": "Translation",
@@ -2004,7 +2004,7 @@
     {
       "name": "Скриншотер",
       "url": "https://addons.opera.com/en/extensions/details/skrinshoter/",
-      "interactionCount": 138117,
+      "interactionCount": 138230,
       "ratingCount": 26,
       "ratingValue": 4.1,
       "category": "Social",
@@ -2015,7 +2015,7 @@
     {
       "name": "Block Site",
       "url": "https://addons.opera.com/en/extensions/details/block-site/",
-      "interactionCount": 137645,
+      "interactionCount": 137851,
       "ratingCount": 43,
       "ratingValue": 3.9,
       "category": "Privacy & Security",
@@ -2026,7 +2026,7 @@
     {
       "name": "HideMyAss - Free Web Proxy",
       "url": "https://addons.opera.com/en/extensions/details/hidemyass-free-web-proxy/",
-      "interactionCount": 137433,
+      "interactionCount": 137534,
       "ratingCount": 30,
       "ratingValue": 3.9,
       "category": "Privacy & Security",
@@ -2037,7 +2037,7 @@
     {
       "name": "VK Core",
       "url": "https://addons.opera.com/en/extensions/details/vk-core/",
-      "interactionCount": 136844,
+      "interactionCount": 136869,
       "ratingCount": 40,
       "ratingValue": 4.1,
       "category": "Social",
@@ -2048,7 +2048,7 @@
     {
       "name": "YouTube HD",
       "url": "https://addons.opera.com/en/extensions/details/youtube-hd/",
-      "interactionCount": 134516,
+      "interactionCount": 134590,
       "ratingCount": 32,
       "ratingValue": 4.3,
       "category": "Fun",
@@ -2059,7 +2059,7 @@
     {
       "name": "Open with Google Drive Viewer",
       "url": "https://addons.opera.com/en/extensions/details/gpdf/",
-      "interactionCount": 133290,
+      "interactionCount": 133304,
       "ratingCount": 22,
       "ratingValue": 4,
       "category": "Productivity",
@@ -2070,7 +2070,7 @@
     {
       "name": "Raindrop.io - Smart Bookmarks",
       "url": "https://addons.opera.com/en/extensions/details/raindropio-smart-bookmarks/",
-      "interactionCount": 131347,
+      "interactionCount": 131456,
       "ratingCount": 98,
       "ratingValue": 4,
       "category": "Productivity",
@@ -2081,7 +2081,7 @@
     {
       "name": "User-Agent Switcher",
       "url": "https://addons.opera.com/en/extensions/details/user-agent-switcher-5/",
-      "interactionCount": 131187,
+      "interactionCount": 131340,
       "ratingCount": 27,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -2090,20 +2090,9 @@
       "lastUpdated": "2019-07-14T21:00:00.000Z"
     },
     {
-      "name": "Awesome Screenshot: Capture & Annotate",
-      "url": "https://addons.opera.com/en/extensions/details/awesome-screenshot-capture-annotate/",
-      "interactionCount": 128181,
-      "ratingCount": 66,
-      "ratingValue": 3.7,
-      "category": "Productivity",
-      "image": "https://addons-media.operacdn.com/media/extensions/65/127465/3.4.9-rev2/icons/icon_64x64.png",
-      "description": "description",
-      "lastUpdated": "2016-01-19T21:00:00.000Z"
-    },
-    {
       "name": "Поиск по картинке",
       "url": "https://addons.opera.com/en/extensions/details/poisk-po-kartinke/",
-      "interactionCount": 128149,
+      "interactionCount": 128284,
       "ratingCount": 94,
       "ratingValue": 4.5,
       "category": "Search",
@@ -2112,9 +2101,20 @@
       "lastUpdated": "2020-03-29T21:00:00.000Z"
     },
     {
+      "name": "Awesome Screenshot: Capture & Annotate",
+      "url": "https://addons.opera.com/en/extensions/details/awesome-screenshot-capture-annotate/",
+      "interactionCount": 128257,
+      "ratingCount": 66,
+      "ratingValue": 3.7,
+      "category": "Productivity",
+      "image": "https://addons-media.operacdn.com/media/extensions/65/127465/3.4.9-rev2/icons/icon_64x64.png",
+      "description": "description",
+      "lastUpdated": "2016-01-19T21:00:00.000Z"
+    },
+    {
       "name": "SoundCloud MP3 Downloader",
       "url": "https://addons.opera.com/en/extensions/details/soundcloud-mp3-downloader/",
-      "interactionCount": 126716,
+      "interactionCount": 126876,
       "ratingCount": 49,
       "ratingValue": 4.2,
       "category": "Downloads",
@@ -2123,20 +2123,9 @@
       "lastUpdated": "2017-04-19T21:00:00.000Z"
     },
     {
-      "name": "Yandex Wordstat Assistant",
-      "url": "https://addons.opera.com/en/extensions/details/yandex-wordstat-assistant/",
-      "interactionCount": 125484,
-      "ratingCount": 17,
-      "ratingValue": 4.3,
-      "category": "Productivity",
-      "image": "https://addons-media.operacdn.com/media/extensions/05/208205/1.8.2.3-rev1/icons/icon_64x64_24e71204d246aa791dca83d450f57aff.png",
-      "description": "description",
-      "lastUpdated": "2020-05-24T21:00:00.000Z"
-    },
-    {
       "name": "ColorPicker Eyedropper",
       "url": "https://addons.opera.com/en/extensions/details/colorpicker-eyedropper/",
-      "interactionCount": 125466,
+      "interactionCount": 125667,
       "ratingCount": 33,
       "ratingValue": 4,
       "category": "Productivity",
@@ -2145,9 +2134,20 @@
       "lastUpdated": "2018-11-15T21:00:00.000Z"
     },
     {
+      "name": "Yandex Wordstat Assistant",
+      "url": "https://addons.opera.com/en/extensions/details/yandex-wordstat-assistant/",
+      "interactionCount": 125574,
+      "ratingCount": 17,
+      "ratingValue": 4.3,
+      "category": "Productivity",
+      "image": "https://addons-media.operacdn.com/media/extensions/05/208205/1.8.2.3-rev1/icons/icon_64x64_24e71204d246aa791dca83d450f57aff.png",
+      "description": "description",
+      "lastUpdated": "2020-05-24T21:00:00.000Z"
+    },
+    {
       "name": "Vkontakte Music Downloader v4",
       "url": "https://addons.opera.com/en/extensions/details/vkontakte-music-downloader-v4/",
-      "interactionCount": 123568,
+      "interactionCount": 123605,
       "ratingCount": 22,
       "ratingValue": 3.9,
       "category": "Downloads",
@@ -2158,7 +2158,7 @@
     {
       "name": "Seesu Music",
       "url": "https://addons.opera.com/en/extensions/details/seesu-music/",
-      "interactionCount": 123053,
+      "interactionCount": 123090,
       "ratingCount": 218,
       "ratingValue": 4.5,
       "category": "Music",
@@ -2169,7 +2169,7 @@
     {
       "name": "Scroll To Top",
       "url": "https://addons.opera.com/en/extensions/details/scroll-to-top/",
-      "interactionCount": 122858,
+      "interactionCount": 122882,
       "ratingCount": 103,
       "ratingValue": 4.5,
       "category": "Productivity",
@@ -2180,7 +2180,7 @@
     {
       "name": "Search in YouTube",
       "url": "https://addons.opera.com/en/extensions/details/search-in-youtube/",
-      "interactionCount": 121885,
+      "interactionCount": 121936,
       "ratingCount": 44,
       "ratingValue": 4.3,
       "category": "Search",
@@ -2191,7 +2191,7 @@
     {
       "name": "SoundCloud Button",
       "url": "https://addons.opera.com/en/extensions/details/soundcloud-button/",
-      "interactionCount": 121084,
+      "interactionCount": 121131,
       "ratingCount": 85,
       "ratingValue": 4.5,
       "category": "Music",
@@ -2202,7 +2202,7 @@
     {
       "name": "Reader View",
       "url": "https://addons.opera.com/en/extensions/details/reader-view-2/",
-      "interactionCount": 119479,
+      "interactionCount": 119632,
       "ratingCount": 118,
       "ratingValue": 4.6,
       "category": "Accessibility",
@@ -2213,7 +2213,7 @@
     {
       "name": "VK Audiopad",
       "url": "https://addons.opera.com/en/extensions/details/vk-audiopad/",
-      "interactionCount": 119327,
+      "interactionCount": 119363,
       "ratingCount": 37,
       "ratingValue": 4.2,
       "category": "Music",
@@ -2224,9 +2224,9 @@
     {
       "name": "RDS bar",
       "url": "https://addons.opera.com/en/extensions/details/rds-bar/",
-      "interactionCount": 118583,
+      "interactionCount": 118608,
       "ratingCount": 51,
-      "ratingValue": 4.4,
+      "ratingValue": 4.3,
       "category": "Developer Tools",
       "image": "https://addons-media.operacdn.com/media/extensions/13/6213/5.2018.105.115-rev1/icons/icon_64x64_9976bee9ec880dfc4ce67cdd022a99fb.png",
       "description": "description",
@@ -2235,8 +2235,8 @@
     {
       "name": "Яндекс.Советник",
       "url": "https://addons.opera.com/en/extensions/details/metabarsovetnik/",
-      "interactionCount": 117876,
-      "ratingCount": 57,
+      "interactionCount": 117950,
+      "ratingCount": 58,
       "ratingValue": 4,
       "category": "Shopping",
       "image": "https://addons-media.operacdn.com/media/extensions/65/168165/3.1.17.70-rev1/icons/icon_64x64_e19134d3dcd417e2ccad404d0ceb5223.png",
@@ -2246,7 +2246,7 @@
     {
       "name": "uMatrix",
       "url": "https://addons.opera.com/en/extensions/details/umatrix/",
-      "interactionCount": 117612,
+      "interactionCount": 117723,
       "ratingCount": 51,
       "ratingValue": 4.5,
       "category": "Privacy & Security",
@@ -2257,7 +2257,7 @@
     {
       "name": "Joxi Full Page Screen Capture",
       "url": "https://addons.opera.com/en/extensions/details/joxi-full-page-screen-capture/",
-      "interactionCount": 116193,
+      "interactionCount": 116308,
       "ratingCount": 43,
       "ratingValue": 4.1,
       "category": "Accessibility",
@@ -2268,7 +2268,7 @@
     {
       "name": "SimpleClear",
       "url": "https://addons.opera.com/en/extensions/details/simpleclear/",
-      "interactionCount": 115693,
+      "interactionCount": 115755,
       "ratingCount": 37,
       "ratingValue": 4.3,
       "category": "Privacy & Security",
@@ -2279,7 +2279,7 @@
     {
       "name": "Dark Theme for YouTube™",
       "url": "https://addons.opera.com/en/extensions/details/youtubetm-dark/",
-      "interactionCount": 112083,
+      "interactionCount": 112243,
       "ratingCount": 28,
       "ratingValue": 4.2,
       "category": "Appearance",
@@ -2290,7 +2290,7 @@
     {
       "name": "TV Online RUS",
       "url": "https://addons.opera.com/en/extensions/details/tv-online-rus/",
-      "interactionCount": 111690,
+      "interactionCount": 111710,
       "ratingCount": 44,
       "ratingValue": 3.8,
       "category": "Fun",
@@ -2312,7 +2312,7 @@
     {
       "name": "Classic Tabs",
       "url": "https://addons.opera.com/en/extensions/details/classic-tabs/",
-      "interactionCount": 110717,
+      "interactionCount": 110754,
       "ratingCount": 118,
       "ratingValue": 4.2,
       "category": "Productivity",
@@ -2323,7 +2323,7 @@
     {
       "name": "FS DOWNLOADER",
       "url": "https://addons.opera.com/en/extensions/details/fs-downloader/",
-      "interactionCount": 107979,
+      "interactionCount": 108026,
       "ratingCount": 21,
       "ratingValue": 3.8,
       "category": "Downloads",
@@ -2332,20 +2332,9 @@
       "lastUpdated": "2013-10-07T20:00:00.000Z"
     },
     {
-      "name": "IP Domain Flag",
-      "url": "https://addons.opera.com/en/extensions/details/ip-domain-flag/",
-      "interactionCount": 107793,
-      "ratingCount": 36,
-      "ratingValue": 4.3,
-      "category": "Productivity",
-      "image": "https://addons-media.operacdn.com/media/extensions/45/137945/0.1.6-rev1/icons/icon_64x64.png",
-      "description": "description",
-      "lastUpdated": "2015-10-20T21:00:00.000Z"
-    },
-    {
       "name": "SimilarWeb",
       "url": "https://addons.opera.com/en/extensions/details/similarweb/",
-      "interactionCount": 107785,
+      "interactionCount": 107836,
       "ratingCount": 30,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -2354,9 +2343,20 @@
       "lastUpdated": "2019-11-20T21:00:00.000Z"
     },
     {
+      "name": "IP Domain Flag",
+      "url": "https://addons.opera.com/en/extensions/details/ip-domain-flag/",
+      "interactionCount": 107830,
+      "ratingCount": 36,
+      "ratingValue": 4.3,
+      "category": "Productivity",
+      "image": "https://addons-media.operacdn.com/media/extensions/45/137945/0.1.6-rev1/icons/icon_64x64.png",
+      "description": "description",
+      "lastUpdated": "2015-10-20T21:00:00.000Z"
+    },
+    {
       "name": "Flash-Radio",
       "url": "https://addons.opera.com/en/extensions/details/flash-radio/",
-      "interactionCount": 107376,
+      "interactionCount": 107403,
       "ratingCount": 40,
       "ratingValue": 4.3,
       "category": "Music",
@@ -2367,18 +2367,18 @@
     {
       "name": "SeoQuake extension",
       "url": "https://addons.opera.com/en/extensions/details/seoquake-extension/",
-      "interactionCount": 107156,
+      "interactionCount": 107203,
       "ratingCount": 26,
       "ratingValue": 4.2,
       "category": "Developer Tools",
-      "image": "https://addons-media.operacdn.com/media/extensions/25/10025/3.8.1-rev1/icons/icon_64x64_8ee44dd34af7d40d4360e0abca6ff3ed.png",
+      "image": "https://addons-media.operacdn.com/media/extensions/25/10025/3.8.4-rev1/icons/icon_64x64_8ee44dd34af7d40d4360e0abca6ff3ed.png",
       "description": "description",
-      "lastUpdated": "2020-03-15T21:00:00.000Z"
+      "lastUpdated": "2020-07-06T21:00:00.000Z"
     },
     {
       "name": "vPause",
       "url": "https://addons.opera.com/en/extensions/details/vpause/",
-      "interactionCount": 106955,
+      "interactionCount": 106976,
       "ratingCount": 46,
       "ratingValue": 4.4,
       "category": "Music",
@@ -2389,7 +2389,7 @@
     {
       "name": "YouTube™ use Flash Player",
       "url": "https://addons.opera.com/en/extensions/details/youtubetm-use-flash-player/",
-      "interactionCount": 106166,
+      "interactionCount": 106199,
       "ratingCount": 10,
       "ratingValue": 4.1,
       "category": "Music",
@@ -2400,7 +2400,7 @@
     {
       "name": "Anti-Porn PoliceWEB.net",
       "url": "https://addons.opera.com/en/extensions/details/policewebnet/",
-      "interactionCount": 105017,
+      "interactionCount": 105066,
       "ratingCount": 39,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -2411,7 +2411,7 @@
     {
       "name": "PasswordBox - Free Password Vault",
       "url": "https://addons.opera.com/en/extensions/details/passwordbox-free-password-vault/",
-      "interactionCount": 104832,
+      "interactionCount": 104838,
       "ratingCount": 40,
       "ratingValue": 4.2,
       "category": "Privacy & Security",
@@ -2422,7 +2422,7 @@
     {
       "name": "EverSync - Sync dials, backup dials",
       "url": "https://addons.opera.com/en/extensions/details/eversync-sync-dials-backup-dials/",
-      "interactionCount": 104391,
+      "interactionCount": 104533,
       "ratingCount": 84,
       "ratingValue": 4.3,
       "category": "Productivity",
@@ -2433,7 +2433,7 @@
     {
       "name": "AdBlocker for Facebook™",
       "url": "https://addons.opera.com/en/extensions/details/adblock-for-facebooktm/",
-      "interactionCount": 103758,
+      "interactionCount": 103811,
       "ratingCount": 22,
       "ratingValue": 3.4,
       "category": "Social",
