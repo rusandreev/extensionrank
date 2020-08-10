@@ -41,13 +41,13 @@ function Extension(props) {
           <MobileTitle>Reviews:</MobileTitle>
           {isNaN(ratings) ? '-' : ratings.toLocaleString('ru-RU')}
         </RatingCount>
-        <RatingValue>
+        {/* <RatingValue>
           <MobileTitle>Stars:</MobileTitle>
           {isNaN(ratingValue) ? '-' : parseFloat(ratingValue).toPrecision(2)}
         </RatingValue>
         {platform !== SHOPS.SHOPIFY && <LastUpdated>
           {timeSince(lastUpdated) + ' ago'}
-        </LastUpdated>}
+        </LastUpdated>} */}
       </DataWrapper>
     </ExtensionWrapper>
   );

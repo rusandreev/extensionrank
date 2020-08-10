@@ -41,12 +41,12 @@ function ExtensionList({ platform, count, onShowMore }) {
           <Reviews>
             Reviews
           </Reviews>
-          <Stars>
+          {/* <Stars>
             Stars
           </Stars>
           {platform !== SHOPS.SHOPIFY && <LastUpdated>
             Last Updated
-          </LastUpdated>}
+          </LastUpdated>} */}
         </ExtensionsHeader>
         {extensions.slice(0, count).map((ext, index) => {
             return (
@@ -54,7 +54,7 @@ function ExtensionList({ platform, count, onShowMore }) {
             )
         })}
       </ExtensionsWrapper>
-      {extensions.length > count && <ShowMoreButton onClick={() => onShowMore()}>Show more</ShowMoreButton>}
+      {/* {extensions.length > count && <ShowMoreButton onClick={() => onShowMore()}>Show more</ShowMoreButton>} */}
     </Wrapper>
   );
 }
