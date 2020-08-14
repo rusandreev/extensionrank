@@ -27,6 +27,8 @@ function Header() {
             <Link to="/vscode">Text editors</Link>
             <Link to="/figma">Design tools</Link>
           </Menu> */}
+          
+            <a class="gumroad-button" href="https://gum.co/IJweS">Buy my product</a>
           </HeaderContainer>
         </Container>
     </HeaderWrapper>
