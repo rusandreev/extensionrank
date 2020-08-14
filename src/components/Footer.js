@@ -22,6 +22,7 @@ function Footer() {
                 alt="Extension Rank - Discover extensions for Chrome, Firefox and  Opera browsers | Product Hunt Embed" 
                 style={{width: '250px', height: '54px'}} />
             </a> */}
+            <a class="gumroad-button" href="https://gum.co/IJweS">Get Access to ExtensionRank Pro</a>
           </FooterContainer>
             
         </Container>
