@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 import { BROWSERS } from './constants/common';
 import Content from './components/Content';
 import Home from './pages/Home';
+import ThanksPage from './components/ThanksPage';
 
 const MIN_COUNT = 100;
 
@@ -62,9 +63,13 @@ class App extends React.Component {
         <Header />
         <Container>
           <Switch>
+          <Route path="/thanks">
+            <ThanksPage />
+          </Route>
           <Route path="/:platform">
             <Content onShowMore={this.onShowMore} count={count} />
           </Route>
+          
           <Redirect to="/chrome" />
           {/* <Route exact path="/">
             <Home />
