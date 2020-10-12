@@ -28,7 +28,6 @@ function Header() {
             <Link to="/figma">Design tools</Link>
           </Menu> */}
           
-            <a class="gumroad-button" href="https://gum.co/IJweS">Get Access to ExtensionRank Pro</a>
           </HeaderContainer>
         </Container>
     </HeaderWrapper>
